@@ -1,0 +1,1 @@
+org jhotdraw draw org jhotdraw geom geom org jhotdraw util java awt java awt geom org jhotdraw draw attribute key ellipse figure attribute figure ellipse2 d ellipse ellipse figure 0 0 0 0 ellipse figure x y width height ellipse ellipse2 d x y width height set attribute enable t e x t c o l o r false 

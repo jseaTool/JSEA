@@ -1,0 +1,1 @@
+org jhotdraw draw java bean drawing view bean info simple bean info 

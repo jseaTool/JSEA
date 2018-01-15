@@ -1,0 +1,1 @@
+type utility type similar sequence elementwise accuracy truth predict accuracy 0 truth size predict size 0 predict size i++ logger fine accuracy ref +reference output get + viterbi +output get truth get equal predict get accuracy++ accuracy predict size 

@@ -1,0 +1,1 @@
+org jhotdraw sample svg java bean s v g panel bean info simple bean info 

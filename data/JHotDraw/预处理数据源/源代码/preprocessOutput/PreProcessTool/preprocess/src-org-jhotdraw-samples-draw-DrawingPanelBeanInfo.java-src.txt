@@ -1,0 +1,1 @@
+org jhotdraw sample draw java bean drawing panel bean info simple bean info 

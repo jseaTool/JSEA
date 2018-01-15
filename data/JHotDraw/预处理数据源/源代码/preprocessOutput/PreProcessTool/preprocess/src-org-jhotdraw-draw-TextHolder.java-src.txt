@@ -1,0 +1,1 @@
+org jhotdraw draw org jhotdraw util java awt org jhotdraw geom text holder figure is editable font get font color get text color color get fill color text holder get label get tab size string get text set text string text get text column set font size size get font size insets2 d get inset 

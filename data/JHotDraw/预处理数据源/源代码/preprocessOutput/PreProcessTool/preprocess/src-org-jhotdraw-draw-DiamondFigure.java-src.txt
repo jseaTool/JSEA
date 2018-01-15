@@ -1,0 +1,1 @@
+org jhotdraw draw java awt java awt geom java io java util org jhotdraw draw attribute key org jhotdraw geom geom org omg c o r b a m a r s h a l diamond figure attribute figure attribute key i s q u a d r a t i c attribute key is quadratic false rectangle2 d rectangle diamond figure 0 0 0 0 diamond figure x y width height rectangle rectangle2 d x y width height 

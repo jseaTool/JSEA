@@ -1,0 +1,1 @@
+org jhotdraw draw javax swing java awt java awt geom java awt event floating text field j text field edit widget drawing view view floating text field edit widget j text field 20 create overlay drawing view view create overlay view null request focus edit widget request focus create overlay drawing view view text holder figure 

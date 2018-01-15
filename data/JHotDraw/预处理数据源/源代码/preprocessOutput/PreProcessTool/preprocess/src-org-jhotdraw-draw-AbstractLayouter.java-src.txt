@@ -1,0 +1,1 @@
+org jhotdraw draw org jhotdraw util java awt org jhotdraw geom layout layout insets2 d get inset figure child insets2 d value insets2 d child get attribute composite figure l a y o u t i n s e t s value null ? insets2 d 0 0 0 0 insets2 d value clone 

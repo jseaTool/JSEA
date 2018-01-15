@@ -1,0 +1,1 @@
+locale util 1 0 22 mai 2006 1996 2006 it contributor disclose accordance util util locale util provide set get wrapper util locale order overcome security restriction prevent applet using their own locale 1 0 22 mai 2006 create locale util locale locale create instance locale util set locale value locale value locale get locale ? locale get locale 

@@ -1,0 +1,1 @@
+org jhotdraw app editable component copy cut delete paste duplicate select all 

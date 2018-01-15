@@ -1,0 +1,1 @@
+2003 univ dept part m l l e t m achine learning languag e toolkit 1 0 information see ` l e n e utility didn t seem belong anywhere create tue mar 30 14 29 57 2004 charles sutton $ util v 1 1 2007 10 22 21 37 58 $ util util instance name obj classname obj get get name dotidx classname last index shortname classname substring dotidx+1 shortname util 

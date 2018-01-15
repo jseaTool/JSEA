@@ -1,0 +1,1 @@
+org jhotdraw draw java awt java awt geom java io java util org jhotdraw draw attribute key org jhotdraw geom geom rectangle figure attribute figure rectangle2 d rectangle rectangle figure 0 0 0 0 rectangle figure x y width height rectangle rectangle2 d x y width height 

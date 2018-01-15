@@ -1,0 +1,1 @@
+drawing listener java util event listener area invalidate drawing event nbsp e figure add drawing event nbsp e figure remove drawing event nbsp e all superinterface java util event listener all know implement drawing view drawing listener java util event listener sent when an area of the drawing need to be repaint sent when a figure wa add sent when a figure wa remove 

@@ -1,0 +1,1 @@
+org jhotdraw xml dom factory string get name dom storable o object create string name string get name o string get value o create string name string value 

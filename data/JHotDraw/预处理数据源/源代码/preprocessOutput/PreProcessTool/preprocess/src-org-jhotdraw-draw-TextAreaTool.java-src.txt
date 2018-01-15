@@ -1,0 +1,1 @@
+org jhotdraw draw org jhotdraw util java awt java awt geom java awt event javax swing event java util org jhotdraw geom text area tool creation tool action listener floating text area text area text holder typing target text area tool text holder prototype super prototype deactivate drawing editor editor end edit super deactivate editor mouse press mouse event e 

@@ -1,0 +1,1 @@
+logging log record log message write place newline message head user terminal progress message log record log record progress message log record log record log record log record get level log record get message 

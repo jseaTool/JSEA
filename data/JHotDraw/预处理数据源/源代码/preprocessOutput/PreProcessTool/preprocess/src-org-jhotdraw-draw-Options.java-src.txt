@@ -1,0 +1,1 @@
+org jhotdraw draw option option is fractional metric true is text antialias true 

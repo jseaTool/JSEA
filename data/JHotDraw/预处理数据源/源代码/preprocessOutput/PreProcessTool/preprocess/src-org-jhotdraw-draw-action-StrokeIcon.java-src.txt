@@ -1,0 +1,1 @@
+org jhotdraw draw action java awt javax swing stroke icon javax swing icon stroke stroke stroke icon stroke stroke stroke stroke get icon height 12 get icon width 40 paint icon java awt component c java awt graphic gr x y graphics2 d g graphics2 d gr g set stroke stroke g set color color black g draw line x y + get icon height 2 x + get icon width y + get icon height 2 

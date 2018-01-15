@@ -1,0 +1,1 @@
+java lang object org jhotdraw xml dom factory org jhotdraw sample draw draw figure factory draw figure factory dom factory draw figure factory all implement dom factory draw figure factory dom factory create a instance 

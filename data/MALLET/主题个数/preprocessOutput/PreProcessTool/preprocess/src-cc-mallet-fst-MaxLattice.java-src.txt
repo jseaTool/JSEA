@@ -1,0 +1,1 @@
+type transducer implement viterbi algorithm finding best input max lattice get delta input position index best output best output sequence n best best sequence n transducer get transducer elementwise accuracy reference output 

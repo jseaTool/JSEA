@@ -1,0 +1,1 @@
+org jhotdraw draw org jhotdraw util java awt java awt event java awt geom java util javax swing undo java io org jhotdraw draw attribute key org jhotdraw geom org jhotdraw xml dom input org jhotdraw xml dom output bezi figure attribute figure attribute key c l o s e d attribute key close false bezi path path bezi path cap path bezi figure false bezi figure is close 

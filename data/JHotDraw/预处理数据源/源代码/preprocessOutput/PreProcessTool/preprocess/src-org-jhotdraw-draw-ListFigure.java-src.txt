@@ -1,0 +1,1 @@
+org jhotdraw draw java awt java util org jhotdraw geom org jhotdraw draw attribute key list figureextend list figure null list figure figure presentation figure super presentation figure set layout vertical layout l a y o u t i n s e t s set insets2 d 4 8 4 8 

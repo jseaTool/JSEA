@@ -1,0 +1,1 @@
+org jhotdraw sample svg org jhotdraw draw org jhotdraw draw action org jhotdraw util java awt java awt geom java awt event java io java net java util javax swing javax swing event netscape javascript org jhotdraw xml s v g live connect applet j applet string v e r s i o n 0 44 string n a m e s v g draw init 

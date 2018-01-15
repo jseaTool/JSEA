@@ -1,0 +1,1 @@
+org jhotdraw draw java awt java util handle event event object rectangle invalidate area handle event handle src rectangle invalidate area super src invalidate area invalidate area handle get handle handle get source rectangle get invalidate area invalidate area 

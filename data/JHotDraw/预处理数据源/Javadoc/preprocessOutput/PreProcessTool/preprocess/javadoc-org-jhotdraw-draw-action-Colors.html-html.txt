@@ -1,0 +1,1 @@
+java lang object org jhotdraw draw action color color java lang object java awt color shadow java awt color nbsp c nbsp amount color java lang object blacken the specify color by casting a black shadow of the specify amount on the color 

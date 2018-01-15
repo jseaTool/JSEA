@@ -1,0 +1,1 @@
+option g u i utility j edit icon theme build tango classic build name build get j edit get property icon theme tango set name g u i utility set icon path jeditresource icon theme + name + j edit set property icon theme name 

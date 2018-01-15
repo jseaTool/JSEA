@@ -1,0 +1,1 @@
+org jhotdraw geom java awt java awt geom java awt font grow stroke stroke grow grow stroke grow miter limit super grow 2 1f basic stroke c a p s q u a r e basic stroke j o i n b e v e l miter limit null 0f grow grow shape create stroke shape shape s 

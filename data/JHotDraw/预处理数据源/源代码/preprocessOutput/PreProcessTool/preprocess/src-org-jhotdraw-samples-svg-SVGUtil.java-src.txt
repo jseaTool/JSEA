@@ -1,0 +1,1 @@
+org jhotdraw sample svg java awt color java awt geom java io java util javax swing org jhotdraw draw org jhotdraw geom org jhotdraw sample svg figure org jhotdraw xml org jhotdraw draw attribute key s v g util color i n h e r i t c o l o r color 0xffff00 color c u r r e n t c o l o r color 0xffff00 map string color s v g c o l o r s 

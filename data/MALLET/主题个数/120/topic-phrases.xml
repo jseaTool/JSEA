@@ -1,0 +1,2643 @@
+<?xml version='1.0' ?>
+<topics>
+  <topic id="0" alpha="0.05571217436681962" totalTokens="2747" titles="logger info, logger logger logger logger, logger fine, logging logger, size, add, warning, type, stack, starting">
+	<word weight="0.5092828540225701" count="1399">logger</word>
+	<word weight="0.1503458318165271" count="413">info</word>
+	<word weight="0.057153258099745176" count="157">logging</word>
+	<word weight="0.05387695668001456" count="148">size</word>
+	<word weight="0.04004368401892974" count="110">fine</word>
+	<word weight="0.017109574080815437" count="47">add</word>
+	<word weight="0.015289406625409537" count="42">warning</word>
+	<word weight="0.011285038223516564" count="31">type</word>
+	<word weight="0.009100837277029487" count="25">stack</word>
+	<word weight="0.008736803785948308" count="24">starting</word>
+	<phrase weight="0.3752535496957404" count="185">logger info</phrase>
+	<phrase weight="0.1440162271805274" count="71">logger logger logger logger</phrase>
+	<phrase weight="0.12170385395537525" count="60">logger fine</phrase>
+	<phrase weight="0.10953346855983773" count="54">logger logger logger</phrase>
+	<phrase weight="0.07505070993914807" count="37">logging logger</phrase>
+	<phrase weight="0.036511156186612576" count="18">logger warning</phrase>
+	<phrase weight="0.028397565922920892" count="14">stack trace</phrase>
+	<phrase weight="0.018255578093306288" count="9">logger logger</phrase>
+	<phrase weight="0.006085192697768763" count="3">logging logger logging</phrase>
+	<phrase weight="0.006085192697768763" count="3">logger info starting</phrase>
+  </topic>
+  <topic id="1" alpha="0.0055373121710161005" totalTokens="848" titles="page, swap, centroid, current, memory, pipe, poisson, num, size, averge">
+	<word weight="0.2099056603773585" count="178">page</word>
+	<word weight="0.07665094339622641" count="65">swap</word>
+	<word weight="0.07429245283018868" count="63">centroid</word>
+	<word weight="0.0625" count="53">current</word>
+	<word weight="0.055424528301886794" count="47">memory</word>
+	<word weight="0.03891509433962264" count="33">pipe</word>
+	<word weight="0.03537735849056604" count="30">poisson</word>
+	<word weight="0.0330188679245283" count="28">num</word>
+	<word weight="0.030660377358490566" count="26">size</word>
+	<word weight="0.02830188679245283" count="24">averge</word>
+	<phrase weight="0.08982035928143713" count="15">centroid averge</phrase>
+	<phrase weight="0.0658682634730539" count="11">poisson lambda</phrase>
+	<phrase weight="0.03592814371257485" count="6">memory page</phrase>
+	<phrase weight="0.029940119760479042" count="5">centroid centroid</phrase>
+	<phrase weight="0.029940119760479042" count="5">dirichlet centroid</phrase>
+	<phrase weight="0.023952095808383235" count="4">poisson lamba</phrase>
+	<phrase weight="0.023952095808383235" count="4">poisson lamba num</phrase>
+	<phrase weight="0.017964071856287425" count="3">page page</phrase>
+	<phrase weight="0.017964071856287425" count="3">page swap</phrase>
+	<phrase weight="0.011976047904191617" count="2">size poisson lambda</phrase>
+  </topic>
+  <topic id="2" alpha="0.008867077342987072" totalTokens="788" titles="entry, lock, ret, lookup, stop, growth, read, alphabet, real, unlock">
+	<word weight="0.2436548223350254" count="192">entry</word>
+	<word weight="0.15355329949238578" count="121">lock</word>
+	<word weight="0.06598984771573604" count="52">ret</word>
+	<word weight="0.03680203045685279" count="29">lookup</word>
+	<word weight="0.03426395939086294" count="27">stop</word>
+	<word weight="0.03299492385786802" count="26">growth</word>
+	<word weight="0.03299492385786802" count="26">read</word>
+	<word weight="0.02918781725888325" count="23">alphabet</word>
+	<word weight="0.024111675126903553" count="19">real</word>
+	<word weight="0.021573604060913704" count="17">unlock</word>
+	<phrase weight="0.05755395683453238" count="8">lock lock</phrase>
+	<phrase weight="0.04316546762589928" count="6">lock unlock</phrase>
+	<phrase weight="0.03597122302158273" count="5">entry entry</phrase>
+	<phrase weight="0.02877697841726619" count="4">ret lookup</phrase>
+	<phrase weight="0.02877697841726619" count="4">entry lookup</phrase>
+	<phrase weight="0.02877697841726619" count="4">concurrent concurrent</phrase>
+	<phrase weight="0.02158273381294964" count="3">growth stop</phrase>
+	<phrase weight="0.02158273381294964" count="3">deserializ entry</phrase>
+	<phrase weight="0.02158273381294964" count="3">entry lock</phrase>
+	<phrase weight="0.02158273381294964" count="3">present ret</phrase>
+  </topic>
+  <topic id="3" alpha="0.006174595697889077" totalTokens="557" titles="entropy, scaling, gamma, regularization, factor, expectation, parser, term, compute, ">
+	<word weight="0.1813285457809695" count="101">entropy</word>
+	<word weight="0.10771992818671454" count="60">scaling</word>
+	<word weight="0.06642728904847396" count="37">gamma</word>
+	<word weight="0.03949730700179533" count="22">regularization</word>
+	<word weight="0.03231597845601436" count="18">factor</word>
+	<word weight="0.026929982046678635" count="15">expectation</word>
+	<word weight="0.02333931777378815" count="13">parser</word>
+	<word weight="0.02333931777378815" count="13">term</word>
+	<word weight="0.02333931777378815" count="13">reg</word>
+	<word weight="0.02333931777378815" count="13">compute</word>
+	<phrase weight="0.0975609756097561" count="8">entropy regularization</phrase>
+	<phrase weight="0.036585365853658534" count="3">reg scaling factor</phrase>
+	<phrase weight="0.036585365853658534" count="3">scaling factor</phrase>
+	<phrase weight="0.036585365853658534" count="3">constr entropy</phrase>
+	<phrase weight="0.036585365853658534" count="3">entropy entropy</phrase>
+	<phrase weight="0.024390243902439025" count="2">gideon mann</phrase>
+	<phrase weight="0.024390243902439025" count="2">cov term</phrase>
+	<phrase weight="0.024390243902439025" count="2">entropy reg</phrase>
+	<phrase weight="0.012195121951219513" count="1">factor entropy regularization term jiao gamma gamma entropy</phrase>
+	<phrase weight="0.012195121951219513" count="1">run subsequence</phrase>
+  </topic>
+  <topic id="4" alpha="0.02105200697849617" totalTokens="2847" titles="location loc, num location, index, length, vector, factor, ret, infinite, max, ">
+	<word weight="0.24025289778714437" count="684">location</word>
+	<word weight="0.1373375482964524" count="391">index</word>
+	<word weight="0.08008429926238145" count="228">length</word>
+	<word weight="0.07692307692307693" count="219">loc</word>
+	<word weight="0.06146821215314366" count="175">num</word>
+	<word weight="0.0593607305936073" count="169">vector</word>
+	<word weight="0.03582718651211802" count="102">factor</word>
+	<word weight="0.033368458025992274" count="95">ret</word>
+	<word weight="0.02845100105374078" count="81">infinite</word>
+	<word weight="0.02528977871443625" count="72">max</word>
+	<phrase weight="0.0892018779342723" count="38">location loc</phrase>
+	<phrase weight="0.07981220657276995" count="34">num location</phrase>
+	<phrase weight="0.046948356807511735" count="20">index location</phrase>
+	<phrase weight="0.04460093896713615" count="19">location location</phrase>
+	<phrase weight="0.035211267605633804" count="15">loc loc</phrase>
+	<phrase weight="0.018779342723004695" count="8">infinite infinite</phrase>
+	<phrase weight="0.018779342723004695" count="8">location index</phrase>
+	<phrase weight="0.011737089201877934" count="5">index location loc</phrase>
+	<phrase weight="0.011737089201877934" count="5">index length</phrase>
+	<phrase weight="0.009389671361502348" count="4">length ret</phrase>
+  </topic>
+  <topic id="5" alpha="0.03393252475732682" totalTokens="2653" titles="count count, alphabet, total, feature, type, lookup, title, phrase, increment, bigram">
+	<word weight="0.6049754994346024" count="1605">count</word>
+	<word weight="0.0840557859027516" count="223">alphabet</word>
+	<word weight="0.05352431209950999" count="142">total</word>
+	<word weight="0.04937806257067471" count="131">feature</word>
+	<word weight="0.04033169996230682" count="107">type</word>
+	<word weight="0.02600829249905767" count="69">lookup</word>
+	<word weight="0.014323407463249152" count="38">title</word>
+	<word weight="0.01206181681115718" count="32">phrase</word>
+	<word weight="0.008669430833019224" count="23">increment</word>
+	<word weight="0.008292499057670561" count="22">bigram</word>
+	<phrase weight="0.2751322751322751" count="52">count count</phrase>
+	<phrase weight="0.07936507936507936" count="15">alphabet lookup</phrase>
+	<phrase weight="0.047619047619047616" count="9">count count count</phrase>
+	<phrase weight="0.037037037037037035" count="7">alphabet alphabet</phrase>
+	<phrase weight="0.031746031746031744" count="6">title title</phrase>
+	<phrase weight="0.026455026455026454" count="5">feature feature</phrase>
+	<phrase weight="0.021164021164021163" count="4">increment count</phrase>
+	<phrase weight="0.021164021164021163" count="4">count time</phrase>
+	<phrase weight="0.021164021164021163" count="4">count feature count</phrase>
+	<phrase weight="0.015873015873015872" count="3">count type</phrase>
+  </topic>
+  <topic id="6" alpha="0.005877810381604282" totalTokens="3707" titles="feature selection, cache, num, gradient, instance, prior, training, logger, classifier, ">
+	<word weight="0.13892635554356622" count="515">feature</word>
+	<word weight="0.05934718100890208" count="220">cache</word>
+	<word weight="0.050445103857566766" count="187">num</word>
+	<word weight="0.04639870515241435" count="172">gradient</word>
+	<word weight="0.04424062584299973" count="164">selection</word>
+	<word weight="0.042622066360938765" count="158">instance</word>
+	<word weight="0.03749662800107904" count="139">prior</word>
+	<word weight="0.0361478284326949" count="134">training</word>
+	<word weight="0.03560830860534125" count="132">logger</word>
+	<word weight="0.032371189641219315" count="120">classifier</word>
+	<phrase weight="0.037037037037037035" count="28">feature selection</phrase>
+	<phrase weight="0.022486772486772486" count="17">cache gradient</phrase>
+	<phrase weight="0.018518518518518517" count="14">feature induction</phrase>
+	<phrase weight="0.015873015873015872" count="12">num feature</phrase>
+	<phrase weight="0.010582010582010581" count="8">feature selection global</phrase>
+	<phrase weight="0.009259259259259259" count="7">training instance</phrase>
+	<phrase weight="0.009259259259259259" count="7">feature feature</phrase>
+	<phrase weight="0.009259259259259259" count="7">logger fine</phrase>
+	<phrase weight="0.009259259259259259" count="7">logger info</phrase>
+	<phrase weight="0.007936507936507936" count="6">ent classifier</phrase>
+  </topic>
+  <topic id="7" alpha="0.014065127999905546" totalTokens="1526" titles="left, color, diff, math, item, width, distance, height, size, temp">
+	<word weight="0.08584534731323722" count="131">left</word>
+	<word weight="0.053735255570117955" count="82">color</word>
+	<word weight="0.033420707732634336" count="51">diff</word>
+	<word weight="0.03211009174311927" count="49">math</word>
+	<word weight="0.03145478374836173" count="48">item</word>
+	<word weight="0.02817824377457405" count="43">width</word>
+	<word weight="0.027522935779816515" count="42">distance</word>
+	<word weight="0.025557011795543906" count="39">height</word>
+	<word weight="0.025557011795543906" count="39">size</word>
+	<word weight="0.023591087811271297" count="36">temp</word>
+	<phrase weight="0.024271844660194174" count="5">jerod weinman weinman weinman</phrase>
+	<phrase weight="0.019417475728155338" count="4">clust dist</phrase>
+	<phrase weight="0.019417475728155338" count="4">list left</phrase>
+	<phrase weight="0.019417475728155338" count="4">ascending walk</phrase>
+	<phrase weight="0.019417475728155338" count="4">width height</phrase>
+	<phrase weight="0.019417475728155338" count="4">diff math</phrase>
+	<phrase weight="0.014563106796116505" count="3">padding padding top margin legend</phrase>
+	<phrase weight="0.014563106796116505" count="3">color color</phrase>
+	<phrase weight="0.009708737864077669" count="2">univariate univariate</phrase>
+	<phrase weight="0.009708737864077669" count="2">element element</phrase>
+  </topic>
+  <topic id="8" alpha="0.054746706530855324" totalTokens="4313" titles="pipe pipe, instance pipe, pipe iterator, input, serial, add, sequence, save, lowercase, process">
+	<word weight="0.4906097843728263" count="2116">pipe</word>
+	<word weight="0.15047530721075816" count="649">instance</word>
+	<word weight="0.12265244609320658" count="529">iterator</word>
+	<word weight="0.041038720148388594" count="177">input</word>
+	<word weight="0.037097148156735454" count="160">serial</word>
+	<word weight="0.03593786227683747" count="155">add</word>
+	<word weight="0.018548574078367727" count="80">sequence</word>
+	<word weight="0.012056573150939021" count="52">save</word>
+	<word weight="0.008578715511245073" count="37">lowercase</word>
+	<word weight="0.00741942963134709" count="32">process</word>
+	<phrase weight="0.1819526627218935" count="123">pipe pipe</phrase>
+	<phrase weight="0.0621301775147929" count="42">instance pipe</phrase>
+	<phrase weight="0.05473372781065089" count="37">pipe iterator</phrase>
+	<phrase weight="0.026627218934911243" count="18">pipe add</phrase>
+	<phrase weight="0.023668639053254437" count="16">pipe pipe pipe</phrase>
+	<phrase weight="0.020710059171597635" count="14">add pipe</phrase>
+	<phrase weight="0.019230769230769232" count="13">instance instance</phrase>
+	<phrase weight="0.019230769230769232" count="13">serial pipe</phrase>
+	<phrase weight="0.01775147928994083" count="12">serial pipe pipe</phrase>
+	<phrase weight="0.01775147928994083" count="12">iterator iterator</phrase>
+  </topic>
+  <topic id="9" alpha="0.01723664688355812" totalTokens="3005" titles="iteration, training, optimizable, converge, trainer, num, likelihood, instance, ">
+	<word weight="0.11214642262895175" count="337">iteration</word>
+	<word weight="0.07221297836938435" count="217">training</word>
+	<word weight="0.06855241264559069" count="206">optimizable</word>
+	<word weight="0.05690515806988353" count="171">converge</word>
+	<word weight="0.05524126455906822" count="166">optimiz</word>
+	<word weight="0.05091514143094842" count="153">train</word>
+	<word weight="0.045257903494176376" count="136">trainer</word>
+	<word weight="0.03926788685524126" count="118">num</word>
+	<word weight="0.03826955074875208" count="115">likelihood</word>
+	<word weight="0.035274542429284524" count="106">instance</word>
+	<phrase weight="0.01882845188284519" count="9">gaussian prior variance</phrase>
+	<phrase weight="0.014644351464435146" count="7">iteration num iteration</phrase>
+	<phrase weight="0.014644351464435146" count="7">stack trace</phrase>
+	<phrase weight="0.012552301255230125" count="6">catching converge converge converge</phrase>
+	<phrase weight="0.012552301255230125" count="6">num iteration</phrase>
+	<phrase weight="0.012552301255230125" count="6">likelihood optimizable</phrase>
+	<phrase weight="0.010460251046025104" count="5">catching converge</phrase>
+	<phrase weight="0.010460251046025104" count="5">optimiz optimiz</phrase>
+	<phrase weight="0.010460251046025104" count="5">gaussian prior</phrase>
+	<phrase weight="0.010460251046025104" count="5">iteration iteration</phrase>
+  </topic>
+  <topic id="10" alpha="0.027168243150529715" totalTokens="1863" titles="math log, log log, marginal, change, xnum, err, time, xden, average, factorial">
+	<word weight="0.6994095544820182" count="1303">log</word>
+	<word weight="0.13419216317767044" count="250">math</word>
+	<word weight="0.015029522275899088" count="28">marginal</word>
+	<word weight="0.013955984970477724" count="26">change</word>
+	<word weight="0.00966183574879227" count="18">xnum</word>
+	<word weight="0.008051529790660225" count="15">time</word>
+	<word weight="0.008051529790660225" count="15">err</word>
+	<word weight="0.006977992485238862" count="13">xden</word>
+	<word weight="0.00644122383252818" count="12">average</word>
+	<word weight="0.005904455179817499" count="11">factorial</word>
+	<phrase weight="0.2994011976047904" count="50">math log</phrase>
+	<phrase weight="0.1377245508982036" count="23">log log</phrase>
+	<phrase weight="0.0658682634730539" count="11">log math log</phrase>
+	<phrase weight="0.05389221556886228" count="9">math log math log</phrase>
+	<phrase weight="0.03592814371257485" count="6">math log log</phrase>
+	<phrase weight="0.023952095808383235" count="4">average log</phrase>
+	<phrase weight="0.017964071856287425" count="3">log math</phrase>
+	<phrase weight="0.011976047904191617" count="2">subtract log</phrase>
+	<phrase weight="0.011976047904191617" count="2">maxidx len</phrase>
+	<phrase weight="0.011976047904191617" count="2">numerical precision</phrase>
+  </topic>
+  <topic id="11" alpha="0.012194529365709833" totalTokens="1301" titles="iteration, line, step, function, tolerance, converge, size, search, max, delta">
+	<word weight="0.1037663335895465" count="135">iteration</word>
+	<word weight="0.08762490392006149" count="114">line</word>
+	<word weight="0.08224442736356649" count="107">step</word>
+	<word weight="0.042275172943889314" count="55">function</word>
+	<word weight="0.035357417371252885" count="46">tolerance</word>
+	<word weight="0.035357417371252885" count="46">converge</word>
+	<word weight="0.033051498847040735" count="43">size</word>
+	<word weight="0.02536510376633359" count="33">search</word>
+	<word weight="0.02536510376633359" count="33">max</word>
+	<word weight="0.024596464258262875" count="32">delta</word>
+	<phrase weight="0.05092592592592592" count="11">iteration iteration</phrase>
+	<phrase weight="0.023148148148148147" count="5">line search</phrase>
+	<phrase weight="0.013888888888888888" count="3">max iteration</phrase>
+	<phrase weight="0.009259259259259259" count="2">optimize line optimiz</phrase>
+	<phrase weight="0.009259259259259259" count="2">function increase</phrase>
+	<phrase weight="0.009259259259259259" count="2">maximum iteration</phrase>
+	<phrase weight="0.009259259259259259" count="2">step line maximiz</phrase>
+	<phrase weight="0.009259259259259259" count="2">line maximiz</phrase>
+	<phrase weight="0.009259259259259259" count="2">line step</phrase>
+	<phrase weight="0.009259259259259259" count="2">eta eta</phrase>
+  </topic>
+  <topic id="12" alpha="0.002043915054610007" totalTokens="1048" titles="info, lattice, extor, start, extraction, html, predict, doc, label, output">
+	<word weight="0.10877862595419847" count="114">info</word>
+	<word weight="0.05725190839694656" count="60">lattice</word>
+	<word weight="0.05248091603053435" count="55">extor</word>
+	<word weight="0.05248091603053435" count="55">start</word>
+	<word weight="0.04484732824427481" count="47">extraction</word>
+	<word weight="0.039122137404580155" count="41">html</word>
+	<word weight="0.02862595419847328" count="30">predict</word>
+	<word weight="0.02862595419847328" count="30">doc</word>
+	<word weight="0.02862595419847328" count="30">label</word>
+	<word weight="0.025763358778625955" count="27">output</word>
+	<phrase weight="0.032467532467532464" count="5">distinguish endpoint</phrase>
+	<phrase weight="0.025974025974025976" count="4">document viewer</phrase>
+	<phrase weight="0.01948051948051948" count="3">extractor extor hack</phrase>
+	<phrase weight="0.01948051948051948" count="3">duc info</phrase>
+	<phrase weight="0.01948051948051948" count="3">exclude ptn</phrase>
+	<phrase weight="0.01948051948051948" count="3">str describe</phrase>
+	<phrase weight="0.01948051948051948" count="3">binn binn</phrase>
+	<phrase weight="0.012987012987012988" count="2">extraction extor extract</phrase>
+	<phrase weight="0.012987012987012988" count="2">label cost target tran start seq match info predict info target seq match info predict info target</phrase>
+	<phrase weight="0.012987012987012988" count="2">label start</phrase>
+  </topic>
+  <topic id="13" alpha="0.00618191215922218" totalTokens="1045" titles="node, level, curr, prev, num, path, type, eta, hierarchical, sample">
+	<word weight="0.21722488038277513" count="227">node</word>
+	<word weight="0.18947368421052632" count="198">level</word>
+	<word weight="0.08803827751196172" count="92">curr</word>
+	<word weight="0.06411483253588517" count="67">prev</word>
+	<word weight="0.04784688995215311" count="50">num</word>
+	<word weight="0.044976076555023926" count="47">path</word>
+	<word weight="0.03062200956937799" count="32">type</word>
+	<word weight="0.026794258373205742" count="28">eta</word>
+	<word weight="0.022966507177033493" count="24">hierarchical</word>
+	<word weight="0.02200956937799043" count="23">sample</word>
+	<phrase weight="0.06896551724137931" count="12">node node</phrase>
+	<phrase weight="0.04597701149425287" count="8">level level</phrase>
+	<phrase weight="0.040229885057471264" count="7">curr curr</phrase>
+	<phrase weight="0.028735632183908046" count="5">prev prev</phrase>
+	<phrase weight="0.028735632183908046" count="5">prev curr</phrase>
+	<phrase weight="0.022988505747126436" count="4">path level</phrase>
+	<phrase weight="0.022988505747126436" count="4">level node</phrase>
+	<phrase weight="0.017241379310344827" count="3">num sample</phrase>
+	<phrase weight="0.017241379310344827" count="3">num level</phrase>
+	<phrase weight="0.017241379310344827" count="3">feature feature</phrase>
+  </topic>
+  <topic id="14" alpha="0.005915855332619894" totalTokens="720" titles="field, match, alph, record, alphabet, length, clusterings, lookup, approx, substring">
+	<word weight="0.16666666666666666" count="120">field</word>
+	<word weight="0.1527777777777778" count="110">match</word>
+	<word weight="0.09027777777777778" count="65">alph</word>
+	<word weight="0.07222222222222222" count="52">record</word>
+	<word weight="0.059722222222222225" count="43">alphabet</word>
+	<word weight="0.05555555555555555" count="40">length</word>
+	<word weight="0.0375" count="27">clusterings</word>
+	<word weight="0.03333333333333333" count="24">lookup</word>
+	<word weight="0.027777777777777776" count="20">approx</word>
+	<word weight="0.027777777777777776" count="20">substring</word>
+	<phrase weight="0.04807692307692308" count="5">alph lookup</phrase>
+	<phrase weight="0.038461538461538464" count="4">field twiddle</phrase>
+	<phrase weight="0.028846153846153848" count="3">field length</phrase>
+	<phrase weight="0.028846153846153848" count="3">progresspublic clusterings</phrase>
+	<phrase weight="0.028846153846153848" count="3">record record</phrase>
+	<phrase weight="0.028846153846153848" count="3">space clusterings</phrase>
+	<phrase weight="0.019230769230769232" count="2">location alph lookup valsi</phrase>
+	<phrase weight="0.019230769230769232" count="2">alph alphabet alph</phrase>
+	<phrase weight="0.019230769230769232" count="2">alph alph</phrase>
+	<phrase weight="0.019230769230769232" count="2">location alph lookup valsj</phrase>
+  </topic>
+  <topic id="15" alpha="0.01598049416110891" totalTokens="3180" titles="clustering, neighbor, evaluator, instance, merge, label, agglomerative, evaluate, original, ">
+	<word weight="0.19150943396226416" count="609">clustering</word>
+	<word weight="0.189937106918239" count="604">cluster</word>
+	<word weight="0.08018867924528301" count="255">neighbor</word>
+	<word weight="0.05628930817610063" count="179">evaluator</word>
+	<word weight="0.052515723270440254" count="167">instance</word>
+	<word weight="0.0440251572327044" count="140">merge</word>
+	<word weight="0.031761006289308176" count="101">label</word>
+	<word weight="0.026415094339622643" count="84">agglomerative</word>
+	<word weight="0.024213836477987423" count="77">evaluate</word>
+	<word weight="0.02232704402515723" count="71">original</word>
+	<phrase weight="0.03544776119402985" count="19">clustering clustering</phrase>
+	<phrase weight="0.020522388059701493" count="11">neighbor evaluator</phrase>
+	<phrase weight="0.016791044776119403" count="9">scoring label</phrase>
+	<phrase weight="0.016791044776119403" count="9">cluster cluster</phrase>
+	<phrase weight="0.013059701492537313" count="7">num cluster</phrase>
+	<phrase weight="0.013059701492537313" count="7">cluster clustering</phrase>
+	<phrase weight="0.011194029850746268" count="6">cluster neighbor evaluator</phrase>
+	<phrase weight="0.011194029850746268" count="6">link neighbor</phrase>
+	<phrase weight="0.011194029850746268" count="6">instance clustering</phrase>
+	<phrase weight="0.011194029850746268" count="6">agglomerative neighbor</phrase>
+  </topic>
+  <topic id="16" alpha="0.007338129092481954" totalTokens="436" titles="message, progress, log, record, formatt, current, length, handler, resource, console">
+	<word weight="0.20412844036697247" count="89">message</word>
+	<word weight="0.1743119266055046" count="76">progress</word>
+	<word weight="0.08027522935779817" count="35">log</word>
+	<word weight="0.07568807339449542" count="33">record</word>
+	<word weight="0.034403669724770644" count="15">formatt</word>
+	<word weight="0.02981651376146789" count="13">current</word>
+	<word weight="0.02981651376146789" count="13">length</word>
+	<word weight="0.027522935779816515" count="12">handler</word>
+	<word weight="0.022935779816513763" count="10">resource</word>
+	<word weight="0.022935779816513763" count="10">console</word>
+	<phrase weight="0.23728813559322035" count="14">progress message</phrase>
+	<phrase weight="0.03389830508474576" count="2">logging config</phrase>
+	<phrase weight="0.03389830508474576" count="2">formatt progress message</phrase>
+	<phrase weight="0.03389830508474576" count="2">progress message log formatt</phrase>
+	<phrase weight="0.03389830508474576" count="2">generally interest</phrase>
+	<phrase weight="0.03389830508474576" count="2">resource bundle resource bundle</phrase>
+	<phrase weight="0.01694915254237288" count="1">progress message destine screen progress message repetitive message generally interest progress message subclass log record generate progress message</phrase>
+	<phrase weight="0.01694915254237288" count="1">config resource</phrase>
+	<phrase weight="0.01694915254237288" count="1">message repetitive</phrase>
+	<phrase weight="0.01694915254237288" count="1">mpml mpml log log record log record</phrase>
+  </topic>
+  <topic id="17" alpha="0.014119284451517488" totalTokens="1663" titles="cache, map, bit, index, vector, input, loc, instance, label, location">
+	<word weight="0.1719783523752255" count="286">cache</word>
+	<word weight="0.11665664461815996" count="194">map</word>
+	<word weight="0.079374624173181" count="132">bit</word>
+	<word weight="0.07215874924834637" count="120">index</word>
+	<word weight="0.058929645219482865" count="98">vector</word>
+	<word weight="0.058929645219482865" count="98">input</word>
+	<word weight="0.04810583283223091" count="80">loc</word>
+	<word weight="0.04449789536981359" count="74">instance</word>
+	<word weight="0.04329524954900782" count="72">label</word>
+	<word weight="0.026458208057727" count="44">location</word>
+	<phrase weight="0.055944055944055944" count="16">location loc</phrase>
+	<phrase weight="0.055944055944055944" count="16">cache quick</phrase>
+	<phrase weight="0.038461538461538464" count="11">lower upper</phrase>
+	<phrase weight="0.038461538461538464" count="11">map map</phrase>
+	<phrase weight="0.03146853146853147" count="9">cache add</phrase>
+	<phrase weight="0.03146853146853147" count="9">loc loc</phrase>
+	<phrase weight="0.027972027972027972" count="8">location loc index location loc</phrase>
+	<phrase weight="0.027972027972027972" count="8">vector input</phrase>
+	<phrase weight="0.024475524475524476" count="7">index cache</phrase>
+	<phrase weight="0.02097902097902098" count="6">instance instance</phrase>
+  </topic>
+  <topic id="18" alpha="0.03089345712315236" totalTokens="1483" titles="sum, prob, probability, math, normalize, print, average, serializable, neg, difference">
+	<word weight="0.37626432906271073" count="558">sum</word>
+	<word weight="0.21038435603506406" count="312">prob</word>
+	<word weight="0.10519217801753203" count="156">probability</word>
+	<word weight="0.08428860418071477" count="125">math</word>
+	<word weight="0.02157788267026298" count="32">normalize</word>
+	<word weight="0.018880647336480108" count="28">print</word>
+	<word weight="0.010114632501685773" count="15">average</word>
+	<word weight="0.009440323668240054" count="14">serializable</word>
+	<word weight="0.008091706001348618" count="12">neg</word>
+	<word weight="0.007417397167902899" count="11">difference</word>
+	<phrase weight="0.1592920353982301" count="18">sum sum</phrase>
+	<phrase weight="0.10619469026548672" count="12">prob math</phrase>
+	<phrase weight="0.09734513274336283" count="11">sum prob</phrase>
+	<phrase weight="0.061946902654867256" count="7">prob prob</phrase>
+	<phrase weight="0.04424778761061947" count="5">math math</phrase>
+	<phrase weight="0.035398230088495575" count="4">prob sum</phrase>
+	<phrase weight="0.035398230088495575" count="4">sum neg</phrase>
+	<phrase weight="0.02654867256637168" count="3">sum sum sum</phrase>
+	<phrase weight="0.02654867256637168" count="3">probability sum</phrase>
+	<phrase weight="0.02654867256637168" count="3">prob probability</phrase>
+  </topic>
+  <topic id="19" alpha="0.007712258936615845" totalTokens="1289" titles="child, parent, tree, root, sepset, node, cpf, junction, lookup, vertex">
+	<word weight="0.22342901474010862" count="288">child</word>
+	<word weight="0.1225756400310318" count="158">parent</word>
+	<word weight="0.09619860356865788" count="124">tree</word>
+	<word weight="0.08223429014740109" count="106">root</word>
+	<word weight="0.06361520558572537" count="82">sepset</word>
+	<word weight="0.055857253685027156" count="72">node</word>
+	<word weight="0.048875096974398756" count="63">cpf</word>
+	<word weight="0.03801396431342126" count="49">junction</word>
+	<word weight="0.031031807602792862" count="40">lookup</word>
+	<word weight="0.02560124127230411" count="33">vertex</word>
+	<phrase weight="0.07960199004975124" count="16">junction tree</phrase>
+	<phrase weight="0.05472636815920398" count="11">child child</phrase>
+	<phrase weight="0.03482587064676617" count="7">child parent</phrase>
+	<phrase weight="0.029850746268656716" count="6">parent child</phrase>
+	<phrase weight="0.029850746268656716" count="6">root child</phrase>
+	<phrase weight="0.024875621890547265" count="5">parent parent</phrase>
+	<phrase weight="0.01990049751243781" count="4">find parent cluster</phrase>
+	<phrase weight="0.01990049751243781" count="4">cpf cpf</phrase>
+	<phrase weight="0.014925373134328358" count="3">lookup parent</phrase>
+	<phrase weight="0.014925373134328358" count="3">interior node</phrase>
+  </topic>
+  <topic id="20" alpha="0.029495483748048848" totalTokens="1482" titles="length, ret, negation, elem, append, arraycopy, starting, buffer, element, obj">
+	<word weight="0.2611336032388664" count="387">length</word>
+	<word weight="0.24561403508771928" count="364">ret</word>
+	<word weight="0.037786774628879895" count="56">negation</word>
+	<word weight="0.03508771929824561" count="52">elem</word>
+	<word weight="0.030364372469635626" count="45">append</word>
+	<word weight="0.029689608636977057" count="44">arraycopy</word>
+	<word weight="0.024291497975708502" count="36">starting</word>
+	<word weight="0.020242914979757085" count="30">buffer</word>
+	<word weight="0.018893387314439947" count="28">element</word>
+	<word weight="0.018218623481781375" count="27">obj</word>
+	<phrase weight="0.07692307692307693" count="13">ret ret</phrase>
+	<phrase weight="0.07100591715976332" count="12">length length</phrase>
+	<phrase weight="0.03550295857988166" count="6">arraycopy starting</phrase>
+	<phrase weight="0.029585798816568046" count="5">elem length elem elem elem</phrase>
+	<phrase weight="0.023668639053254437" count="4">buffer length</phrase>
+	<phrase weight="0.01775147928994083" count="3">negation negation</phrase>
+	<phrase weight="0.01775147928994083" count="3">quadratic original elem element</phrase>
+	<phrase weight="0.01775147928994083" count="3">append append</phrase>
+	<phrase weight="0.01775147928994083" count="3">buffer buffer</phrase>
+	<phrase weight="0.01775147928994083" count="3">ret length ret ret</phrase>
+  </topic>
+  <topic id="21" alpha="0.0115884665825201" totalTokens="11518" titles="topic topic, topic topic topic, num topic, topic count, topic topic num topic topic, document topic, position topic, topic topic topic topic, beta, length">
+	<word weight="0.6778086473346067" count="7807">topic</word>
+	<word weight="0.08135092898072582" count="937">num</word>
+	<word weight="0.02517798228859177" count="290">position</word>
+	<word weight="0.023094287202639348" count="266">count</word>
+	<word weight="0.021965619031081785" count="253">beta</word>
+	<word weight="0.020142385830873414" count="232">length</word>
+	<word weight="0.016582740059038027" count="191">instance</word>
+	<word weight="0.012936273658621288" count="149">document</word>
+	<word weight="0.011720784858482375" count="135">feature</word>
+	<word weight="0.010765757944087516" count="124">max</word>
+	<phrase weight="0.20641711229946524" count="386">topic topic</phrase>
+	<phrase weight="0.07540106951871657" count="141">topic topic topic</phrase>
+	<phrase weight="0.07165775401069518" count="134">num topic</phrase>
+	<phrase weight="0.046524064171122995" count="87">topic count</phrase>
+	<phrase weight="0.01764705882352941" count="33">topic topic num topic topic</phrase>
+	<phrase weight="0.017112299465240642" count="32">num topic topic</phrase>
+	<phrase weight="0.014973262032085561" count="28">topic num</phrase>
+	<phrase weight="0.014438502673796792" count="27">document topic</phrase>
+	<phrase weight="0.013368983957219251" count="25">position topic</phrase>
+	<phrase weight="0.01229946524064171" count="23">topic topic topic topic</phrase>
+  </topic>
+  <topic id="22" alpha="0.008939285741035663" totalTokens="1805" titles="var, variable, universe, idx, hash, outcome, clique, add, num, varr">
+	<word weight="0.2886426592797784" count="521">var</word>
+	<word weight="0.19833795013850417" count="358">variable</word>
+	<word weight="0.060941828254847646" count="110">universe</word>
+	<word weight="0.0592797783933518" count="107">idx</word>
+	<word weight="0.049307479224376734" count="89">hash</word>
+	<word weight="0.03822714681440443" count="69">outcome</word>
+	<word weight="0.031578947368421054" count="57">clique</word>
+	<word weight="0.026592797783933517" count="48">add</word>
+	<word weight="0.023822714681440444" count="43">num</word>
+	<word weight="0.022714681440443214" count="41">varr</word>
+	<phrase weight="0.059322033898305086" count="14">variable var</phrase>
+	<phrase weight="0.0423728813559322" count="10">var var</phrase>
+	<phrase weight="0.0423728813559322" count="10">variable var variable</phrase>
+	<phrase weight="0.029661016949152543" count="7">universe universe</phrase>
+	<phrase weight="0.025423728813559324" count="6">var variable</phrase>
+	<phrase weight="0.025423728813559324" count="6">idx var</phrase>
+	<phrase weight="0.0211864406779661" count="5">var idx</phrase>
+	<phrase weight="0.01694915254237288" count="4">variable variable</phrase>
+	<phrase weight="0.012711864406779662" count="3">unmodifiable clique thi</phrase>
+	<phrase weight="0.012711864406779662" count="3">num outcome</phrase>
+  </topic>
+  <topic id="23" alpha="0.00443213859157124" totalTokens="1495" titles="thread, crf, lattice, cache, num, task, dot, tran, model, start">
+	<word weight="0.08762541806020067" count="131">thread</word>
+	<word weight="0.07759197324414716" count="116">crf</word>
+	<word weight="0.06622073578595318" count="99">lattice</word>
+	<word weight="0.06287625418060201" count="94">cache</word>
+	<word weight="0.04882943143812709" count="73">num</word>
+	<word weight="0.04749163879598662" count="71">task</word>
+	<word weight="0.046153846153846156" count="69">dot</word>
+	<word weight="0.042140468227424746" count="63">tran</word>
+	<word weight="0.03946488294314381" count="59">model</word>
+	<word weight="0.034782608695652174" count="52">start</word>
+	<phrase weight="0.04743083003952569" count="12">dot cache</phrase>
+	<phrase weight="0.03557312252964427" count="9">reverse tran</phrase>
+	<phrase weight="0.023715415019762844" count="6">num thread</phrase>
+	<phrase weight="0.015810276679841896" count="4">cache dot</phrase>
+	<phrase weight="0.015810276679841896" count="4">sum lattice lattice lattice</phrase>
+	<phrase weight="0.015810276679841896" count="4">task add</phrase>
+	<phrase weight="0.015810276679841896" count="4">reverse tran reverse tran</phrase>
+	<phrase weight="0.011857707509881422" count="3">semi supervise</phrase>
+	<phrase weight="0.011857707509881422" count="3">crf num</phrase>
+	<phrase weight="0.011857707509881422" count="3">linear chain</phrase>
+  </topic>
+  <topic id="24" alpha="0.01307276792006609" totalTokens="2050" titles="span, tokenization, document, extraction, background, idx, start, filter, tag, ">
+	<word weight="0.21804878048780488" count="447">span</word>
+	<word weight="0.08097560975609756" count="166">tokenization</word>
+	<word weight="0.07170731707317073" count="147">document</word>
+	<word weight="0.06341463414634146" count="130">extraction</word>
+	<word weight="0.04682926829268293" count="96">background</word>
+	<word weight="0.046341463414634146" count="95">idx</word>
+	<word weight="0.03804878048780488" count="78">start</word>
+	<word weight="0.033658536585365856" count="69">filter</word>
+	<word weight="0.032682926829268294" count="67">tok</word>
+	<word weight="0.032682926829268294" count="67">tag</word>
+	<phrase weight="0.0547112462006079" count="18">span span</phrase>
+	<phrase weight="0.04559270516717325" count="15">span span span</phrase>
+	<phrase weight="0.02735562310030395" count="9">document extraction</phrase>
+	<phrase weight="0.015197568389057751" count="5">expect xml xml</phrase>
+	<phrase weight="0.015197568389057751" count="5">extraction extraction</phrase>
+	<phrase weight="0.015197568389057751" count="5">extraction extraction extraction</phrase>
+	<phrase weight="0.0121580547112462" count="4">extract span</phrase>
+	<phrase weight="0.0121580547112462" count="4">tag span</phrase>
+	<phrase weight="0.0121580547112462" count="4">span idx</phrase>
+	<phrase weight="0.0121580547112462" count="4">document extraction docseq document extraction</phrase>
+  </topic>
+  <topic id="25" alpha="0.043151988272218306" totalTokens="2483" titles="hash map, key, put, add, trove, gnu, iterator, numeric, int, ">
+	<word weight="0.29359645590012085" count="729">map</word>
+	<word weight="0.1792186870720902" count="445">hash</word>
+	<word weight="0.15424889246878776" count="383">key</word>
+	<word weight="0.06524365686669352" count="162">put</word>
+	<word weight="0.045912202980265805" count="114">add</word>
+	<word weight="0.042287555376560614" count="105">trove</word>
+	<word weight="0.04027386226339106" count="100">gnu</word>
+	<word weight="0.01852597664115989" count="46">iterator</word>
+	<word weight="0.018123238018525976" count="45">numeric</word>
+	<word weight="0.012484897301651228" count="31">int</word>
+	<phrase weight="0.4236453201970443" count="172">hash map</phrase>
+	<phrase weight="0.03694581280788178" count="15">gnu trove hash map</phrase>
+	<phrase weight="0.034482758620689655" count="14">map map</phrase>
+	<phrase weight="0.03201970443349754" count="13">key key</phrase>
+	<phrase weight="0.029556650246305417" count="12">gnu trove</phrase>
+	<phrase weight="0.027093596059113302" count="11">map key</phrase>
+	<phrase weight="0.027093596059113302" count="11">map put</phrase>
+	<phrase weight="0.019704433497536946" count="8">map hash map</phrase>
+	<phrase weight="0.019704433497536946" count="8">trove hash map</phrase>
+	<phrase weight="0.014778325123152709" count="6">int map</phrase>
+  </topic>
+  <topic id="26" alpha="0.008321600689662586" totalTokens="1208" titles="rank rank, feature, vector, add, max, sort, min, num, beam, selection">
+	<word weight="0.3253311258278146" count="393">rank</word>
+	<word weight="0.08278145695364239" count="100">feature</word>
+	<word weight="0.07201986754966887" count="87">vector</word>
+	<word weight="0.060430463576158944" count="73">add</word>
+	<word weight="0.04056291390728477" count="49">max</word>
+	<word weight="0.037251655629139076" count="45">sort</word>
+	<word weight="0.03394039735099338" count="41">min</word>
+	<word weight="0.033112582781456956" count="40">num</word>
+	<word weight="0.023178807947019868" count="28">beam</word>
+	<word weight="0.020695364238410598" count="25">selection</word>
+	<phrase weight="0.12037037037037036" count="26">rank rank</phrase>
+	<phrase weight="0.032407407407407406" count="7">rank feature vector</phrase>
+	<phrase weight="0.027777777777777776" count="6">rank max</phrase>
+	<phrase weight="0.023148148148148147" count="5">rank rank rank</phrase>
+	<phrase weight="0.023148148148148147" count="5">rank feature</phrase>
+	<phrase weight="0.023148148148148147" count="5">entry original</phrase>
+	<phrase weight="0.023148148148148147" count="5">feature vector</phrase>
+	<phrase weight="0.018518518518518517" count="4">add winning</phrase>
+	<phrase weight="0.013888888888888888" count="3">add ranking</phrase>
+	<phrase weight="0.013888888888888888" count="3">rank rank rank rank rank rank rank rank</phrase>
+  </topic>
+  <topic id="27" alpha="0.051561757737232504" totalTokens="4630" titles="feature feature, notstart, space, print, deal, whitespace, present, bound, unlike, ">
+	<word weight="0.9349892008639309" count="4329">feature</word>
+	<word weight="0.035637149028077755" count="165">notstart</word>
+	<word weight="0.015550755939524838" count="72">start</word>
+	<word weight="0.0038876889848812094" count="18">space</word>
+	<word weight="0.001511879049676026" count="7">print</word>
+	<word weight="8.639308855291577E-4" count="4">deal</word>
+	<word weight="6.479481641468683E-4" count="3">unlike</word>
+	<word weight="6.479481641468683E-4" count="3">whitespace</word>
+	<word weight="6.479481641468683E-4" count="3">present</word>
+	<word weight="6.479481641468683E-4" count="3">bound</word>
+	<phrase weight="0.7761904761904762" count="163">feature feature</phrase>
+	<phrase weight="0.09523809523809523" count="20">feature feature feature</phrase>
+	<phrase weight="0.03333333333333333" count="7">feature feature feature feature</phrase>
+	<phrase weight="0.014285714285714285" count="3">feature space feature</phrase>
+	<phrase weight="0.009523809523809525" count="2">feature start</phrase>
+	<phrase weight="0.009523809523809525" count="2">feature present</phrase>
+	<phrase weight="0.004761904761904762" count="1">feature unnegat feature</phrase>
+	<phrase weight="0.004761904761904762" count="1">patternify feature</phrase>
+	<phrase weight="0.004761904761904762" count="1">target print</phrase>
+	<phrase weight="0.004761904761904762" count="1">thu feb charles</phrase>
+  </topic>
+  <topic id="28" alpha="0.06803906874327569" totalTokens="4353" titles="instance instance, instance instance instance, iterator, size, type, link, noop, pipe, empty, equal">
+	<word weight="0.6448426372616586" count="2807">instance</word>
+	<word weight="0.06156673558465426" count="268">iterator</word>
+	<word weight="0.048242591316333565" count="210">inst</word>
+	<word weight="0.03445899379738112" count="150">size</word>
+	<word weight="0.028715828164484265" count="125">type</word>
+	<word weight="0.015391683896163565" count="67">link</word>
+	<word weight="0.012175511141741327" count="53">noop</word>
+	<word weight="0.010567424764530209" count="46">pipe</word>
+	<word weight="0.009189065012634964" count="40">empty</word>
+	<word weight="0.008729611762003216" count="38">equal</word>
+	<phrase weight="0.30996309963099633" count="168">instance instance</phrase>
+	<phrase weight="0.05904059040590406" count="32">instance instance instance</phrase>
+	<phrase weight="0.05350553505535055" count="29">instance inst</phrase>
+	<phrase weight="0.027675276752767528" count="15">iterator instance</phrase>
+	<phrase weight="0.025830258302583026" count="14">instance iterator</phrase>
+	<phrase weight="0.02029520295202952" count="11">instance instance instance instance</phrase>
+	<phrase weight="0.01845018450184502" count="10">type instance</phrase>
+	<phrase weight="0.012915129151291513" count="7">inst inst</phrase>
+	<phrase weight="0.012915129151291513" count="7">instance size</phrase>
+	<phrase weight="0.012915129151291513" count="7">link instance</phrase>
+  </topic>
+  <topic id="29" alpha="0.002336304104498318" totalTokens="1276" titles="row, matrix, dimension, col, precision, lower, random, triangular, sum, offset">
+	<word weight="0.12695924764890282" count="162">row</word>
+	<word weight="0.10815047021943573" count="138">matrix</word>
+	<word weight="0.07053291536050156" count="90">dimension</word>
+	<word weight="0.06347962382445141" count="81">col</word>
+	<word weight="0.03526645768025078" count="45">precision</word>
+	<word weight="0.030564263322884012" count="39">lower</word>
+	<word weight="0.030564263322884012" count="39">random</word>
+	<word weight="0.028996865203761754" count="37">triangular</word>
+	<word weight="0.02586206896551724" count="33">sum</word>
+	<word weight="0.024294670846394983" count="31">offset</word>
+	<phrase weight="0.05714285714285714" count="4">row dot</phrase>
+	<phrase weight="0.04285714285714286" count="3">matrix matrix</phrase>
+	<phrase weight="0.02857142857142857" count="2">vli vli</phrase>
+	<phrase weight="0.02857142857142857" count="2">vli vli vli vli</phrase>
+	<phrase weight="0.02857142857142857" count="2">formatt maximum fraction digit</phrase>
+	<phrase weight="0.014285714285714285" count="1">random output</phrase>
+	<phrase weight="0.014285714285714285" count="1">matrix degree freedom degree freedom wishart great dimension posterior observation prior wishart sqrt scale matrix dimension degree freedom random random</phrase>
+	<phrase weight="0.014285714285714285" count="1">fairly closely lower triangular cholesky input num row initialize note set element input</phrase>
+	<phrase weight="0.014285714285714285" count="1">dimension output matrix dimension observation matrix observation matrix output matrix</phrase>
+	<phrase weight="0.014285714285714285" count="1">row row dimension row col col dimension col output</phrase>
+  </topic>
+  <topic id="30" alpha="0.009208412338297202" totalTokens="1139" titles="offset, conjunction, size, iter, boundary, key, iterator, window, original, newf">
+	<word weight="0.16417910447761194" count="187">offset</word>
+	<word weight="0.15452151009657594" count="176">conjunction</word>
+	<word weight="0.09482001755926252" count="108">size</word>
+	<word weight="0.0684811237928007" count="78">iter</word>
+	<word weight="0.0553116769095698" count="63">boundary</word>
+	<word weight="0.03511852502194908" count="40">key</word>
+	<word weight="0.03424056189640035" count="39">iterator</word>
+	<word weight="0.027216856892010536" count="31">window</word>
+	<word weight="0.025460930640913083" count="29">original</word>
+	<word weight="0.021949078138718173" count="25">newf</word>
+	<phrase weight="0.05194805194805195" count="8">offset conjunction</phrase>
+	<phrase weight="0.03896103896103896" count="6">conjunction conjunction</phrase>
+	<phrase weight="0.025974025974025976" count="4">original singleton</phrase>
+	<phrase weight="0.025974025974025976" count="4">boundary offset boundary offset</phrase>
+	<phrase weight="0.01948051948051948" count="3">align offset</phrase>
+	<phrase weight="0.01948051948051948" count="3">position offset</phrase>
+	<phrase weight="0.01948051948051948" count="3">conjunction add</phrase>
+	<phrase weight="0.01948051948051948" count="3">begin boundary</phrase>
+	<phrase weight="0.012987012987012988" count="2">size size size</phrase>
+	<phrase weight="0.012987012987012988" count="2">window size init</phrase>
+  </topic>
+  <topic id="31" alpha="0.007063018749885973" totalTokens="1482" titles="likelihood crft, instance, lattice, learning, connect, vector, rate, equal, ">
+	<word weight="0.2901484480431849" count="430">crf</word>
+	<word weight="0.09244264507422402" count="137">instance</word>
+	<word weight="0.07017543859649122" count="104">likelihood</word>
+	<word weight="0.06950067476383266" count="103">crft</word>
+	<word weight="0.05465587044534413" count="81">lattice</word>
+	<word weight="0.03508771929824561" count="52">learning</word>
+	<word weight="0.03441295546558704" count="51">connect</word>
+	<word weight="0.032388663967611336" count="48">vector</word>
+	<word weight="0.029689608636977057" count="44">rate</word>
+	<word weight="0.022941970310391364" count="34">equal</word>
+	<phrase weight="0.08823529411764706" count="21">likelihood crft</phrase>
+	<phrase weight="0.08403361344537816" count="20">likelihood crf</phrase>
+	<phrase weight="0.07142857142857142" count="17">crf crf</phrase>
+	<phrase weight="0.04201680672268908" count="10">lattice crf</phrase>
+	<phrase weight="0.037815126050420166" count="9">fully connect</phrase>
+	<phrase weight="0.029411764705882353" count="7">likelihood crf crft</phrase>
+	<phrase weight="0.025210084033613446" count="6">instance instance</phrase>
+	<phrase weight="0.025210084033613446" count="6">learning rate</phrase>
+	<phrase weight="0.02100840336134454" count="5">crf crf lattice</phrase>
+	<phrase weight="0.02100840336134454" count="5">crf transduce</phrase>
+  </topic>
+  <topic id="32" alpha="0.003796584606952782" totalTokens="435" titles="threshold, append, meal, eater, eval, seq, buf, add, mpd, ">
+	<word weight="0.3264367816091954" count="142">threshold</word>
+	<word weight="0.0367816091954023" count="16">append</word>
+	<word weight="0.034482758620689655" count="15">meal</word>
+	<word weight="0.034482758620689655" count="15">eater</word>
+	<word weight="0.034482758620689655" count="15">eval</word>
+	<word weight="0.03218390804597701" count="14">seq</word>
+	<word weight="0.029885057471264367" count="13">buf</word>
+	<word weight="0.027586206896551724" count="12">add</word>
+	<word weight="0.022988505747126436" count="10">mpd</word>
+	<word weight="0.016091954022988506" count="7">thr</word>
+	<phrase weight="0.288135593220339" count="17">threshold threshold</phrase>
+	<phrase weight="0.06779661016949153" count="4">threshold collect exact threshold</phrase>
+	<phrase weight="0.03389830508474576" count="2">threshold add</phrase>
+	<phrase weight="0.03389830508474576" count="2">mpd expect</phrase>
+	<phrase weight="0.03389830508474576" count="2">eater big</phrase>
+	<phrase weight="0.03389830508474576" count="2">binary search threshold threshold</phrase>
+	<phrase weight="0.03389830508474576" count="2">buf append buf append</phrase>
+	<phrase weight="0.03389830508474576" count="2">eater meal</phrase>
+	<phrase weight="0.01694915254237288" count="1">roc add add roc</phrase>
+	<phrase weight="0.01694915254237288" count="1">threshold threshold threshold</phrase>
+  </topic>
+  <topic id="33" alpha="0.010390649920657708" totalTokens="1027" titles="replacement, add, csv, text, stop, preprocessor, deletion, bigram, stopword, ">
+	<word weight="0.09931840311587146" count="102">replacement</word>
+	<word weight="0.07497565725413827" count="77">add</word>
+	<word weight="0.0691333982473223" count="71">csv</word>
+	<word weight="0.05063291139240506" count="52">text</word>
+	<word weight="0.044790652385589096" count="46">stop</word>
+	<word weight="0.0311587147030185" count="32">preprocessor</word>
+	<word weight="0.0311587147030185" count="32">deletion</word>
+	<word weight="0.0311587147030185" count="32">bigram</word>
+	<word weight="0.02629016553067186" count="27">stopword</word>
+	<word weight="0.02629016553067186" count="27">word</word>
+	<phrase weight="0.0375" count="6">replacement replacement</phrase>
+	<phrase weight="0.03125" count="5">regular expression</phrase>
+	<phrase weight="0.025" count="4">charset charset</phrase>
+	<phrase weight="0.025" count="4">stop word</phrase>
+	<phrase weight="0.01875" count="3">space deletion</phrase>
+	<phrase weight="0.01875" count="3">tab replace replace</phrase>
+	<phrase weight="0.01875" count="3">space text</phrase>
+	<phrase weight="0.01875" count="3">extra stopword</phrase>
+	<phrase weight="0.01875" count="3">bean text</phrase>
+	<phrase weight="0.01875" count="3">add replacement replacement</phrase>
+  </topic>
+  <topic id="34" alpha="0.001165800393673508" totalTokens="1293" titles="word, thread, num, col, runnable, model, type, weight, instance, input">
+	<word weight="0.1105955143078113" count="143">word</word>
+	<word weight="0.09822119102861562" count="127">thread</word>
+	<word weight="0.07733952049497293" count="100">num</word>
+	<word weight="0.054137664346481054" count="70">col</word>
+	<word weight="0.04640371229698376" count="60">runnable</word>
+	<word weight="0.040989945862335654" count="53">model</word>
+	<word weight="0.03480278422273782" count="45">type</word>
+	<word weight="0.030162412993039442" count="39">weight</word>
+	<word weight="0.025522041763341066" count="33">instance</word>
+	<word weight="0.02397525135344161" count="31">input</word>
+	<phrase weight="0.0759493670886076" count="12">thread thread</phrase>
+	<phrase weight="0.056962025316455694" count="9">runnable thread</phrase>
+	<phrase weight="0.0189873417721519" count="3">runnable runnable</phrase>
+	<phrase weight="0.012658227848101266" count="2">word sampling</phrase>
+	<phrase weight="0.012658227848101266" count="2">thread thread runnable thread</phrase>
+	<phrase weight="0.012658227848101266" count="2">word weight</phrase>
+	<phrase weight="0.012658227848101266" count="2">num sample</phrase>
+	<phrase weight="0.012658227848101266" count="2">model sigmoid</phrase>
+	<phrase weight="0.012658227848101266" count="2">num thread max</phrase>
+	<phrase weight="0.012658227848101266" count="2">thread num</phrase>
+  </topic>
+  <topic id="35" alpha="0.012331420413571749" totalTokens="1920" titles="gradient, optimizable, matrix, maxable, ops, num, norm, test, optimize, slope">
+	<word weight="0.20364583333333333" count="391">gradient</word>
+	<word weight="0.13385416666666666" count="257">optimizable</word>
+	<word weight="0.0609375" count="117">matrix</word>
+	<word weight="0.058854166666666666" count="113">maxable</word>
+	<word weight="0.053125" count="102">ops</word>
+	<word weight="0.04583333333333333" count="88">num</word>
+	<word weight="0.03802083333333333" count="73">norm</word>
+	<word weight="0.030208333333333334" count="58">test</word>
+	<word weight="0.028645833333333332" count="55">optimize</word>
+	<word weight="0.022916666666666665" count="44">slope</word>
+	<phrase weight="0.06477732793522267" count="16">matrix ops</phrase>
+	<phrase weight="0.06477732793522267" count="16">optimizable gradient</phrase>
+	<phrase weight="0.020242914979757085" count="5">maximize optimizable</phrase>
+	<phrase weight="0.020242914979757085" count="5">optimize optimizable</phrase>
+	<phrase weight="0.020242914979757085" count="5">matrix ops equal</phrase>
+	<phrase weight="0.016194331983805668" count="4">optimizable gradient optimizable</phrase>
+	<phrase weight="0.016194331983805668" count="4">optimizable gradient maxable</phrase>
+	<phrase weight="0.016194331983805668" count="4">gradient maxable</phrase>
+	<phrase weight="0.012145748987854251" count="3">maxable maxable</phrase>
+	<phrase weight="0.012145748987854251" count="3">optimizable optimizable optimizable</phrase>
+  </topic>
+  <topic id="36" alpha="0.03885851089024905" totalTokens="2465" titles="target alphabet, alphabet alphabet, target target, type, illegal, match, argument, carry, result, previou">
+	<word weight="0.40933062880324544" count="1009">alphabet</word>
+	<word weight="0.31967545638945233" count="788">target</word>
+	<word weight="0.02231237322515213" count="55">type</word>
+	<word weight="0.019066937119675456" count="47">illegal</word>
+	<word weight="0.01744421906693712" count="43">match</word>
+	<word weight="0.01744421906693712" count="43">argument</word>
+	<word weight="0.01460446247464503" count="36">carry</word>
+	<word weight="0.012981744421906694" count="32">result</word>
+	<word weight="0.012981744421906694" count="32">previou</word>
+	<word weight="0.011764705882352941" count="29">processing</word>
+	<phrase weight="0.18994413407821228" count="68">target alphabet</phrase>
+	<phrase weight="0.11452513966480447" count="41">alphabet alphabet</phrase>
+	<phrase weight="0.0670391061452514" count="24">target target</phrase>
+	<phrase weight="0.04748603351955307" count="17">alphabet target alphabet</phrase>
+	<phrase weight="0.036312849162011177" count="13">alphabet lookup</phrase>
+	<phrase weight="0.027932960893854747" count="10">alphabet carry</phrase>
+	<phrase weight="0.025139664804469275" count="9">alphabet target</phrase>
+	<phrase weight="0.0223463687150838" count="8">illegal argument</phrase>
+	<phrase weight="0.0223463687150838" count="8">alphabet alphabet alphabet</phrase>
+	<phrase weight="0.019553072625698324" count="7">target processing</phrase>
+  </topic>
+  <topic id="37" alpha="0.00899843304497826" totalTokens="2064" titles="gradient, cache, batch, optimizable, num, index, stale, logger, buffer, assignment">
+	<word weight="0.15503875968992248" count="320">gradient</word>
+	<word weight="0.13323643410852712" count="275">cache</word>
+	<word weight="0.13226744186046513" count="273">batch</word>
+	<word weight="0.06443798449612403" count="133">optimizable</word>
+	<word weight="0.060562015503875966" count="125">num</word>
+	<word weight="0.054748062015503876" count="113">index</word>
+	<word weight="0.03682170542635659" count="76">stale</word>
+	<word weight="0.03682170542635659" count="76">logger</word>
+	<word weight="0.03246124031007752" count="67">buffer</word>
+	<word weight="0.029069767441860465" count="60">assignment</word>
+	<phrase weight="0.06688963210702341" count="20">cache gradient</phrase>
+	<phrase weight="0.04013377926421405" count="12">parameter index</phrase>
+	<phrase weight="0.023411371237458192" count="7">optimizable gradient</phrase>
+	<phrase weight="0.013377926421404682" count="4">buffer parameter index</phrase>
+	<phrase weight="0.010033444816053512" count="3">num batch batch assignment</phrase>
+	<phrase weight="0.010033444816053512" count="3">optimize optimizable</phrase>
+	<phrase weight="0.010033444816053512" count="3">logging logger</phrase>
+	<phrase weight="0.010033444816053512" count="3">logger info</phrase>
+	<phrase weight="0.010033444816053512" count="3">gradient batch</phrase>
+	<phrase weight="0.010033444816053512" count="3">num batch</phrase>
+  </topic>
+  <topic id="38" alpha="0.0049929471002862665" totalTokens="672" titles="node, cost, search, star, iterator, parent, path, completion, answer, pereira">
+	<word weight="0.3645833333333333" count="245">node</word>
+	<word weight="0.11755952380952381" count="79">cost</word>
+	<word weight="0.11607142857142858" count="78">search</word>
+	<word weight="0.06547619047619048" count="44">star</word>
+	<word weight="0.05357142857142857" count="36">iterator</word>
+	<word weight="0.028273809523809524" count="19">parent</word>
+	<word weight="0.020833333333333332" count="14">path</word>
+	<word weight="0.017857142857142856" count="12">completion</word>
+	<word weight="0.01636904761904762" count="11">answer</word>
+	<word weight="0.01488095238095238" count="10">pereira</word>
+	<phrase weight="0.06382978723404255" count="3">node node</phrase>
+	<phrase weight="0.02127659574468085" count="1">search cost cost search iterator node</phrase>
+	<phrase weight="0.02127659574468085" count="1">previou iterator star</phrase>
+	<phrase weight="0.02127659574468085" count="1">transition iterator</phrase>
+	<phrase weight="0.02127659574468085" count="1">star node search</phrase>
+	<phrase weight="0.02127659574468085" count="1">star star expect</phrase>
+	<phrase weight="0.02127659574468085" count="1">node expand</phrase>
+	<phrase weight="0.02127659574468085" count="1">star search star node</phrase>
+	<phrase weight="0.02127659574468085" count="1">determine expand cost reaching node start search search node</phrase>
+	<phrase weight="0.02127659574468085" count="1">node node iterator node star node star node node priority cost completion cost</phrase>
+  </topic>
+  <topic id="39" alpha="0.018789043314875964" totalTokens="3198" titles="feature vector, num, ilist, instance, gain, info, classification, size, target, ">
+	<word weight="0.18105065666041276" count="579">feature</word>
+	<word weight="0.1275797373358349" count="408">num</word>
+	<word weight="0.11382113821138211" count="364">ilist</word>
+	<word weight="0.08724202626641651" count="279">instance</word>
+	<word weight="0.07879924953095685" count="252">gain</word>
+	<word weight="0.07598499061913697" count="243">vector</word>
+	<word weight="0.035021888680425266" count="112">info</word>
+	<word weight="0.03470919324577861" count="111">classification</word>
+	<word weight="0.02782989368355222" count="89">size</word>
+	<word weight="0.02689180737961226" count="86">target</word>
+	<phrase weight="0.0603448275862069" count="28">feature vector</phrase>
+	<phrase weight="0.034482758620689655" count="16">instance ilist</phrase>
+	<phrase weight="0.032327586206896554" count="15">info gain</phrase>
+	<phrase weight="0.01939655172413793" count="9">gain feature</phrase>
+	<phrase weight="0.01939655172413793" count="9">num location</phrase>
+	<phrase weight="0.017241379310344827" count="8">num feature</phrase>
+	<phrase weight="0.017241379310344827" count="8">ilist ilist</phrase>
+	<phrase weight="0.015086206896551725" count="7">ilist target</phrase>
+	<phrase weight="0.01293103448275862" count="6">classification classification</phrase>
+	<phrase weight="0.01293103448275862" count="6">ilist instance</phrase>
+  </topic>
+  <topic id="40" alpha="0.004392863843811535" totalTokens="1980" titles="prob, loc, var, location, num, small, single, idx, large, val">
+	<word weight="0.09747474747474748" count="193">prob</word>
+	<word weight="0.07878787878787878" count="156">loc</word>
+	<word weight="0.06717171717171717" count="133">var</word>
+	<word weight="0.05353535353535353" count="106">location</word>
+	<word weight="0.05353535353535353" count="106">num</word>
+	<word weight="0.044444444444444446" count="88">small</word>
+	<word weight="0.03939393939393939" count="78">single</word>
+	<word weight="0.03939393939393939" count="78">idx</word>
+	<word weight="0.03383838383838384" count="67">large</word>
+	<word weight="0.030303030303030304" count="60">val</word>
+	<phrase weight="0.0223463687150838" count="8">internal discrete</phrase>
+	<phrase weight="0.019553072625698324" count="7">location loc</phrase>
+	<phrase weight="0.01675977653631285" count="6">prob single</phrase>
+	<phrase weight="0.01675977653631285" count="6">projection large idx small</phrase>
+	<phrase weight="0.0111731843575419" count="4">prob phi</phrase>
+	<phrase weight="0.0111731843575419" count="4">blank subset</phrase>
+	<phrase weight="0.0111731843575419" count="4">initialize projection</phrase>
+	<phrase weight="0.0111731843575419" count="4">internal blank subset</phrase>
+	<phrase weight="0.0111731843575419" count="4">num var</phrase>
+	<phrase weight="0.008379888268156424" count="3">current assn</phrase>
+  </topic>
+  <topic id="41" alpha="0.020931291784105303" totalTokens="935" titles="append append, prefix, buffer, property, key, length, add, numeric, component, suffix">
+	<word weight="0.20748663101604278" count="194">append</word>
+	<word weight="0.18288770053475936" count="171">prefix</word>
+	<word weight="0.11336898395721925" count="106">buffer</word>
+	<word weight="0.08342245989304813" count="78">property</word>
+	<word weight="0.06203208556149733" count="58">key</word>
+	<word weight="0.053475935828877004" count="50">length</word>
+	<word weight="0.033155080213903745" count="31">add</word>
+	<word weight="0.023529411764705882" count="22">numeric</word>
+	<word weight="0.020320855614973262" count="19">component</word>
+	<word weight="0.016042780748663103" count="15">suffix</word>
+	<phrase weight="0.17355371900826447" count="21">append append</phrase>
+	<phrase weight="0.06611570247933884" count="8">prefix prefix</phrase>
+	<phrase weight="0.049586776859504134" count="6">buffer buffer</phrase>
+	<phrase weight="0.04132231404958678" count="5">prefix prefix prefix</phrase>
+	<phrase weight="0.04132231404958678" count="5">component component</phrase>
+	<phrase weight="0.03305785123966942" count="4">buffer buffer append</phrase>
+	<phrase weight="0.024793388429752067" count="3">append append append</phrase>
+	<phrase weight="0.01652892561983471" count="2">buffer append append</phrase>
+	<phrase weight="0.01652892561983471" count="2">key property property</phrase>
+	<phrase weight="0.01652892561983471" count="2">property key</phrase>
+  </topic>
+  <topic id="42" alpha="0.011415259025522232" totalTokens="2268" titles="top word, num, position, score, sort, model, document, sorter, info, ">
+	<word weight="0.21164021164021163" count="480">word</word>
+	<word weight="0.08686067019400352" count="197">num</word>
+	<word weight="0.06569664902998236" count="149">position</word>
+	<word weight="0.0564373897707231" count="128">score</word>
+	<word weight="0.05202821869488536" count="118">sort</word>
+	<word weight="0.04805996472663139" count="109">model</word>
+	<word weight="0.046296296296296294" count="105">top</word>
+	<word weight="0.03439153439153439" count="78">document</word>
+	<word weight="0.033950617283950615" count="77">sorter</word>
+	<word weight="0.030864197530864196" count="70">info</word>
+	<phrase weight="0.10315186246418338" count="36">top word</phrase>
+	<phrase weight="0.05157593123209169" count="18">sort word</phrase>
+	<phrase weight="0.034383954154727794" count="12">position position</phrase>
+	<phrase weight="0.022922636103151862" count="8">num top word</phrase>
+	<phrase weight="0.02005730659025788" count="7">tree sorter</phrase>
+	<phrase weight="0.017191977077363897" count="6">word weight</phrase>
+	<phrase weight="0.014326647564469915" count="5">word score</phrase>
+	<phrase weight="0.011461318051575931" count="4">num document proportion</phrase>
+	<phrase weight="0.011461318051575931" count="4">word word</phrase>
+	<phrase weight="0.011461318051575931" count="4">collect statistic</phrase>
+  </topic>
+  <topic id="43" alpha="0.03805401124412516" totalTokens="3361" titles="weight weight, num, length, add, training, initialize, change, construct, note, ">
+	<word weight="0.6986016066646832" count="2348">weight</word>
+	<word weight="0.09163939303778637" count="308">num</word>
+	<word weight="0.059208568878310025" count="199">length</word>
+	<word weight="0.03272835465635228" count="110">add</word>
+	<word weight="0.021124665278191016" count="71">training</word>
+	<word weight="0.008033323415650105" count="27">initialize</word>
+	<word weight="0.007140731925022315" count="24">init</word>
+	<word weight="0.005950609937518596" count="20">construct</word>
+	<word weight="0.005950609937518596" count="20">change</word>
+	<word weight="0.0050580184468908065" count="17">note</word>
+	<phrase weight="0.44649446494464945" count="121">weight weight</phrase>
+	<phrase weight="0.06273062730627306" count="17">weight weight weight</phrase>
+	<phrase weight="0.04797047970479705" count="13">weight length</phrase>
+	<phrase weight="0.04059040590405904" count="11">weight weight weight weight</phrase>
+	<phrase weight="0.04059040590405904" count="11">weight length weight</phrase>
+	<phrase weight="0.02952029520295203" count="8">weight num</phrase>
+	<phrase weight="0.02952029520295203" count="8">length weight</phrase>
+	<phrase weight="0.01845018450184502" count="5">num weight</phrase>
+	<phrase weight="0.014760147601476014" count="4">init weight</phrase>
+	<phrase weight="0.014760147601476014" count="4">weight weight length</phrase>
+  </topic>
+  <topic id="44" alpha="0.007387149065797776" totalTokens="1582" titles="region, edge, iterator, child, factor, var, parent, ptl, compute, add">
+	<word weight="0.31036662452591657" count="491">region</word>
+	<word weight="0.13274336283185842" count="210">edge</word>
+	<word weight="0.04804045512010114" count="76">iterator</word>
+	<word weight="0.04108723135271808" count="65">child</word>
+	<word weight="0.03729456384323641" count="59">factor</word>
+	<word weight="0.03350189633375474" count="53">var</word>
+	<word weight="0.03286978508217446" count="52">parent</word>
+	<word weight="0.025916561314791402" count="41">ptl</word>
+	<word weight="0.021491782553729456" count="34">compute</word>
+	<word weight="0.020227560050568902" count="32">add</word>
+	<phrase weight="0.04291845493562232" count="10">region region</phrase>
+	<phrase weight="0.017167381974248927" count="4">avg energy</phrase>
+	<phrase weight="0.017167381974248927" count="4">region edge edge</phrase>
+	<phrase weight="0.017167381974248927" count="4">edge edge</phrase>
+	<phrase weight="0.017167381974248927" count="4">construct region</phrase>
+	<phrase weight="0.017167381974248927" count="4">parent child</phrase>
+	<phrase weight="0.017167381974248927" count="4">iterator region</phrase>
+	<phrase weight="0.012875536480686695" count="3">region edge edge region edge</phrase>
+	<phrase weight="0.012875536480686695" count="3">region edge region edge</phrase>
+	<phrase weight="0.012875536480686695" count="3">edge rgn</phrase>
+  </topic>
+  <topic id="45" alpha="0.0023273471201924532" totalTokens="840" titles="direction, alam, grad, norm, poly, matrix, link, ops, rho, fine">
+	<word weight="0.09047619047619047" count="76">direction</word>
+	<word weight="0.07380952380952381" count="62">alam</word>
+	<word weight="0.047619047619047616" count="40">grad</word>
+	<word weight="0.0380952380952381" count="32">norm</word>
+	<word weight="0.03333333333333333" count="28">poly</word>
+	<word weight="0.02857142857142857" count="24">matrix</word>
+	<word weight="0.02857142857142857" count="24">link</word>
+	<word weight="0.02738095238095238" count="23">ops</word>
+	<word weight="0.02619047619047619" count="22">rho</word>
+	<word weight="0.023809523809523808" count="20">fine</word>
+	<phrase weight="0.0625" count="9">direction grad</phrase>
+	<phrase weight="0.027777777777777776" count="4">alam alam</phrase>
+	<phrase weight="0.013888888888888888" count="2">orthant wise simple poly poly simple poly optimiz bfg orthant wise memory poly bfg</phrase>
+	<phrase weight="0.013888888888888888" count="2">fix dir</phrase>
+	<phrase weight="0.013888888888888888" count="2">orthant wise memory</phrase>
+	<phrase weight="0.013888888888888888" count="2">push link toadd</phrase>
+	<phrase weight="0.013888888888888888" count="2">direction alarm</phrase>
+	<phrase weight="0.013888888888888888" count="2">dir deriv</phrase>
+	<phrase weight="0.013888888888888888" count="2">direction norm</phrase>
+	<phrase weight="0.013888888888888888" count="2">simple poly poly simple poly optimiz</phrase>
+  </topic>
+  <topic id="46" alpha="0.0056056853587343105" totalTokens="1290" titles="prior, hyperbolic, label, gaussian, sharpness, expectation, slope, infinite, variance, likelihood">
+	<word weight="0.21550387596899226" count="278">prior</word>
+	<word weight="0.14573643410852713" count="188">hyperbolic</word>
+	<word weight="0.06899224806201551" count="89">label</word>
+	<word weight="0.056589147286821705" count="73">gaussian</word>
+	<word weight="0.05581395348837209" count="72">sharpness</word>
+	<word weight="0.05271317829457364" count="68">expectation</word>
+	<word weight="0.046511627906976744" count="60">slope</word>
+	<word weight="0.044186046511627906" count="57">infinite</word>
+	<word weight="0.04263565891472868" count="55">variance</word>
+	<word weight="0.03953488372093023" count="51">likelihood</word>
+	<phrase weight="0.09090909090909091" count="20">hyperbolic prior</phrase>
+	<phrase weight="0.045454545454545456" count="10">label likelihood</phrase>
+	<phrase weight="0.04090909090909091" count="9">gaussian prior</phrase>
+	<phrase weight="0.03636363636363636" count="8">inf label</phrase>
+	<phrase weight="0.03636363636363636" count="8">inf unlabel</phrase>
+	<phrase weight="0.02727272727272727" count="6">prior variance</phrase>
+	<phrase weight="0.02727272727272727" count="6">hyperbolic prior sharpness</phrase>
+	<phrase weight="0.02727272727272727" count="6">slope hyperbolic</phrase>
+	<phrase weight="0.02727272727272727" count="6">multi conditional</phrase>
+	<phrase weight="0.022727272727272728" count="5">gaussian prior variance</phrase>
+  </topic>
+  <topic id="47" alpha="0.029967851814835536" totalTokens="1916" titles="max ent, size, classifier, min, classify, math, alphabet, variance, normalize, ">
+	<word weight="0.3815240083507307" count="731">max</word>
+	<word weight="0.17693110647181629" count="339">ent</word>
+	<word weight="0.06419624217118998" count="123">size</word>
+	<word weight="0.060542797494780795" count="116">classifier</word>
+	<word weight="0.044363256784968684" count="85">min</word>
+	<word weight="0.038622129436325675" count="74">classify</word>
+	<word weight="0.02661795407098121" count="51">math</word>
+	<word weight="0.016179540709812108" count="31">variance</word>
+	<word weight="0.016179540709812108" count="31">alphabet</word>
+	<word weight="0.014613778705636743" count="28">normalize</word>
+	<phrase weight="0.5641025641025641" count="198">max ent</phrase>
+	<phrase weight="0.05128205128205128" count="18">max max</phrase>
+	<phrase weight="0.022792022792022793" count="8">max ent classifier</phrase>
+	<phrase weight="0.014245014245014245" count="5">maximum entropy</phrase>
+	<phrase weight="0.014245014245014245" count="5">classifier max ent</phrase>
+	<phrase weight="0.011396011396011397" count="4">classifier classifier</phrase>
+	<phrase weight="0.011396011396011397" count="4">min max</phrase>
+	<phrase weight="0.011396011396011397" count="4">ent classifier</phrase>
+	<phrase weight="0.011396011396011397" count="4">alphabet size</phrase>
+	<phrase weight="0.008547008547008548" count="3">classify classifier</phrase>
+  </topic>
+  <topic id="48" alpha="0.01568740658468593" totalTokens="5057" titles="factor graph, graph mdl, var, variable, model, add, inferenc, iterator, marginal, ">
+	<word weight="0.1305121613604904" count="660">factor</word>
+	<word weight="0.10935337156416848" count="553">var</word>
+	<word weight="0.08957880166106387" count="453">mdl</word>
+	<word weight="0.07890053391338739" count="399">graph</word>
+	<word weight="0.06248764089381056" count="316">variable</word>
+	<word weight="0.03974688550524026" count="201">model</word>
+	<word weight="0.034012260233339926" count="172">add</word>
+	<word weight="0.028870872058532726" count="146">inferenc</word>
+	<word weight="0.02768439786434645" count="140">iterator</word>
+	<word weight="0.026102432272098082" count="132">marginal</word>
+	<phrase weight="0.032926829268292684" count="27">factor graph</phrase>
+	<phrase weight="0.02804878048780488" count="23">graph mdl</phrase>
+	<phrase weight="0.014634146341463415" count="12">variable var</phrase>
+	<phrase weight="0.013414634146341463" count="11">compute marginal</phrase>
+	<phrase weight="0.013414634146341463" count="11">var var</phrase>
+	<phrase weight="0.013414634146341463" count="11">factor graph mdl</phrase>
+	<phrase weight="0.012195121951219513" count="10">undirect model</phrase>
+	<phrase weight="0.01097560975609756" count="9">mdl add factor</phrase>
+	<phrase weight="0.01097560975609756" count="9">add factor</phrase>
+	<phrase weight="0.01097560975609756" count="9">var variable</phrase>
+  </topic>
+  <topic id="49" alpha="0.0020417824826798993" totalTokens="2688" titles="mdl, model, joint, alg, marginal, variable, inferenc, random, max, trp">
+	<word weight="0.07886904761904762" count="212">mdl</word>
+	<word weight="0.055431547619047616" count="149">model</word>
+	<word weight="0.050967261904761904" count="137">joint</word>
+	<word weight="0.04724702380952381" count="127">alg</word>
+	<word weight="0.036458333333333336" count="98">marginal</word>
+	<word weight="0.03571428571428571" count="96">variable</word>
+	<word weight="0.03422619047619048" count="92">inferenc</word>
+	<word weight="0.03273809523809524" count="88">random</word>
+	<word weight="0.03273809523809524" count="88">max</word>
+	<word weight="0.03162202380952381" count="85">trp</word>
+	<phrase weight="0.011583011583011582" count="6">model mdl</phrase>
+	<phrase weight="0.011583011583011582" count="6">ptl random</phrase>
+	<phrase weight="0.009652509652509652" count="5">lookup marginal</phrase>
+	<phrase weight="0.009652509652509652" count="5">marginal mdl</phrase>
+	<phrase weight="0.007722007722007722" count="4">model model</phrase>
+	<phrase weight="0.007722007722007722" count="4">model length</phrase>
+	<phrase weight="0.007722007722007722" count="4">length mdl idx</phrase>
+	<phrase weight="0.007722007722007722" count="4">mdl idx</phrase>
+	<phrase weight="0.007722007722007722" count="4">brute force</phrase>
+	<phrase weight="0.007722007722007722" count="4">tree inferenc</phrase>
+  </topic>
+  <topic id="50" alpha="0.0977845351349556" totalTokens="6802" titles="index index, illegal argument, index length, length index, index index index, index sort, size, add, fill, check">
+	<word weight="0.5704204645692443" count="3880">index</word>
+	<word weight="0.1340782122905028" count="912">length</word>
+	<word weight="0.09805939429579535" count="667">size</word>
+	<word weight="0.026168773890032342" count="178">illegal</word>
+	<word weight="0.026168773890032342" count="178">sort</word>
+	<word weight="0.022934431049691267" count="156">argument</word>
+	<word weight="0.018965010291090857" count="129">add</word>
+	<word weight="0.006468685680682152" count="44">fill</word>
+	<word weight="0.006174654513378418" count="42">check</word>
+	<word weight="0.00558659217877095" count="38">high</word>
+	<phrase weight="0.2458521870286576" count="163">index index</phrase>
+	<phrase weight="0.06787330316742081" count="45">illegal argument</phrase>
+	<phrase weight="0.058823529411764705" count="39">index length</phrase>
+	<phrase weight="0.05128205128205128" count="34">length index</phrase>
+	<phrase weight="0.0392156862745098" count="26">index index index</phrase>
+	<phrase weight="0.033182503770739065" count="22">index sort</phrase>
+	<phrase weight="0.02564102564102564" count="17">size size</phrase>
+	<phrase weight="0.0196078431372549" count="13">sort index sort index</phrase>
+	<phrase weight="0.0196078431372549" count="13">index size</phrase>
+	<phrase weight="0.016591251885369532" count="11">sort index</phrase>
+  </topic>
+  <topic id="51" alpha="0.0029139890656691542" totalTokens="1659" titles="space prediction, test, list, input, accuracy, add, alphabet, mcrf, memm, ">
+	<word weight="0.0644966847498493" count="107">test</word>
+	<word weight="0.05605786618444846" count="93">list</word>
+	<word weight="0.047619047619047616" count="79">input</word>
+	<word weight="0.037371910789632305" count="62">accuracy</word>
+	<word weight="0.03676913803496082" count="61">space</word>
+	<word weight="0.03134418324291742" count="52">add</word>
+	<word weight="0.024110910186859555" count="40">alphabet</word>
+	<word weight="0.02230259192284509" count="37">mcrf</word>
+	<word weight="0.02230259192284509" count="37">prediction</word>
+	<word weight="0.02109704641350211" count="35">memm</word>
+	<phrase weight="0.0668693009118541" count="22">space prediction</phrase>
+	<phrase weight="0.057750759878419454" count="19">average accuracy list</phrase>
+	<phrase weight="0.0243161094224924" count="8">input alphabet</phrase>
+	<phrase weight="0.015197568389057751" count="5">err err</phrase>
+	<phrase weight="0.0121580547112462" count="4">test space</phrase>
+	<phrase weight="0.0121580547112462" count="4">thought discussion lawyer decide requirement acceptable reach conclusion issue update criterion</phrase>
+	<phrase weight="0.0121580547112462" count="4">state state</phrase>
+	<phrase weight="0.00911854103343465" count="3">dimension list</phrase>
+	<phrase weight="0.00911854103343465" count="3">criterion definition require careful thought interpretation decide specific qualifie judge criterion</phrase>
+	<phrase weight="0.00911854103343465" count="3">carrier carrier</phrase>
+  </topic>
+  <topic id="52" alpha="0.009889371651043762" totalTokens="3065" titles="model filename, write, iteration, output, doc, word, print, interval, writer, ">
+	<word weight="0.10570962479608483" count="324">model</word>
+	<word weight="0.07699836867862969" count="236">filename</word>
+	<word weight="0.04796084828711256" count="147">write</word>
+	<word weight="0.04698205546492659" count="144">iteration</word>
+	<word weight="0.044371941272430666" count="136">output</word>
+	<word weight="0.04176182707993475" count="128">doc</word>
+	<word weight="0.03458401305057096" count="106">word</word>
+	<word weight="0.02903752039151713" count="89">print</word>
+	<word weight="0.025774877650897227" count="79">interval</word>
+	<word weight="0.025122349102773247" count="77">writer</word>
+	<phrase weight="0.04129263913824058" count="23">model filename</phrase>
+	<phrase weight="0.01615798922800718" count="9">report xml</phrase>
+	<phrase weight="0.01436265709156194" count="8">inferenc filename</phrase>
+	<phrase weight="0.01436265709156194" count="8">evaluator filename</phrase>
+	<phrase weight="0.012567324955116697" count="7">word weight</phrase>
+	<phrase weight="0.012567324955116697" count="7">random seed</phrase>
+	<phrase weight="0.012567324955116697" count="7">top word</phrase>
+	<phrase weight="0.012567324955116697" count="7">output model filename</phrase>
+	<phrase weight="0.010771992818671455" count="6">model print</phrase>
+	<phrase weight="0.010771992818671455" count="6">threshold doc</phrase>
+  </topic>
+  <topic id="53" alpha="0.008905385954166059" totalTokens="2013" titles="message, factor, msg, idx, iterator, strategy, propagation, belief, max, send">
+	<word weight="0.21013412816691504" count="423">message</word>
+	<word weight="0.12617983109786388" count="254">factor</word>
+	<word weight="0.07054148037754596" count="142">msg</word>
+	<word weight="0.06209637357178341" count="125">idx</word>
+	<word weight="0.05216095380029806" count="105">iterator</word>
+	<word weight="0.03278688524590164" count="66">strategy</word>
+	<word weight="0.029309488325881768" count="59">propagation</word>
+	<word weight="0.028812717337307503" count="58">belief</word>
+	<word weight="0.027819175360158967" count="56">max</word>
+	<word weight="0.026328862394436166" count="53">send</word>
+	<phrase weight="0.04398826979472141" count="15">send message</phrase>
+	<phrase weight="0.026392961876832845" count="9">table factor</phrase>
+	<phrase weight="0.02346041055718475" count="8">loggable level</phrase>
+	<phrase weight="0.017595307917888565" count="6">belief propagation</phrase>
+	<phrase weight="0.017595307917888565" count="6">iterator vit</phrase>
+	<phrase weight="0.017595307917888565" count="6">message strategy</phrase>
+	<phrase weight="0.01466275659824047" count="5">message message</phrase>
+	<phrase weight="0.01466275659824047" count="5">idx message</phrase>
+	<phrase weight="0.01466275659824047" count="5">factor factor</phrase>
+	<phrase weight="0.011730205278592375" count="4">message message message</phrase>
+  </topic>
+  <topic id="54" alpha="0.009193466151902654" totalTokens="1865" titles="naive bayes, classifier, instance, label, trainer, classification, classify, training, ">
+	<word weight="0.142627345844504" count="266">classifier</word>
+	<word weight="0.08042895442359249" count="150">instance</word>
+	<word weight="0.071313672922252" count="133">label</word>
+	<word weight="0.06970509383378017" count="130">bayes</word>
+	<word weight="0.06863270777479893" count="128">naive</word>
+	<word weight="0.05737265415549598" count="107">trainer</word>
+	<word weight="0.054691689008042894" count="102">train</word>
+	<word weight="0.048793565683646116" count="91">classification</word>
+	<word weight="0.04718498659517426" count="88">classify</word>
+	<word weight="0.04611260053619303" count="86">training</word>
+	<phrase weight="0.06363636363636363" count="21">naive bayes</phrase>
+	<phrase weight="0.02727272727272727" count="9">inst list</phrase>
+	<phrase weight="0.021212121212121213" count="7">classifier train</phrase>
+	<phrase weight="0.021212121212121213" count="7">naive bayes learn</phrase>
+	<phrase weight="0.021212121212121213" count="7">naive bayes trainer</phrase>
+	<phrase weight="0.01818181818181818" count="6">classifier classifier</phrase>
+	<phrase weight="0.01818181818181818" count="6">label label</phrase>
+	<phrase weight="0.015151515151515152" count="5">naive bayes classifier</phrase>
+	<phrase weight="0.015151515151515152" count="5">training instance</phrase>
+	<phrase weight="0.012121212121212121" count="4">incrementally train</phrase>
+  </topic>
+  <topic id="55" alpha="0.011484097243705998" totalTokens="4111" titles="table factor, ptl, variable, log, val, equal, assignment, vals, ">
+	<word weight="0.17781561663828752" count="731">factor</word>
+	<word weight="0.12843590367307225" count="528">table</word>
+	<word weight="0.1247871564096327" count="513">ptl</word>
+	<word weight="0.11067866699099976" count="455">variable</word>
+	<word weight="0.09340792994405255" count="384">var</word>
+	<word weight="0.03867672099245926" count="159">log</word>
+	<word weight="0.0323522257358307" count="133">val</word>
+	<word weight="0.028460228654828508" count="117">equal</word>
+	<word weight="0.01994648504013622" count="82">vals</word>
+	<word weight="0.01994648504013622" count="82">assignment</word>
+	<phrase weight="0.10317460317460317" count="52">table factor</phrase>
+	<phrase weight="0.02976190476190476" count="15">variable var</phrase>
+	<phrase weight="0.025793650793650792" count="13">table factor ptl</phrase>
+	<phrase weight="0.013888888888888888" count="7">ptl ptl</phrase>
+	<phrase weight="0.013888888888888888" count="7">var var</phrase>
+	<phrase weight="0.013888888888888888" count="7">table factor table factor</phrase>
+	<phrase weight="0.013888888888888888" count="7">variable variable</phrase>
+	<phrase weight="0.011904761904761904" count="6">table factor variable</phrase>
+	<phrase weight="0.011904761904761904" count="6">factor factor</phrase>
+	<phrase weight="0.00992063492063492" count="5">ptl log</phrase>
+  </topic>
+  <topic id="56" alpha="0.007993693978108216" totalTokens="1705" titles="transition, input, transducer, output, iterator, destination, position, emission, hmm, increment">
+	<word weight="0.2316715542521994" count="395">transition</word>
+	<word weight="0.18240469208211144" count="311">input</word>
+	<word weight="0.08680351906158358" count="148">transducer</word>
+	<word weight="0.07976539589442816" count="136">output</word>
+	<word weight="0.05513196480938416" count="94">iterator</word>
+	<word weight="0.04926686217008798" count="84">destination</word>
+	<word weight="0.03167155425219941" count="54">position</word>
+	<word weight="0.02756598240469208" count="47">emission</word>
+	<word weight="0.02463343108504399" count="42">hmm</word>
+	<word weight="0.02404692082111437" count="41">increment</word>
+	<phrase weight="0.04854368932038835" count="10">transition iterator</phrase>
+	<phrase weight="0.043689320388349516" count="9">increment transducer</phrase>
+	<phrase weight="0.02912621359223301" count="6">transition iterator transition iterator</phrase>
+	<phrase weight="0.024271844660194174" count="5">transducer transducer</phrase>
+	<phrase weight="0.024271844660194174" count="5">transition transition</phrase>
+	<phrase weight="0.024271844660194174" count="5">transducer trainable</phrase>
+	<phrase weight="0.019417475728155338" count="4">transition iterator input</phrase>
+	<phrase weight="0.019417475728155338" count="4">outgo transition</phrase>
+	<phrase weight="0.019417475728155338" count="4">describe transition</phrase>
+	<phrase weight="0.019417475728155338" count="4">increment transition transducer transition iterator</phrase>
+  </topic>
+  <topic id="57" alpha="0.2394240523240695" totalTokens="5079" titles="univ dept part achine learning languag toolkit information, univ dept part achine learning languag toolkit information callum, univ dept part achine learning languag toolkit information type, ">
+	<word weight="0.11340815121086828" count="576">type</word>
+	<word weight="0.09411301437290805" count="478">learning</word>
+	<word weight="0.09096278795038393" count="462">information</word>
+	<word weight="0.09056900964756842" count="460">part</word>
+	<word weight="0.08564678086237448" count="435">toolkit</word>
+	<word weight="0.08466233510533569" count="430">univ</word>
+	<word weight="0.08407166765111243" count="427">achine</word>
+	<word weight="0.08367788934829691" count="425">dept</word>
+	<word weight="0.08269344359125812" count="420">languag</word>
+	<word weight="0.03130537507383343" count="159">callum</word>
+	<phrase weight="0.3597972972972973" count="213">univ dept part achine learning languag toolkit information</phrase>
+	<phrase weight="0.07094594594594594" count="42">univ dept part achine learning languag toolkit information callum</phrase>
+	<phrase weight="0.060810810810810814" count="36">univ dept part achine learning languag toolkit information type</phrase>
+	<phrase weight="0.04391891891891892" count="26">univ dept part achine learning languag toolkit</phrase>
+	<phrase weight="0.033783783783783786" count="20">toolkit information</phrase>
+	<phrase weight="0.02702702702702703" count="16">univ dept</phrase>
+	<phrase weight="0.02364864864864865" count="14">univ dept part achine</phrase>
+	<phrase weight="0.02027027027027027" count="12">languag toolkit information</phrase>
+	<phrase weight="0.02027027027027027" count="12">univ dept part achine learning languag toolkit information callum type</phrase>
+	<phrase weight="0.02027027027027027" count="12">univ dept part achine learning</phrase>
+  </topic>
+  <topic id="58" alpha="0.03597798155536401" totalTokens="4026" titles="test test, suite test suite test, test suite test suite test, equal, junit, length, framework, type, add, runner">
+	<word weight="0.39319423745653254" count="1583">test</word>
+	<word weight="0.15325384997516145" count="617">suite</word>
+	<word weight="0.06408345752608048" count="258">equal</word>
+	<word weight="0.04868355688027819" count="196">junit</word>
+	<word weight="0.03825136612021858" count="154">length</word>
+	<word weight="0.030799801291604572" count="124">framework</word>
+	<word weight="0.024341778440139097" count="98">type</word>
+	<word weight="0.02036761053154496" count="82">add</word>
+	<word weight="0.01838052657724789" count="74">runner</word>
+	<word weight="0.018132141082960754" count="73">textui</word>
+	<phrase weight="0.14726840855106887" count="62">test test</phrase>
+	<phrase weight="0.07125890736342043" count="30">suite test suite test</phrase>
+	<phrase weight="0.05463182897862233" count="23">test suite test suite test</phrase>
+	<phrase weight="0.03800475059382423" count="16">junit framework</phrase>
+	<phrase weight="0.028503562945368172" count="12">throwable test suite suite length suite test suite length suite</phrase>
+	<phrase weight="0.021377672209026127" count="9">test junit framework</phrase>
+	<phrase weight="0.0166270783847981" count="7">throwable test suite suite length suite test suite length suite add test test</phrase>
+	<phrase weight="0.0166270783847981" count="7">junit framework test</phrase>
+	<phrase weight="0.0166270783847981" count="7">serializable clone serialization</phrase>
+	<phrase weight="0.014251781472684086" count="6">suite test suite suite test suite test</phrase>
+  </topic>
+  <topic id="59" alpha="0.08149704895095969" totalTokens="5772" titles="label label, label alphabet, label label label, alphabet lookup, index, type, add, target, serializable, construct">
+	<word weight="0.6838184338184338" count="3947">label</word>
+	<word weight="0.1586971586971587" count="916">alphabet</word>
+	<word weight="0.03620928620928621" count="209">index</word>
+	<word weight="0.024774774774774775" count="143">lookup</word>
+	<word weight="0.02304227304227304" count="133">type</word>
+	<word weight="0.020963270963270962" count="121">add</word>
+	<word weight="0.009702009702009701" count="56">target</word>
+	<word weight="0.00589050589050589" count="34">serializable</word>
+	<word weight="0.005197505197505198" count="30">construct</word>
+	<word weight="0.004851004851004851" count="28">equal</word>
+	<phrase weight="0.3584637268847795" count="252">label label</phrase>
+	<phrase weight="0.155049786628734" count="109">label alphabet</phrase>
+	<phrase weight="0.049786628733997154" count="35">label label label</phrase>
+	<phrase weight="0.03698435277382646" count="26">alphabet lookup</phrase>
+	<phrase weight="0.02275960170697013" count="16">target alphabet</phrase>
+	<phrase weight="0.021337126600284494" count="15">alphabet alphabet</phrase>
+	<phrase weight="0.01849217638691323" count="13">label index</phrase>
+	<phrase weight="0.017069701280227598" count="12">label alphabet label</phrase>
+	<phrase weight="0.017069701280227598" count="12">lookup label</phrase>
+	<phrase weight="0.015647226173541962" count="11">alphabet label</phrase>
+  </topic>
+  <topic id="60" alpha="0.029932473012993167" totalTokens="3496" titles="training testing, trainer trainer, evaluator, add, validation, random, accuracy, ">
+	<word weight="0.29033180778032036" count="1015">training</word>
+	<word weight="0.16247139588100687" count="568">trainer</word>
+	<word weight="0.1175629290617849" count="411">train</word>
+	<word weight="0.08781464530892448" count="307">testing</word>
+	<word weight="0.04662471395881007" count="163">test</word>
+	<word weight="0.031178489702517163" count="109">evaluator</word>
+	<word weight="0.030892448512585814" count="108">add</word>
+	<word weight="0.02631578947368421" count="92">validation</word>
+	<word weight="0.02488558352402746" count="87">random</word>
+	<word weight="0.02116704805491991" count="74">accuracy</word>
+	<phrase weight="0.07228915662650602" count="24">training testing</phrase>
+	<phrase weight="0.06927710843373494" count="23">trainer trainer</phrase>
+	<phrase weight="0.05421686746987952" count="18">training training</phrase>
+	<phrase weight="0.03614457831325301" count="12">train training</phrase>
+	<phrase weight="0.030120481927710843" count="10">trainer train</phrase>
+	<phrase weight="0.02710843373493976" count="9">training train</phrase>
+	<phrase weight="0.024096385542168676" count="8">train train</phrase>
+	<phrase weight="0.02108433734939759" count="7">testing testing</phrase>
+	<phrase weight="0.02108433734939759" count="7">randomly select</phrase>
+	<phrase weight="0.018072289156626505" count="6">testing training</phrase>
+  </topic>
+  <topic id="61" alpha="0.03204534088117025" totalTokens="2477" titles="reader reader, line, group, buffer, target, iterator, instance, split, input, ">
+	<word weight="0.21921679450948728" count="543">line</word>
+	<word weight="0.16188938231731934" count="401">reader</word>
+	<word weight="0.07710940654016955" count="191">group</word>
+	<word weight="0.051675413807024624" count="128">buffer</word>
+	<word weight="0.05006055712555511" count="124">read</word>
+	<word weight="0.041178845377472746" count="102">target</word>
+	<word weight="0.04077513120710537" count="101">iterator</word>
+	<word weight="0.03714170367379895" count="92">instance</word>
+	<word weight="0.03673798950343157" count="91">split</word>
+	<word weight="0.027048849414614454" count="67">input</word>
+	<phrase weight="0.0668693009118541" count="22">reader reader</phrase>
+	<phrase weight="0.0486322188449848" count="16">line split</phrase>
+	<phrase weight="0.04559270516717325" count="15">line group</phrase>
+	<phrase weight="0.0364741641337386" count="12">line line</phrase>
+	<phrase weight="0.03343465045592705" count="11">buffer reader</phrase>
+	<phrase weight="0.0243161094224924" count="8">buffer reader reader</phrase>
+	<phrase weight="0.015197568389057751" count="5">line reader</phrase>
+	<phrase weight="0.015197568389057751" count="5">line reader read line</phrase>
+	<phrase weight="0.015197568389057751" count="5">buffer buffer</phrase>
+	<phrase weight="0.0121580547112462" count="4">line line line</phrase>
+  </topic>
+  <topic id="62" alpha="0.011993964604108481" totalTokens="1360" titles="instance, list, description, evaluator, transducer, output, evaluate, trainer, override, type">
+	<word weight="0.32941176470588235" count="448">instance</word>
+	<word weight="0.13602941176470587" count="185">list</word>
+	<word weight="0.1125" count="153">description</word>
+	<word weight="0.07794117647058824" count="106">evaluator</word>
+	<word weight="0.07720588235294118" count="105">transducer</word>
+	<word weight="0.04632352941176471" count="63">output</word>
+	<word weight="0.04264705882352941" count="58">evaluate</word>
+	<word weight="0.03308823529411765" count="45">trainer</word>
+	<word weight="0.022794117647058822" count="31">override</word>
+	<word weight="0.020588235294117647" count="28">type</word>
+	<phrase weight="0.045454545454545456" count="8">instance instance</phrase>
+	<phrase weight="0.03409090909090909" count="6">instance list</phrase>
+	<phrase weight="0.03409090909090909" count="6">instance instance instance</phrase>
+	<phrase weight="0.028409090909090908" count="5">evaluator transducer evaluator</phrase>
+	<phrase weight="0.028409090909090908" count="5">type instance</phrase>
+	<phrase weight="0.022727272727272728" count="4">accuracy evaluator</phrase>
+	<phrase weight="0.022727272727272728" count="4">instance type instance</phrase>
+	<phrase weight="0.017045454545454544" count="3">list list</phrase>
+	<phrase weight="0.017045454545454544" count="3">instance instance list description</phrase>
+	<phrase weight="0.017045454545454544" count="3">evaluate transducer model</phrase>
+  </topic>
+  <topic id="63" alpha="0.006822987138522443" totalTokens="674" titles="label, lbl, dict, slice, lblseq, size, tmp, target, lvl, lookup">
+	<word weight="0.3353115727002967" count="226">label</word>
+	<word weight="0.1083086053412463" count="73">lbl</word>
+	<word weight="0.09050445103857567" count="61">dict</word>
+	<word weight="0.06231454005934718" count="42">slice</word>
+	<word weight="0.057863501483679525" count="39">lblseq</word>
+	<word weight="0.050445103857566766" count="34">size</word>
+	<word weight="0.04747774480712166" count="32">tmp</word>
+	<word weight="0.032640949554896145" count="22">target</word>
+	<word weight="0.028189910979228485" count="19">lvl</word>
+	<word weight="0.019287833827893175" count="13">lookup</word>
+	<phrase weight="0.04807692307692308" count="5">label label</phrase>
+	<phrase weight="0.04807692307692308" count="5">dict label</phrase>
+	<phrase weight="0.028846153846153848" count="3">lbl lbl</phrase>
+	<phrase weight="0.028846153846153848" count="3">slice label</phrase>
+	<phrase weight="0.028846153846153848" count="3">dict lookup</phrase>
+	<phrase weight="0.028846153846153848" count="3">label dict</phrase>
+	<phrase weight="0.019230769230769232" count="2">lblseq size</phrase>
+	<phrase weight="0.019230769230769232" count="2">target label</phrase>
+	<phrase weight="0.019230769230769232" count="2">label lbl</phrase>
+	<phrase weight="0.019230769230769232" count="2">slice slice label</phrase>
+  </topic>
+  <topic id="64" alpha="0.01358739156550649" totalTokens="2247" titles="num correct, precision, total, accuracy, recall, predict, size, incorrect, classification, ">
+	<word weight="0.16421895861148197" count="369">num</word>
+	<word weight="0.16154873164218958" count="363">correct</word>
+	<word weight="0.060970182465509566" count="137">precision</word>
+	<word weight="0.059635068980863376" count="134">total</word>
+	<word weight="0.05473965287049399" count="123">accuracy</word>
+	<word weight="0.05028927458834001" count="113">recall</word>
+	<word weight="0.04227859368046284" count="95">predict</word>
+	<word weight="0.03827325322652426" count="86">size</word>
+	<word weight="0.0267022696929239" count="60">incorrect</word>
+	<word weight="0.0258121940364931" count="58">classification</word>
+	<phrase weight="0.11048158640226628" count="39">num correct</phrase>
+	<phrase weight="0.028328611898016998" count="10">num predict</phrase>
+	<phrase weight="0.025495750708215296" count="9">num incorrect</phrase>
+	<phrase weight="0.0169971671388102" count="6">correct correct</phrase>
+	<phrase weight="0.014164305949008499" count="5">num uncorrect correct</phrase>
+	<phrase weight="0.014164305949008499" count="5">precision recall</phrase>
+	<phrase weight="0.014164305949008499" count="5">total uncorrect</phrase>
+	<phrase weight="0.0113314447592068" count="4">correct total</phrase>
+	<phrase weight="0.0113314447592068" count="4">num correct num</phrase>
+	<phrase weight="0.0113314447592068" count="4">accuracy coverage</phrase>
+  </topic>
+  <topic id="65" alpha="0.007044471548468083" totalTokens="1024" titles="extraction, num, stream, output, record, comparator, document, evaluator, print, target">
+	<word weight="0.10546875" count="108">extraction</word>
+	<word weight="0.0830078125" count="85">num</word>
+	<word weight="0.076171875" count="78">stream</word>
+	<word weight="0.060546875" count="62">output</word>
+	<word weight="0.0546875" count="56">record</word>
+	<word weight="0.044921875" count="46">comparator</word>
+	<word weight="0.0390625" count="40">document</word>
+	<word weight="0.037109375" count="38">evaluator</word>
+	<word weight="0.029296875" count="30">print</word>
+	<word weight="0.0283203125" count="29">target</word>
+	<phrase weight="0.03125" count="4">extraction extraction extraction</phrase>
+	<phrase weight="0.03125" count="4">num num</phrase>
+	<phrase weight="0.015625" count="2">document evaluator</phrase>
+	<phrase weight="0.015625" count="2">evaluator output stream output stream</phrase>
+	<phrase weight="0.015625" count="2">comparator comparator</phrase>
+	<phrase weight="0.015625" count="2">dict extraction</phrase>
+	<phrase weight="0.015625" count="2">print stream output stream print writer decimal format iterator</phrase>
+	<phrase weight="0.015625" count="2">comparator punctuation</phrase>
+	<phrase weight="0.015625" count="2">matrix ops</phrase>
+	<phrase weight="0.015625" count="2">iterator extract field iterator</phrase>
+  </topic>
+  <topic id="66" alpha="0.013528924548714487" totalTokens="1707" titles="single, matrix, size, idx, index, matrixn, equal, dimension, sparse, num">
+	<word weight="0.11540714704159344" count="197">single</word>
+	<word weight="0.10896309314586995" count="186">matrix</word>
+	<word weight="0.09197422378441711" count="157">size</word>
+	<word weight="0.0913884007029877" count="156">idx</word>
+	<word weight="0.06795547744581136" count="116">index</word>
+	<word weight="0.056824838898652606" count="97">matrixn</word>
+	<word weight="0.04452255418863503" count="76">equal</word>
+	<word weight="0.04159343878148799" count="71">dimension</word>
+	<word weight="0.035735207967193906" count="61">sparse</word>
+	<word weight="0.035735207967193906" count="61">num</word>
+	<phrase weight="0.038461538461538464" count="8">constant matrix</phrase>
+	<phrase weight="0.03365384615384615" count="7">sparse matrixn</phrase>
+	<phrase weight="0.02403846153846154" count="5">single index idx</phrase>
+	<phrase weight="0.019230769230769232" count="4">clone matrix</phrase>
+	<phrase weight="0.019230769230769232" count="4">single size</phrase>
+	<phrase weight="0.014423076923076924" count="3">single index</phrase>
+	<phrase weight="0.014423076923076924" count="3">matrixn single</phrase>
+	<phrase weight="0.014423076923076924" count="3">time equal</phrase>
+	<phrase weight="0.014423076923076924" count="3">matrix matrix</phrase>
+	<phrase weight="0.014423076923076924" count="3">dense matrix</phrase>
+  </topic>
+  <topic id="67" alpha="0.013824730488578518" totalTokens="2196" titles="sparse vector, equal, location, binary, idx, dot, dense, hash, matrix, ">
+	<word weight="0.23497267759562843" count="516">sparse</word>
+	<word weight="0.2204007285974499" count="484">vector</word>
+	<word weight="0.06830601092896176" count="150">equal</word>
+	<word weight="0.04143897996357013" count="91">location</word>
+	<word weight="0.04052823315118397" count="89">binary</word>
+	<word weight="0.04007285974499089" count="88">idx</word>
+	<word weight="0.03961748633879782" count="87">dot</word>
+	<word weight="0.033242258652094715" count="73">dense</word>
+	<word weight="0.03278688524590164" count="72">hash</word>
+	<word weight="0.029143897996357013" count="64">matrix</word>
+	<phrase weight="0.28662420382165604" count="90">sparse vector</phrase>
+	<phrase weight="0.03184713375796178" count="10">dense vector</phrase>
+	<phrase weight="0.01910828025477707" count="6">vector sparse vector</phrase>
+	<phrase weight="0.01910828025477707" count="6">sparse sparse vector</phrase>
+	<phrase weight="0.01592356687898089" count="5">equal sparse</phrase>
+	<phrase weight="0.01592356687898089" count="5">matrix clone matrix</phrase>
+	<phrase weight="0.009554140127388535" count="3">sparse vector stddev</phrase>
+	<phrase weight="0.009554140127388535" count="3">location equal location</phrase>
+	<phrase weight="0.009554140127388535" count="3">location idx</phrase>
+	<phrase weight="0.009554140127388535" count="3">implie vector binary sparse vector</phrase>
+  </topic>
+  <topic id="68" alpha="0.0038170005073555036" totalTokens="3067" titles="clique, unroll, var, graph, template, assignment, factor, tmpl, size, cache">
+	<word weight="0.10661884577763286" count="327">clique</word>
+	<word weight="0.07890446690577112" count="242">unroll</word>
+	<word weight="0.06455820019563091" count="198">var</word>
+	<word weight="0.06292794261493316" count="193">graph</word>
+	<word weight="0.06064558200195631" count="186">template</word>
+	<word weight="0.04858167590479296" count="149">assignment</word>
+	<word weight="0.03945223345288556" count="121">factor</word>
+	<word weight="0.039126181936746" count="120">tmpl</word>
+	<word weight="0.0313009455493968" count="96">size</word>
+	<word weight="0.029670687968699056" count="91">cache</word>
+	<phrase weight="0.02697841726618705" count="15">sparse vector</phrase>
+	<phrase weight="0.01618705035971223" count="9">cache stale cache</phrase>
+	<phrase weight="0.014388489208633094" count="8">clique clique</phrase>
+	<phrase weight="0.014388489208633094" count="8">assignment iterator</phrase>
+	<phrase weight="0.01079136690647482" count="6">tmpl template</phrase>
+	<phrase weight="0.01079136690647482" count="6">var clique</phrase>
+	<phrase weight="0.01079136690647482" count="6">factor clique</phrase>
+	<phrase weight="0.008992805755395683" count="5">unroll graph unroll</phrase>
+	<phrase weight="0.008992805755395683" count="5">assignment lblseq</phrase>
+	<phrase weight="0.008992805755395683" count="5">graph unroll graph</phrase>
+  </topic>
+  <topic id="69" alpha="0.029962380328067573" totalTokens="1587" titles="print writer, print print, max, close, format, lookup, threshold, document, yao, limin">
+	<word weight="0.5236294896030246" count="831">print</word>
+	<word weight="0.22747321991178324" count="361">writer</word>
+	<word weight="0.04788909892879647" count="76">max</word>
+	<word weight="0.035916824196597356" count="57">close</word>
+	<word weight="0.03087586641461878" count="49">format</word>
+	<word weight="0.013232514177693762" count="21">lookup</word>
+	<word weight="0.008821676118462508" count="14">threshold</word>
+	<word weight="0.006931316950220542" count="11">document</word>
+	<word weight="0.00630119722747322" count="10">yao</word>
+	<word weight="0.00630119722747322" count="10">limin</word>
+	<phrase weight="0.19183673469387755" count="47">print writer</phrase>
+	<phrase weight="0.09795918367346938" count="24">print print</phrase>
+	<phrase weight="0.053061224489795916" count="13">writer writer</phrase>
+	<phrase weight="0.04081632653061224" count="10">writer print</phrase>
+	<phrase weight="0.036734693877551024" count="9">print writer print</phrase>
+	<phrase weight="0.02857142857142857" count="7">writer print writer</phrase>
+	<phrase weight="0.024489795918367346" count="6">print writer writer</phrase>
+	<phrase weight="0.024489795918367346" count="6">writer print writer writer</phrase>
+	<phrase weight="0.02040816326530612" count="5">print print print</phrase>
+	<phrase weight="0.02040816326530612" count="5">close print</phrase>
+  </topic>
+  <topic id="70" alpha="0.017404812780767196" totalTokens="1093" titles="stream, output, input, ois, close, obj, dir, create, write, append">
+	<word weight="0.23513266239707228" count="257">stream</word>
+	<word weight="0.1546203110704483" count="169">output</word>
+	<word weight="0.08691674290942361" count="95">input</word>
+	<word weight="0.05215004574565416" count="57">ois</word>
+	<word weight="0.0384263494967978" count="42">close</word>
+	<word weight="0.0384263494967978" count="42">obj</word>
+	<word weight="0.03476669716376944" count="38">dir</word>
+	<word weight="0.028362305580969808" count="31">create</word>
+	<word weight="0.024702653247941447" count="27">write</word>
+	<word weight="0.024702653247941447" count="27">append</word>
+	<phrase weight="0.10738255033557047" count="16">output stream</phrase>
+	<phrase weight="0.08053691275167785" count="12">input stream</phrase>
+	<phrase weight="0.06040268456375839" count="9">ois close</phrase>
+	<phrase weight="0.040268456375838924" count="6">stream ois</phrase>
+	<phrase weight="0.03355704697986577" count="5">stream output stream</phrase>
+	<phrase weight="0.026845637583892617" count="4">output prefix</phrase>
+	<phrase weight="0.026845637583892617" count="4">stream output</phrase>
+	<phrase weight="0.026845637583892617" count="4">stack trace</phrase>
+	<phrase weight="0.020134228187919462" count="3">builder append</phrase>
+	<phrase weight="0.020134228187919462" count="3">stream write</phrase>
+  </topic>
+  <topic id="71" alpha="0.0017527389178906099" totalTokens="1343" titles="num, weight, count, document, word, ilist, current, index, len, frequency">
+	<word weight="0.1518987341772152" count="204">num</word>
+	<word weight="0.12434847356664185" count="167">weight</word>
+	<word weight="0.09158600148920328" count="123">count</word>
+	<word weight="0.05063291139240506" count="68">document</word>
+	<word weight="0.04765450483991065" count="64">word</word>
+	<word weight="0.040208488458674606" count="54">ilist</word>
+	<word weight="0.039463886820551006" count="53">current</word>
+	<word weight="0.03425167535368578" count="46">index</word>
+	<word weight="0.03127326880119136" count="42">len</word>
+	<word weight="0.029784065524944156" count="40">frequency</word>
+	<phrase weight="0.07142857142857142" count="15">prior weight</phrase>
+	<phrase weight="0.06666666666666667" count="14">cumulative weight</phrase>
+	<phrase weight="0.06190476190476191" count="13">document frequency</phrase>
+	<phrase weight="0.05714285714285714" count="12">dist maxindex</phrase>
+	<phrase weight="0.04285714285714286" count="9">count index</phrase>
+	<phrase weight="0.0380952380952381" count="8">seq len</phrase>
+	<phrase weight="0.02857142857142857" count="6">count num</phrase>
+	<phrase weight="0.023809523809523808" count="5">weight weight</phrase>
+	<phrase weight="0.01904761904761905" count="4">dist maxindex maxindex</phrase>
+	<phrase weight="0.01904761904761905" count="4">top word</phrase>
+  </topic>
+  <topic id="72" alpha="0.006149585616415541" totalTokens="713" titles="point, character, stop, type, mark, length, buffer, stoplist, word, deletion">
+	<word weight="0.10378681626928471" count="74">point</word>
+	<word weight="0.09817671809256662" count="70">character</word>
+	<word weight="0.09256661991584852" count="66">stop</word>
+	<word weight="0.0785413744740533" count="56">type</word>
+	<word weight="0.07012622720897616" count="50">mark</word>
+	<word weight="0.06451612903225806" count="46">length</word>
+	<word weight="0.051893408134642355" count="37">buffer</word>
+	<word weight="0.043478260869565216" count="31">stoplist</word>
+	<word weight="0.03225806451612903" count="23">word</word>
+	<word weight="0.025245441795231416" count="18">deletion</word>
+	<phrase weight="0.045454545454545456" count="4">point character point</phrase>
+	<phrase weight="0.03409090909090909" count="3">mark deletion</phrase>
+	<phrase weight="0.022727272727272728" count="2">stop word</phrase>
+	<phrase weight="0.022727272727272728" count="2">mark mark</phrase>
+	<phrase weight="0.022727272727272728" count="2">character character length</phrase>
+	<phrase weight="0.022727272727272728" count="2">vocab tokeniz</phrase>
+	<phrase weight="0.022727272727272728" count="2">deletion mark</phrase>
+	<phrase weight="0.022727272727272728" count="2">length length buffer</phrase>
+	<phrase weight="0.022727272727272728" count="2">type hash simple unicode tokeniz accept</phrase>
+	<phrase weight="0.011363636363636364" count="1">character buffer length point point type character point type character point type character point type character point type character point type character point type character point type character point type character thing delimit word length character buffer length</phrase>
+  </topic>
+  <topic id="73" alpha="0.016862742316877122" totalTokens="1233" titles="dict lookup, dictionary lookup, alphabet dictionary, add, xxx, capacity, feat, swap, scale, ">
+	<word weight="0.259529602595296" count="320">dictionary</word>
+	<word weight="0.21248986212489862" count="262">dict</word>
+	<word weight="0.1573398215733982" count="194">alphabet</word>
+	<word weight="0.12084347120843471" count="149">lookup</word>
+	<word weight="0.0575831305758313" count="71">add</word>
+	<word weight="0.0186536901865369" count="23">xxx</word>
+	<word weight="0.016220600162206" count="20">capacity</word>
+	<word weight="0.015409570154095702" count="19">feat</word>
+	<word weight="0.010543390105433901" count="13">swap</word>
+	<word weight="0.008921330089213302" count="11">scale</word>
+	<phrase weight="0.12385321100917432" count="27">dict lookup</phrase>
+	<phrase weight="0.11009174311926606" count="24">dictionary lookup</phrase>
+	<phrase weight="0.10091743119266056" count="22">alphabet dictionary</phrase>
+	<phrase weight="0.08256880733944955" count="18">dictionary dictionary</phrase>
+	<phrase weight="0.0779816513761468" count="17">add dict lookup</phrase>
+	<phrase weight="0.05504587155963303" count="12">alphabet dict</phrase>
+	<phrase weight="0.04128440366972477" count="9">dict dict</phrase>
+	<phrase weight="0.03211009174311927" count="7">dictionary dictionary lookup</phrase>
+	<phrase weight="0.01834862385321101" count="4">dictionary dict</phrase>
+	<phrase weight="0.01834862385321101" count="4">dictionary alphabet</phrase>
+  </topic>
+  <topic id="74" alpha="0.008278353089482157" totalTokens="3895" titles="current type, cache coefficient, count index, beta, mass, dense, local, sum, bit, ">
+	<word weight="0.1147625160462131" count="447">index</word>
+	<word weight="0.09858793324775353" count="384">count</word>
+	<word weight="0.08677792041078305" count="338">current</word>
+	<word weight="0.07342747111681643" count="286">type</word>
+	<word weight="0.05673940949935815" count="221">beta</word>
+	<word weight="0.04159178433889602" count="162">mass</word>
+	<word weight="0.040051347881899874" count="156">dense</word>
+	<word weight="0.03953786906290115" count="154">local</word>
+	<word weight="0.032349165596919124" count="126">sum</word>
+	<word weight="0.03183568677792041" count="124">bit</word>
+	<phrase weight="0.04859335038363171" count="38">current type</phrase>
+	<phrase weight="0.03836317135549872" count="30">cache coefficient</phrase>
+	<phrase weight="0.029411764705882353" count="23">count index</phrase>
+	<phrase weight="0.02557544757033248" count="20">beta mass</phrase>
+	<phrase weight="0.023017902813299233" count="18">smooth mass</phrase>
+	<phrase weight="0.021739130434782608" count="17">count type</phrase>
+	<phrase weight="0.020460358056265986" count="16">dense index</phrase>
+	<phrase weight="0.020460358056265986" count="16">index current</phrase>
+	<phrase weight="0.01918158567774936" count="15">dense index local</phrase>
+	<phrase weight="0.017902813299232736" count="14">index dense index</phrase>
+  </topic>
+  <topic id="75" alpha="0.008273710685921167" totalTokens="1245" titles="index, instance, regression, residual, square, location, format, intercept, formatt, predictor">
+	<word weight="0.13975903614457832" count="174">index</word>
+	<word weight="0.060240963855421686" count="75">instance</word>
+	<word weight="0.05783132530120482" count="72">regression</word>
+	<word weight="0.05622489959839357" count="70">residual</word>
+	<word weight="0.04899598393574297" count="61">square</word>
+	<word weight="0.04819277108433735" count="60">location</word>
+	<word weight="0.0393574297188755" count="49">format</word>
+	<word weight="0.033734939759036145" count="42">intercept</word>
+	<word weight="0.03293172690763052" count="41">formatt</word>
+	<word weight="0.02971887550200803" count="37">predictor</word>
+	<phrase weight="0.034782608695652174" count="4">formatt format</phrase>
+	<phrase weight="0.02608695652173913" count="3">linear regression</phrase>
+	<phrase weight="0.02608695652173913" count="3">regression format</phrase>
+	<phrase weight="0.017391304347826087" count="2">formatt format standard</phrase>
+	<phrase weight="0.017391304347826087" count="2">regression linear regression</phrase>
+	<phrase weight="0.017391304347826087" count="2">length parameter</phrase>
+	<phrase weight="0.008695652173913044" count="1">format formatt precision index intercept index linear regression</phrase>
+	<phrase weight="0.008695652173913044" count="1">intercept term residual intercept index formatt format length</phrase>
+	<phrase weight="0.008695652173913044" count="1">precision index precision index residual residual</phrase>
+	<phrase weight="0.008695652173913044" count="1">length precision index err attempt precision</phrase>
+  </topic>
+  <topic id="76" alpha="0.007797101128285063" totalTokens="6172" titles="type type, alpha sum, current type, likelihood dirichlet, doc, print, iteration, gamma, interval, sample">
+	<word weight="0.1537589112119248" count="949">type</word>
+	<word weight="0.10677252106286456" count="659">doc</word>
+	<word weight="0.05816591056383668" count="359">print</word>
+	<word weight="0.057031756318859365" count="352">alpha</word>
+	<word weight="0.05460142579390797" count="337">sum</word>
+	<word weight="0.04034348671419313" count="249">iteration</word>
+	<word weight="0.03580686973428386" count="221">gamma</word>
+	<word weight="0.031594296824368116" count="195">likelihood</word>
+	<word weight="0.027057679844458848" count="167">interval</word>
+	<word weight="0.02559948152948801" count="158">sample</word>
+	<phrase weight="0.04008667388949079" count="37">type type</phrase>
+	<phrase weight="0.03683640303358613" count="34">alpha sum</phrase>
+	<phrase weight="0.03466955579631636" count="32">current type</phrase>
+	<phrase weight="0.02925243770314193" count="27">likelihood dirichlet</phrase>
+	<phrase weight="0.016251354279523293" count="15">gamma alpha</phrase>
+	<phrase weight="0.015167930660888408" count="14">doc doc</phrase>
+	<phrase weight="0.014084507042253521" count="13">interval iteration</phrase>
+	<phrase weight="0.013001083423618635" count="12">alphabet alphabet</phrase>
+	<phrase weight="0.009750812567713976" count="9">iteration iteration</phrase>
+	<phrase weight="0.00866738894907909" count="8">sum put</phrase>
+  </topic>
+  <topic id="77" alpha="0.0035057220977994545" totalTokens="421" titles="normal, word, relationship, start, net, jwnl, didion, elapse, demonstrate, importer">
+	<word weight="0.07838479809976247" count="33">normal</word>
+	<word weight="0.07125890736342043" count="30">word</word>
+	<word weight="0.06175771971496437" count="26">relationship</word>
+	<word weight="0.03800475059382423" count="16">start</word>
+	<word weight="0.03800475059382423" count="16">net</word>
+	<word weight="0.030878859857482184" count="13">jwnl</word>
+	<word weight="0.030878859857482184" count="13">didion</word>
+	<word weight="0.030878859857482184" count="13">elapse</word>
+	<word weight="0.028503562945368172" count="12">demonstrate</word>
+	<word weight="0.028503562945368172" count="12">importer</word>
+	<phrase weight="0.08333333333333333" count="5">uni normal</phrase>
+	<phrase weight="0.03333333333333333" count="2">itr relationship itr</phrase>
+	<phrase weight="0.03333333333333333" count="2">sense var word var pointer</phrase>
+	<phrase weight="0.03333333333333333" count="2">importer response</phrase>
+	<phrase weight="0.03333333333333333" count="2">word start</phrase>
+	<phrase weight="0.03333333333333333" count="2">uib cipr</phrase>
+	<phrase weight="0.016666666666666666" count="1">elapse current milli</phrase>
+	<phrase weight="0.016666666666666666" count="1">word net library</phrase>
+	<phrase weight="0.016666666666666666" count="1">word sense hyponym word lemma hyponym print demonstrate asymmetric relationship operation</phrase>
+	<phrase weight="0.016666666666666666" count="1">timing stanford</phrase>
+  </topic>
+  <topic id="78" alpha="0.018790155593151347" totalTokens="4067" titles="constraint constraint, label, expectation, num, feature, target, weight, index, count, size">
+	<word weight="0.374231620358987" count="1522">constraint</word>
+	<word weight="0.0848291123678387" count="345">label</word>
+	<word weight="0.06565035652815343" count="267">expectation</word>
+	<word weight="0.05950331940004917" count="242">num</word>
+	<word weight="0.0403245635603639" count="164">feature</word>
+	<word weight="0.039095156134743056" count="159">target</word>
+	<word weight="0.03565281534300467" count="145">weight</word>
+	<word weight="0.027046963363658718" count="110">index</word>
+	<word weight="0.023358741086796163" count="95">count</word>
+	<word weight="0.014261126137201869" count="58">size</word>
+	<phrase weight="0.12234910277324633" count="75">constraint constraint</phrase>
+	<phrase weight="0.02773246329526917" count="17">gregory druck</phrase>
+	<phrase weight="0.024469820554649267" count="15">constraint constraint constraint</phrase>
+	<phrase weight="0.01957585644371941" count="12">constraint expectation</phrase>
+	<phrase weight="0.01631321370309951" count="10">expectation constraint</phrase>
+	<phrase weight="0.01631321370309951" count="10">num label</phrase>
+	<phrase weight="0.01631321370309951" count="10">supervise constraint</phrase>
+	<phrase weight="0.009787928221859706" count="6">constraint label</phrase>
+	<phrase weight="0.009787928221859706" count="6">feature constraint</phrase>
+	<phrase weight="0.008156606851549755" count="5">constraint index</phrase>
+  </topic>
+  <topic id="79" alpha="0.009444447857529637" totalTokens="1405" titles="split, gain, ratio, base, inst, depth, max, entropy, point, min">
+	<word weight="0.10676156583629894" count="150">split</word>
+	<word weight="0.08469750889679716" count="119">gain</word>
+	<word weight="0.07544483985765124" count="106">ratio</word>
+	<word weight="0.06903914590747331" count="97">base</word>
+	<word weight="0.05195729537366548" count="73">inst</word>
+	<word weight="0.05124555160142349" count="72">depth</word>
+	<word weight="0.0498220640569395" count="70">max</word>
+	<word weight="0.046263345195729534" count="65">entropy</word>
+	<word weight="0.04199288256227758" count="59">point</word>
+	<word weight="0.032740213523131674" count="46">min</word>
+	<phrase weight="0.057692307692307696" count="15">split point</phrase>
+	<phrase weight="0.038461538461538464" count="10">gain ratio base</phrase>
+	<phrase weight="0.038461538461538464" count="10">gain ratio</phrase>
+	<phrase weight="0.026923076923076925" count="7">base entropy</phrase>
+	<phrase weight="0.023076923076923078" count="6">inst min</phrase>
+	<phrase weight="0.019230769230769232" count="5">gain ratio max</phrase>
+	<phrase weight="0.019230769230769232" count="5">ratio max</phrase>
+	<phrase weight="0.015384615384615385" count="4">vote entropy</phrase>
+	<phrase weight="0.015384615384615385" count="4">stop growth</phrase>
+	<phrase weight="0.015384615384615385" count="4">entropy threshold</phrase>
+  </topic>
+  <topic id="80" alpha="0.025557408801099094" totalTokens="1368" titles="random, sample, size, generate, positive, iterator, sampler, length, proportion, gaussian">
+	<word weight="0.36330409356725146" count="497">random</word>
+	<word weight="0.1513157894736842" count="207">sample</word>
+	<word weight="0.14619883040935672" count="200">size</word>
+	<word weight="0.043859649122807015" count="60">generate</word>
+	<word weight="0.03508771929824561" count="48">positive</word>
+	<word weight="0.033625730994152045" count="46">iterator</word>
+	<word weight="0.027046783625730993" count="37">sampler</word>
+	<word weight="0.02412280701754386" count="33">length</word>
+	<word weight="0.015350877192982455" count="21">proportion</word>
+	<word weight="0.015350877192982455" count="21">gaussian</word>
+	<phrase weight="0.10457516339869281" count="16">random random</phrase>
+	<phrase weight="0.05228758169934641" count="8">size size</phrase>
+	<phrase weight="0.0457516339869281" count="7">sample sample</phrase>
+	<phrase weight="0.0457516339869281" count="7">sample iterator</phrase>
+	<phrase weight="0.026143790849673203" count="4">sample generate</phrase>
+	<phrase weight="0.026143790849673203" count="4">size random</phrase>
+	<phrase weight="0.026143790849673203" count="4">generator random</phrase>
+	<phrase weight="0.026143790849673203" count="4">random size</phrase>
+	<phrase weight="0.026143790849673203" count="4">positive sample</phrase>
+	<phrase weight="0.0196078431372549" count="3">size size size</phrase>
+  </topic>
+  <topic id="81" alpha="0.009918705659461586" totalTokens="6109" titles="lattice, node, output, input, transducer, weight, alpha, length, destination, beta">
+	<word weight="0.09543296775249632" count="583">lattice</word>
+	<word weight="0.08757570797184482" count="535">node</word>
+	<word weight="0.056637747585529544" count="346">output</word>
+	<word weight="0.051563267310525455" count="315">input</word>
+	<word weight="0.05139957439842855" count="314">transducer</word>
+	<word weight="0.042560157145195614" count="260">weight</word>
+	<word weight="0.038467834342772955" count="235">alpha</word>
+	<word weight="0.03306596824357505" count="202">length</word>
+	<word weight="0.02848256670486168" count="174">destination</word>
+	<word weight="0.026681944671795712" count="163">beta</word>
+	<phrase weight="0.014304291287386216" count="11">sum lattice</phrase>
+	<phrase weight="0.013003901170351105" count="10">lattice length</phrase>
+	<phrase weight="0.013003901170351105" count="10">destination node</phrase>
+	<phrase weight="0.011703511053315995" count="9">forward backward</phrase>
+	<phrase weight="0.011703511053315995" count="9">logger fine</phrase>
+	<phrase weight="0.009102730819245773" count="7">input position</phrase>
+	<phrase weight="0.007802340702210663" count="6">transducer transducer</phrase>
+	<phrase weight="0.006501950585175552" count="5">node alpha</phrase>
+	<phrase weight="0.006501950585175552" count="5">constrain check label match</phrase>
+	<phrase weight="0.006501950585175552" count="5">transition weight</phrase>
+  </topic>
+  <topic id="82" alpha="0.01412554211435271" totalTokens="1938" titles="classifier classifier, instance, weak, num, classify, round, boost, pipe, ada, ">
+	<word weight="0.31320949432404543" count="607">classifier</word>
+	<word weight="0.07069143446852426" count="137">instance</word>
+	<word weight="0.0608875128998968" count="118">weak</word>
+	<word weight="0.06037151702786378" count="117">num</word>
+	<word weight="0.05108359133126935" count="99">classify</word>
+	<word weight="0.04179566563467492" count="81">inst</word>
+	<word weight="0.03973168214654283" count="77">round</word>
+	<word weight="0.033023735810113516" count="64">boost</word>
+	<word weight="0.029411764705882353" count="57">ada</word>
+	<word weight="0.029411764705882353" count="57">pipe</word>
+	<phrase weight="0.08561643835616438" count="25">classifier classifier</phrase>
+	<phrase weight="0.05136986301369863" count="15">ada boost</phrase>
+	<phrase weight="0.03767123287671233" count="11">classifier classifier classifier</phrase>
+	<phrase weight="0.03424657534246575" count="10">inst instance</phrase>
+	<phrase weight="0.02054794520547945" count="6">weak classifier</phrase>
+	<phrase weight="0.02054794520547945" count="6">classifier prediction</phrase>
+	<phrase weight="0.017123287671232876" count="5">weak learner</phrase>
+	<phrase weight="0.0136986301369863" count="4">feature selection</phrase>
+	<phrase weight="0.0136986301369863" count="4">instance inst</phrase>
+	<phrase weight="0.0136986301369863" count="4">underlie classifier</phrase>
+  </topic>
+  <topic id="83" alpha="0.007054218250171066" totalTokens="1011" titles="selection, ret, fold, add, split, proportion, clone, nfold, validation, ">
+	<word weight="0.09891196834817013" count="100">selection</word>
+	<word weight="0.076162215628091" count="77">ret</word>
+	<word weight="0.0751730959446093" count="76">fold</word>
+	<word weight="0.06923837784371908" count="70">add</word>
+	<word weight="0.058358061325420374" count="59">split</word>
+	<word weight="0.05341246290801187" count="54">select</word>
+	<word weight="0.03857566765578635" count="39">proportion</word>
+	<word weight="0.03758654797230465" count="38">clone</word>
+	<word weight="0.036597428288822946" count="37">nfold</word>
+	<word weight="0.03165182987141444" count="32">validation</word>
+	<phrase weight="0.06382978723404255" count="9">rand seed</phrase>
+	<phrase weight="0.03546099290780142" count="5">ret clone</phrase>
+	<phrase weight="0.028368794326241134" count="4">fold fold</phrase>
+	<phrase weight="0.028368794326241134" count="4">selection ret</phrase>
+	<phrase weight="0.028368794326241134" count="4">ranks add</phrase>
+	<phrase weight="0.028368794326241134" count="4">selection select</phrase>
+	<phrase weight="0.02127659574468085" count="3">nfold fold split</phrase>
+	<phrase weight="0.02127659574468085" count="3">selection selection</phrase>
+	<phrase weight="0.02127659574468085" count="3">element proportion</phrase>
+	<phrase weight="0.02127659574468085" count="3">split proportion</phrase>
+  </topic>
+  <topic id="84" alpha="0.005035813332905963" totalTokens="1684" titles="change stamp, weight, crf, factor, structure, expectation, sparse, infinite, incrementor, ">
+	<word weight="0.17577197149643706" count="296">weight</word>
+	<word weight="0.15973871733966746" count="269">crf</word>
+	<word weight="0.07244655581947744" count="122">stamp</word>
+	<word weight="0.06294536817102138" count="106">change</word>
+	<word weight="0.058788598574821854" count="99">factor</word>
+	<word weight="0.03147268408551069" count="53">structure</word>
+	<word weight="0.027315914489311165" count="46">expectation</word>
+	<word weight="0.02553444180522565" count="43">sparse</word>
+	<word weight="0.02494061757719715" count="42">infinite</word>
+	<word weight="0.021971496437054632" count="37">incrementor</word>
+	<phrase weight="0.08148148148148149" count="22">change stamp</phrase>
+	<phrase weight="0.06666666666666667" count="18">weight stamp</phrase>
+	<phrase weight="0.037037037037037035" count="10">crf crf</phrase>
+	<phrase weight="0.025925925925925925" count="7">crf weight</phrase>
+	<phrase weight="0.022222222222222223" count="6">structure change</phrase>
+	<phrase weight="0.022222222222222223" count="6">sparse weight</phrase>
+	<phrase weight="0.022222222222222223" count="6">objective function</phrase>
+	<phrase weight="0.022222222222222223" count="6">stamp crf weight change stamp</phrase>
+	<phrase weight="0.022222222222222223" count="6">factor factor</phrase>
+	<phrase weight="0.018518518518518517" count="5">structure change stamp</phrase>
+  </topic>
+  <topic id="85" alpha="0.0046755323485442694" totalTokens="2161" titles="alphabet, index, num, destination, selection, output, instance, lookup, history, connection">
+	<word weight="0.0981027302174919" count="212">alphabet</word>
+	<word weight="0.09578898658028691" count="207">index</word>
+	<word weight="0.08468301712170291" count="183">num</word>
+	<word weight="0.08283202221193892" count="179">destination</word>
+	<word weight="0.07866728366496992" count="170">selection</word>
+	<word weight="0.056918093475242945" count="123">output</word>
+	<word weight="0.04766311892642295" count="103">instance</word>
+	<word weight="0.031929662193428965" count="69">lookup</word>
+	<word weight="0.025913928736695974" count="56">history</word>
+	<word weight="0.024988431281813973" count="54">connection</word>
+	<phrase weight="0.049132947976878616" count="17">alphabet lookup</phrase>
+	<phrase weight="0.03757225433526012" count="13">output alphabet</phrase>
+	<phrase weight="0.028901734104046242" count="10">fully connect</phrase>
+	<phrase weight="0.023121387283236993" count="8">output alphabet lookup</phrase>
+	<phrase weight="0.02023121387283237" count="7">instance instance</phrase>
+	<phrase weight="0.02023121387283237" count="7">destination destination</phrase>
+	<phrase weight="0.02023121387283237" count="7">connect instance</phrase>
+	<phrase weight="0.017341040462427744" count="6">tran index</phrase>
+	<phrase weight="0.017341040462427744" count="6">alphabet alphabet</phrase>
+	<phrase weight="0.011560693641618497" count="4">ret math</phrase>
+  </topic>
+  <topic id="86" alpha="0.026514754776514216" totalTokens="2348" titles="pattern compile, regex pattern, match, matcher, group, pipe, find, dir, place, ">
+	<word weight="0.29045996592844975" count="682">pattern</word>
+	<word weight="0.20868824531516184" count="490">regex</word>
+	<word weight="0.11882453151618398" count="279">match</word>
+	<word weight="0.08517887563884156" count="200">compile</word>
+	<word weight="0.062180579216354344" count="146">matcher</word>
+	<word weight="0.02001703577512777" count="47">group</word>
+	<word weight="0.009795570698466781" count="23">pipe</word>
+	<word weight="0.009369676320272573" count="22">find</word>
+	<word weight="0.008943781942078365" count="21">dir</word>
+	<word weight="0.007666098807495741" count="18">place</word>
+	<phrase weight="0.12213740458015267" count="48">pattern compile</phrase>
+	<phrase weight="0.05343511450381679" count="21">regex pattern</phrase>
+	<phrase weight="0.05089058524173028" count="20">pattern pattern</phrase>
+	<phrase weight="0.03307888040712468" count="13">pattern regex</phrase>
+	<phrase weight="0.02544529262086514" count="10">regex matcher</phrase>
+	<phrase weight="0.022900763358778626" count="9">pattern matcher</phrase>
+	<phrase weight="0.020356234096692113" count="8">regex regex</phrase>
+	<phrase weight="0.017811704834605598" count="7">regex match pattern compile</phrase>
+	<phrase weight="0.017811704834605598" count="7">regex match</phrase>
+	<phrase weight="0.015267175572519083" count="6">pattern pattern compile</phrase>
+  </topic>
+  <topic id="87" alpha="0.007048285801945916" totalTokens="671" titles="string, theta, block, delimit, binary, unary, vector, hash, length, kernel">
+	<word weight="0.22205663189269748" count="149">string</word>
+	<word weight="0.13114754098360656" count="88">theta</word>
+	<word weight="0.10432190760059612" count="70">block</word>
+	<word weight="0.040238450074515646" count="27">delimit</word>
+	<word weight="0.040238450074515646" count="27">binary</word>
+	<word weight="0.037257824143070044" count="25">unary</word>
+	<word weight="0.037257824143070044" count="25">vector</word>
+	<word weight="0.029806259314456036" count="20">hash</word>
+	<word weight="0.029806259314456036" count="20">length</word>
+	<word weight="0.02533532041728763" count="17">kernel</word>
+	<phrase weight="0.051094890510948905" count="7">string block</phrase>
+	<phrase weight="0.043795620437956206" count="6">theta theta</phrase>
+	<phrase weight="0.0364963503649635" count="5">boltzmann unary</phrase>
+	<phrase weight="0.029197080291970802" count="4">binary unary</phrase>
+	<phrase weight="0.029197080291970802" count="4">delimit string</phrase>
+	<phrase weight="0.021897810218978103" count="3">fix theta</phrase>
+	<phrase weight="0.021897810218978103" count="3">theta theta theta theta</phrase>
+	<phrase weight="0.021897810218978103" count="3">append theta</phrase>
+	<phrase weight="0.021897810218978103" count="3">length string</phrase>
+	<phrase weight="0.021897810218978103" count="3">string present</phrase>
+  </topic>
+  <topic id="88" alpha="0.0089309848437084" totalTokens="970" titles="alpha, variance, sum, model, math, gaussian, klgain, alphachange, dalpha, incr">
+	<word weight="0.334020618556701" count="324">alpha</word>
+	<word weight="0.09484536082474226" count="92">variance</word>
+	<word weight="0.06597938144329897" count="64">sum</word>
+	<word weight="0.05567010309278351" count="54">model</word>
+	<word weight="0.05154639175257732" count="50">math</word>
+	<word weight="0.03402061855670103" count="33">gaussian</word>
+	<word weight="0.027835051546391754" count="27">klgain</word>
+	<word weight="0.024742268041237112" count="24">alphachange</word>
+	<word weight="0.02268041237113402" count="22">dalpha</word>
+	<word weight="0.020618556701030927" count="20">incr</word>
+	<phrase weight="0.07258064516129033" count="9">sum model</phrase>
+	<phrase weight="0.07258064516129033" count="9">alpha alpha</phrase>
+	<phrase weight="0.024193548387096774" count="3">alpha sum</phrase>
+	<phrase weight="0.024193548387096774" count="3">dmr alpha</phrase>
+	<phrase weight="0.024193548387096774" count="3">variance variance</phrase>
+	<phrase weight="0.016129032258064516" count="2">incr incr</phrase>
+	<phrase weight="0.016129032258064516" count="2">dalpha alpha</phrase>
+	<phrase weight="0.016129032258064516" count="2">alpha alpha alpha</phrase>
+	<phrase weight="0.016129032258064516" count="2">unit bit</phrase>
+	<phrase weight="0.016129032258064516" count="2">sum true</phrase>
+  </topic>
+  <topic id="89" alpha="0.013462773102414784" totalTokens="1960" titles="assn, assignment, var, row, variable, add, num, equal, val, vert">
+	<word weight="0.1923469387755102" count="377">assn</word>
+	<word weight="0.1913265306122449" count="375">assignment</word>
+	<word weight="0.12602040816326532" count="247">var</word>
+	<word weight="0.08520408163265306" count="167">row</word>
+	<word weight="0.03979591836734694" count="78">variable</word>
+	<word weight="0.03826530612244898" count="75">add</word>
+	<word weight="0.03469387755102041" count="68">num</word>
+	<word weight="0.034183673469387756" count="67">equal</word>
+	<word weight="0.02959183673469388" count="58">val</word>
+	<word weight="0.023979591836734693" count="47">vert</word>
+	<phrase weight="0.04067796610169491" count="12">assignment assn</phrase>
+	<phrase weight="0.04067796610169491" count="12">assignment assn assignment</phrase>
+	<phrase weight="0.030508474576271188" count="9">assn var</phrase>
+	<phrase weight="0.030508474576271188" count="9">assn assignment</phrase>
+	<phrase weight="0.02711864406779661" count="8">illegal argument</phrase>
+	<phrase weight="0.023728813559322035" count="7">add row</phrase>
+	<phrase weight="0.020338983050847456" count="6">assignment assignment</phrase>
+	<phrase weight="0.013559322033898305" count="4">variable var</phrase>
+	<phrase weight="0.013559322033898305" count="4">var vert</phrase>
+	<phrase weight="0.010169491525423728" count="3">call row</phrase>
+  </topic>
+  <topic id="90" alpha="0.0035284595261536053" totalTokens="820" titles="beta, gamma, alpha, beam, math, rmin, uniform, slist, back, ">
+	<word weight="0.16585365853658537" count="136">beta</word>
+	<word weight="0.0975609756097561" count="80">gamma</word>
+	<word weight="0.06463414634146342" count="53">alpha</word>
+	<word weight="0.046341463414634146" count="38">beam</word>
+	<word weight="0.046341463414634146" count="38">math</word>
+	<word weight="0.03780487804878049" count="31">rmin</word>
+	<word weight="0.03780487804878049" count="31">uniform</word>
+	<word weight="0.03048780487804878" count="25">slist</word>
+	<word weight="0.025609756097560974" count="21">back</word>
+	<word weight="0.025609756097560974" count="21">min</word>
+	<phrase weight="0.0364963503649635" count="5">alpha beta</phrase>
+	<phrase weight="0.029197080291970802" count="4">gamma gamma</phrase>
+	<phrase weight="0.021897810218978103" count="3">draw chi</phrase>
+	<phrase weight="0.021897810218978103" count="3">draw gamma</phrase>
+	<phrase weight="0.014598540145985401" count="2">uniform uniform</phrase>
+	<phrase weight="0.014598540145985401" count="2">bit bit</phrase>
+	<phrase weight="0.014598540145985401" count="2">beta min</phrase>
+	<phrase weight="0.014598540145985401" count="2">rmin slist</phrase>
+	<phrase weight="0.014598540145985401" count="2">beam width</phrase>
+	<phrase weight="0.014598540145985401" count="2">pow gamma</phrase>
+  </topic>
+  <topic id="91" alpha="0.002327055471374271" totalTokens="735" titles="tree, factory, terminator, root, child, touch, edge, writer, union, elt">
+	<word weight="0.16598639455782313" count="122">tree</word>
+	<word weight="0.05170068027210884" count="38">factory</word>
+	<word weight="0.04081632653061224" count="30">terminator</word>
+	<word weight="0.0380952380952381" count="28">root</word>
+	<word weight="0.03537414965986395" count="26">child</word>
+	<word weight="0.0326530612244898" count="24">touch</word>
+	<word weight="0.02585034013605442" count="19">edge</word>
+	<word weight="0.02585034013605442" count="19">writer</word>
+	<word weight="0.024489795918367346" count="18">union</word>
+	<word weight="0.024489795918367346" count="18">elt</word>
+	<phrase weight="0.03225806451612903" count="4">num touch</phrase>
+	<phrase weight="0.024193548387096774" count="3">tree root</phrase>
+	<phrase weight="0.024193548387096774" count="3">find union</phrase>
+	<phrase weight="0.016129032258064516" count="2">writer writer</phrase>
+	<phrase weight="0.016129032258064516" count="2">union find</phrase>
+	<phrase weight="0.016129032258064516" count="2">obj obj set</phrase>
+	<phrase weight="0.016129032258064516" count="2">parent child</phrase>
+	<phrase weight="0.016129032258064516" count="2">child parent</phrase>
+	<phrase weight="0.016129032258064516" count="2">doc builder</phrase>
+	<phrase weight="0.016129032258064516" count="2">writer writer writer verbose</phrase>
+  </topic>
+  <topic id="92" alpha="0.012352997792663911" totalTokens="2450" titles="tag tag, segment, start, output, num, size, equal, predict, input, length">
+	<word weight="0.22693877551020408" count="556">tag</word>
+	<word weight="0.21714285714285714" count="532">segment</word>
+	<word weight="0.15551020408163266" count="381">start</word>
+	<word weight="0.06" count="147">output</word>
+	<word weight="0.044081632653061226" count="108">num</word>
+	<word weight="0.03877551020408163" count="95">size</word>
+	<word weight="0.02816326530612245" count="69">equal</word>
+	<word weight="0.0236734693877551" count="58">predict</word>
+	<word weight="0.022857142857142857" count="56">input</word>
+	<word weight="0.015918367346938776" count="39">length</word>
+	<phrase weight="0.05370843989769821" count="21">tag tag</phrase>
+	<phrase weight="0.030690537084398978" count="12">predict segment</phrase>
+	<phrase weight="0.023017902813299233" count="9">segment segment</phrase>
+	<phrase weight="0.017902813299232736" count="7">segment start</phrase>
+	<phrase weight="0.017902813299232736" count="7">start start</phrase>
+	<phrase weight="0.017902813299232736" count="7">start tag tag</phrase>
+	<phrase weight="0.017902813299232736" count="7">background tag</phrase>
+	<phrase weight="0.015345268542199489" count="6">start tag segment tag</phrase>
+	<phrase weight="0.015345268542199489" count="6">start tag</phrase>
+	<phrase weight="0.015345268542199489" count="6">tag size</phrase>
+  </topic>
+  <topic id="93" alpha="0.010152844146123387" totalTokens="1888" titles="doc, count, num, document, length, total, hour, minute, cache, max">
+	<word weight="0.1292372881355932" count="244">doc</word>
+	<word weight="0.11440677966101695" count="216">count</word>
+	<word weight="0.08633474576271187" count="163">num</word>
+	<word weight="0.059322033898305086" count="112">document</word>
+	<word weight="0.048199152542372885" count="91">length</word>
+	<word weight="0.04608050847457627" count="87">total</word>
+	<word weight="0.03177966101694915" count="60">hour</word>
+	<word weight="0.03177966101694915" count="60">minute</word>
+	<word weight="0.03177966101694915" count="60">cache</word>
+	<word weight="0.030190677966101694" count="57">max</word>
+	<phrase weight="0.0398406374501992" count="10">day hour</phrase>
+	<phrase weight="0.035856573705179286" count="9">hour minute</phrase>
+	<phrase weight="0.027888446215139442" count="7">doc len</phrase>
+	<phrase weight="0.0199203187250996" count="5">minute hour minute minute day hour hour</phrase>
+	<phrase weight="0.0199203187250996" count="5">topication topication</phrase>
+	<phrase weight="0.0199203187250996" count="5">topication dataset</phrase>
+	<phrase weight="0.0199203187250996" count="5">hour minute minute day hour hour</phrase>
+	<phrase weight="0.01593625498007968" count="4">total day</phrase>
+	<phrase weight="0.01593625498007968" count="4">math round</phrase>
+	<phrase weight="0.01593625498007968" count="4">total inferenc day</phrase>
+  </topic>
+  <topic id="94" alpha="0.0017555606539492224" totalTokens="4332" titles="tidx, weight, assn, constraint, expectation, instance, length, unroll, gradient, ">
+	<word weight="0.07040627885503231" count="305">tidx</word>
+	<word weight="0.05378578024007387" count="233">weight</word>
+	<word weight="0.04362880886426593" count="189">assn</word>
+	<word weight="0.04224376731301939" count="183">constraint</word>
+	<word weight="0.041089566020313946" count="178">expectation</word>
+	<word weight="0.03831948291782087" count="166">instance</word>
+	<word weight="0.03647276084949215" count="158">length</word>
+	<word weight="0.030470914127423823" count="132">unroll</word>
+	<word weight="0.027931671283471838" count="121">gradient</word>
+	<word weight="0.027700831024930747" count="120">idx</word>
+	<phrase weight="0.02576489533011272" count="16">wrong wrong</phrase>
+	<phrase weight="0.020933977455716585" count="13">length tidx</phrase>
+	<phrase weight="0.014492753623188406" count="9">logger info</phrase>
+	<phrase weight="0.011272141706924315" count="7">tidx tidx</phrase>
+	<phrase weight="0.011272141706924315" count="7">vector weight</phrase>
+	<phrase weight="0.008051529790660225" count="5">length tidx template</phrase>
+	<phrase weight="0.008051529790660225" count="5">assn idx</phrase>
+	<phrase weight="0.00644122383252818" count="4">variance log</phrase>
+	<phrase weight="0.00644122383252818" count="4">constraint expectation lazy</phrase>
+	<phrase weight="0.00644122383252818" count="4">template tidx sparse vector</phrase>
+  </topic>
+  <topic id="95" alpha="0.0062057880036568034" totalTokens="986" titles="prune, feature, alphabet, count, seq, counter, tokeniz, doc, vectors, loader">
+	<word weight="0.08924949290060852" count="88">prune</word>
+	<word weight="0.07505070993914807" count="74">feature</word>
+	<word weight="0.07099391480730223" count="70">alphabet</word>
+	<word weight="0.06389452332657201" count="63">count</word>
+	<word weight="0.055780933062880324" count="55">seq</word>
+	<word weight="0.0537525354969574" count="53">counter</word>
+	<word weight="0.04969574036511156" count="49">tokeniz</word>
+	<word weight="0.038539553752535496" count="38">doc</word>
+	<word weight="0.036511156186612576" count="36">vectors</word>
+	<word weight="0.035496957403651115" count="35">loader</word>
+	<phrase weight="0.08333333333333333" count="13">bulk loader</phrase>
+	<phrase weight="0.04487179487179487" count="7">cooccurrence counter</phrase>
+	<phrase weight="0.03205128205128205" count="5">alphabet alphabet</phrase>
+	<phrase weight="0.019230769230769232" count="3">feature count</phrase>
+	<phrase weight="0.019230769230769232" count="3">prune infogain</phrase>
+	<phrase weight="0.019230769230769232" count="3">prune count</phrase>
+	<phrase weight="0.019230769230769232" count="3">free garbage collector instances</phrase>
+	<phrase weight="0.019230769230769232" count="3">idf cutoff</phrase>
+	<phrase weight="0.01282051282051282" count="2">count aren interest</phrase>
+	<phrase weight="0.01282051282051282" count="2">doc freq</phrase>
+  </topic>
+  <topic id="96" alpha="0.00438119229747082" totalTokens="921" titles="option, owner, statement, parse, interpreter, insert, length, shortdoc, longdoc, parameter">
+	<word weight="0.05428881650380022" count="50">option</word>
+	<word weight="0.04777415852334419" count="44">owner</word>
+	<word weight="0.04777415852334419" count="44">statement</word>
+	<word weight="0.04668838219326819" count="43">parse</word>
+	<word weight="0.03908794788273615" count="36">interpreter</word>
+	<word weight="0.033659066232356136" count="31">insert</word>
+	<word weight="0.033659066232356136" count="31">length</word>
+	<word weight="0.031487513572204126" count="29">shortdoc</word>
+	<word weight="0.03040173724212812" count="28">longdoc</word>
+	<word weight="0.029315960912052116" count="27">parameter</word>
+	<phrase weight="0.02142857142857143" count="3">bsh interpreter</phrase>
+	<phrase weight="0.02142857142857143" count="3">opt opt full</phrase>
+	<phrase weight="0.02142857142857143" count="3">statement execute query</phrase>
+	<phrase weight="0.014285714285714285" count="2">opt opt</phrase>
+	<phrase weight="0.014285714285714285" count="2">result insert</phrase>
+	<phrase weight="0.014285714285714285" count="2">statement statement</phrase>
+	<phrase weight="0.014285714285714285" count="2">owner shortdoc longdoc owner shortdoc longdoc parse parse</phrase>
+	<phrase weight="0.014285714285714285" count="2">owner shortdoc longdoc owner shortdoc longdoc parse</phrase>
+	<phrase weight="0.014285714285714285" count="2">statement insert statement</phrase>
+	<phrase weight="0.014285714285714285" count="2">insert statement insert statement</phrase>
+  </topic>
+  <topic id="97" alpha="0.005333498373976946" totalTokens="1622" titles="acrf, eval, evaluator, extractor, num, inferenc, tok, template, generic, interpreter">
+	<word weight="0.1220715166461159" count="198">acrf</word>
+	<word weight="0.07151664611590629" count="116">eval</word>
+	<word weight="0.04932182490752158" count="80">evaluator</word>
+	<word weight="0.04870530209617756" count="79">extractor</word>
+	<word weight="0.04315659679408138" count="70">num</word>
+	<word weight="0.03884093711467324" count="63">inferenc</word>
+	<word weight="0.03514180024660912" count="57">tok</word>
+	<word weight="0.031442663378545004" count="51">template</word>
+	<word weight="0.027127003699136867" count="44">generic</word>
+	<word weight="0.02466091245376079" count="40">interpreter</word>
+	<phrase weight="0.03260869565217391" count="9">generic acrf data</phrase>
+	<phrase weight="0.028985507246376812" count="8">acrf extractor tui</phrase>
+	<phrase weight="0.028985507246376812" count="8">evaluator eval</phrase>
+	<phrase weight="0.021739130434782608" count="6">generic acrf tui</phrase>
+	<phrase weight="0.018115942028985508" count="5">num checkpoint</phrase>
+	<phrase weight="0.018115942028985508" count="5">result result</phrase>
+	<phrase weight="0.010869565217391304" count="3">acrf data</phrase>
+	<phrase weight="0.010869565217391304" count="3">interpreter eval</phrase>
+	<phrase weight="0.010869565217391304" count="3">evaluator acrf</phrase>
+	<phrase weight="0.010869565217391304" count="3">eval eval</phrase>
+  </topic>
+  <topic id="98" alpha="0.005594564264731432" totalTokens="958" titles="feature, vector, fvi, location, instance, winnow, classify, light, num, svm">
+	<word weight="0.08768267223382047" count="84">feature</word>
+	<word weight="0.081419624217119" count="78">vector</word>
+	<word weight="0.07411273486430063" count="71">fvi</word>
+	<word weight="0.05845511482254697" count="56">location</word>
+	<word weight="0.04697286012526096" count="45">instance</word>
+	<word weight="0.0407098121085595" count="39">winnow</word>
+	<word weight="0.037578288100208766" count="36">classify</word>
+	<word weight="0.030271398747390398" count="29">light</word>
+	<word weight="0.029227557411273485" count="28">num</word>
+	<word weight="0.024008350730688934" count="23">svm</word>
+	<phrase weight="0.04784688995215311" count="10">balance winnow</phrase>
+	<phrase weight="0.0430622009569378" count="9">location fvi</phrase>
+	<phrase weight="0.03827751196172249" count="8">location location</phrase>
+	<phrase weight="0.03349282296650718" count="7">feature vector</phrase>
+	<phrase weight="0.028708133971291867" count="6">feature selection</phrase>
+	<phrase weight="0.028708133971291867" count="6">fvi fvi fvisize fvi</phrase>
+	<phrase weight="0.023923444976076555" count="5">light vector</phrase>
+	<phrase weight="0.019138755980861243" count="4">feature feature</phrase>
+	<phrase weight="0.014354066985645933" count="3">feat epsilon</phrase>
+	<phrase weight="0.014354066985645933" count="3">gregory druck</phrase>
+  </topic>
+  <topic id="99" alpha="0.0049725896541171315" totalTokens="721" titles="gram, size, ngram, bigram, bitype, len, delta, border, doc, ">
+	<word weight="0.15672676837725383" count="113">gram</word>
+	<word weight="0.0651872399445215" count="47">size</word>
+	<word weight="0.0638002773925104" count="46">ngram</word>
+	<word weight="0.06102635228848821" count="44">bigram</word>
+	<word weight="0.05547850208044383" count="40">bitype</word>
+	<word weight="0.047156726768377254" count="34">len</word>
+	<word weight="0.044382801664355064" count="32">delta</word>
+	<word weight="0.04022191400832178" count="29">border</word>
+	<word weight="0.038834951456310676" count="28">type</word>
+	<word weight="0.036061026352288486" count="26">doc</word>
+	<phrase weight="0.055944055944055944" count="8">gram size</phrase>
+	<phrase weight="0.04195804195804196" count="6">distinguish border</phrase>
+	<phrase weight="0.03496503496503497" count="5">delta delta</phrase>
+	<phrase weight="0.027972027972027972" count="4">topical gram</phrase>
+	<phrase weight="0.02097902097902098" count="3">border border</phrase>
+	<phrase weight="0.02097902097902098" count="3">gram unitype</phrase>
+	<phrase weight="0.02097902097902098" count="3">gram prev</phrase>
+	<phrase weight="0.013986013986013986" count="2">type gram</phrase>
+	<phrase weight="0.013986013986013986" count="2">prev type prev</phrase>
+	<phrase weight="0.013986013986013986" count="2">bigram ilist</phrase>
+  </topic>
+  <topic id="100" alpha="0.012473233989396376" totalTokens="2119" titles="confidence, segment, correct, estimator, transducer, model, culotta, ilist, tag, link">
+	<word weight="0.24162340726757905" count="512">confidence</word>
+	<word weight="0.10004719207173195" count="212">segment</word>
+	<word weight="0.06795658329400661" count="144">correct</word>
+	<word weight="0.05427088249174139" count="115">estimator</word>
+	<word weight="0.0438886267107126" count="93">transducer</word>
+	<word weight="0.042000943841434636" count="89">model</word>
+	<word weight="0.04058518168947617" count="86">culotta</word>
+	<word weight="0.030202925908447382" count="64">ilist</word>
+	<word weight="0.02784332232184993" count="59">tag</word>
+	<word weight="0.02737140160453044" count="58">link</word>
+	<phrase weight="0.0488997555012225" count="20">culotta culotta culotta confidence</phrase>
+	<phrase weight="0.044009779951100246" count="18">confidence confidence</phrase>
+	<phrase weight="0.034229828850855744" count="14">confidence predict</phrase>
+	<phrase weight="0.034229828850855744" count="14">estimate confidence</phrase>
+	<phrase weight="0.02444987775061125" count="10">confidence confidence confidence</phrase>
+	<phrase weight="0.022004889975550123" count="9">confidence estimator</phrase>
+	<phrase weight="0.019559902200488997" count="8">confidence estimator transducer confidence estimator</phrase>
+	<phrase weight="0.014669926650366748" count="6">correct incorrect</phrase>
+	<phrase weight="0.014669926650366748" count="6">lattice model</phrase>
+	<phrase weight="0.012224938875305624" count="5">start tag tag</phrase>
+  </topic>
+  <topic id="101" alpha="0.016501807033126713" totalTokens="1606" titles="score score, length, matrix, classification, classifier, sum, ops, cache, classify, numerator">
+	<word weight="0.4265255292652553" count="685">score</word>
+	<word weight="0.07098381070983811" count="114">length</word>
+	<word weight="0.048567870485678705" count="78">matrix</word>
+	<word weight="0.040473225404732256" count="65">classification</word>
+	<word weight="0.03424657534246575" count="55">classifier</word>
+	<word weight="0.0323785803237858" count="52">sum</word>
+	<word weight="0.025529265255292654" count="41">ops</word>
+	<word weight="0.017434620174346202" count="28">cache</word>
+	<word weight="0.0161892901618929" count="26">classify</word>
+	<word weight="0.015566625155666251" count="25">numerator</word>
+	<phrase weight="0.09417040358744394" count="21">score score</phrase>
+	<phrase weight="0.08968609865470852" count="20">classification score</phrase>
+	<phrase weight="0.06726457399103139" count="15">matrix ops</phrase>
+	<phrase weight="0.04035874439461883" count="9">score sum</phrase>
+	<phrase weight="0.026905829596412557" count="6">length score</phrase>
+	<phrase weight="0.02242152466367713" count="5">score length</phrase>
+	<phrase weight="0.017937219730941704" count="4">numerator denominator</phrase>
+	<phrase weight="0.017937219730941704" count="4">high score</phrase>
+	<phrase weight="0.017937219730941704" count="4">sum score</phrase>
+	<phrase weight="0.017937219730941704" count="4">score cache</phrase>
+  </topic>
+  <topic id="102" alpha="0.010337938529047429" totalTokens="1242" titles="output, viterbi, lattice, cache, alignment, input, factory, max, transducer, pair">
+	<word weight="0.1473429951690821" count="183">output</word>
+	<word weight="0.11513687600644122" count="143">viterbi</word>
+	<word weight="0.10950080515297907" count="136">lattice</word>
+	<word weight="0.0821256038647343" count="102">cache</word>
+	<word weight="0.061996779388083734" count="77">alignment</word>
+	<word weight="0.05958132045088567" count="74">input</word>
+	<word weight="0.04830917874396135" count="60">factory</word>
+	<word weight="0.043478260869565216" count="54">max</word>
+	<word weight="0.03784219001610306" count="47">transducer</word>
+	<word weight="0.036231884057971016" count="45">pair</word>
+	<phrase weight="0.07177033492822966" count="15">lattice factory</phrase>
+	<phrase weight="0.028708133971291867" count="6">pair alignment</phrase>
+	<phrase weight="0.028708133971291867" count="6">lattice lattice</phrase>
+	<phrase weight="0.028708133971291867" count="6">alignment cache</phrase>
+	<phrase weight="0.028708133971291867" count="6">max lattice</phrase>
+	<phrase weight="0.019138755980861243" count="4">output alignment</phrase>
+	<phrase weight="0.019138755980861243" count="4">input output</phrase>
+	<phrase weight="0.019138755980861243" count="4">viterbi output</phrase>
+	<phrase weight="0.019138755980861243" count="4">viterbi path</phrase>
+	<phrase weight="0.019138755980861243" count="4">pair alignment viterbi</phrase>
+  </topic>
+  <topic id="103" alpha="0.005310758913219751" totalTokens="705" titles="priority, element, queue, size, elt, item, position, min, capacity, heap">
+	<word weight="0.1375886524822695" count="97">priority</word>
+	<word weight="0.13617021276595745" count="96">element</word>
+	<word weight="0.11347517730496454" count="80">queue</word>
+	<word weight="0.07943262411347518" count="56">size</word>
+	<word weight="0.07801418439716312" count="55">elt</word>
+	<word weight="0.06950354609929078" count="49">item</word>
+	<word weight="0.05815602836879433" count="41">position</word>
+	<word weight="0.05106382978723404" count="36">min</word>
+	<word weight="0.028368794326241134" count="20">capacity</word>
+	<word weight="0.02269503546099291" count="16">heap</word>
+	<phrase weight="0.0784313725490196" count="4">priority queue</phrase>
+	<phrase weight="0.058823529411764705" count="3">element element element</phrase>
+	<phrase weight="0.0392156862745098" count="2">priority queue element extract min min</phrase>
+	<phrase weight="0.0196078431372549" count="1">search create intelli user pereira jun queue element priority queue position lower priority element closer front queue queue position queue change queue queue element element priority priority priority priority element priority element priority priority priority queue position element element queue</phrase>
+	<phrase weight="0.0196078431372549" count="1">ascending priority queue min heap item item insert ascending size size size ascending extract queue element extract min ascending priority</phrase>
+	<phrase weight="0.0196078431372549" count="1">bound queue empty queue element min elt elt elt size elt position elt size</phrase>
+	<phrase weight="0.0196078431372549" count="1">element queue priority priority decrease key priority increase key priority increase key queue element priority priority priority heapify position decrease key queue element priority priority priority position elt priority elt priority queue element elt elt elt elt position elt position insert queue element size elt</phrase>
+	<phrase weight="0.0196078431372549" count="1">capacity capacity capacity</phrase>
+	<phrase weight="0.0196078431372549" count="1">regexp element</phrase>
+	<phrase weight="0.0196078431372549" count="1">elt element</phrase>
+  </topic>
+  <topic id="104" alpha="0.006474568204903358" totalTokens="1284" titles="estimator multinomial laplace estimator, size, length, probability, estimate, add, random, increment, ">
+	<word weight="0.22429906542056074" count="288">multinomial</word>
+	<word weight="0.1970404984423676" count="253">estimator</word>
+	<word weight="0.15965732087227413" count="205">size</word>
+	<word weight="0.05763239875389408" count="74">length</word>
+	<word weight="0.05218068535825545" count="67">probability</word>
+	<word weight="0.048286604361370715" count="62">estimate</word>
+	<word weight="0.040498442367601244" count="52">add</word>
+	<word weight="0.029595015576323987" count="38">laplace</word>
+	<word weight="0.02570093457943925" count="33">random</word>
+	<word weight="0.018691588785046728" count="24">increment</word>
+	<phrase weight="0.09210526315789473" count="21">estimator multinomial laplace estimator</phrase>
+	<phrase weight="0.07456140350877193" count="17">multinomial estimator</phrase>
+	<phrase weight="0.07017543859649122" count="16">estimator multinomial estimator</phrase>
+	<phrase weight="0.05263157894736842" count="12">multinomial multinomial</phrase>
+	<phrase weight="0.05263157894736842" count="12">size size</phrase>
+	<phrase weight="0.03070175438596491" count="7">multinomial estimator multinomial estimator</phrase>
+	<phrase weight="0.021929824561403508" count="5">innocuou making</phrase>
+	<phrase weight="0.021929824561403508" count="5">mechanism external</phrase>
+	<phrase weight="0.021929824561403508" count="5">estimator clone</phrase>
+	<phrase weight="0.021929824561403508" count="5">multinomial multinomial uniform</phrase>
+  </topic>
+  <topic id="105" alpha="0.08326101864702243" totalTokens="5033" titles="read input stream found read, write write, output, serializable, size, serialization, ">
+	<word weight="0.21597456785217564" count="1087">read</word>
+	<word weight="0.214583747268031" count="1080">write</word>
+	<word weight="0.13411484204251936" count="675">stream</word>
+	<word weight="0.07490562288893304" count="377">input</word>
+	<word weight="0.06636201072918736" count="334">output</word>
+	<word weight="0.05006954102920723" count="252">found</word>
+	<word weight="0.039936419630439104" count="201">serializable</word>
+	<word weight="0.038545599046294454" count="194">serial</word>
+	<word weight="0.037552155771905425" count="189">size</word>
+	<word weight="0.03735346711702762" count="188">serialization</word>
+	<phrase weight="0.058823529411764705" count="30">read input stream found read</phrase>
+	<phrase weight="0.045098039215686274" count="23">write write</phrase>
+	<phrase weight="0.0392156862745098" count="20">serial write output stream write write</phrase>
+	<phrase weight="0.0392156862745098" count="20">serialization serial write output stream write write</phrase>
+	<phrase weight="0.03529411764705882" count="18">input stream</phrase>
+	<phrase weight="0.027450980392156862" count="14">serialization serial</phrase>
+	<phrase weight="0.023529411764705882" count="12">serial write</phrase>
+	<phrase weight="0.021568627450980392" count="11">stream found</phrase>
+	<phrase weight="0.021568627450980392" count="11">read read</phrase>
+	<phrase weight="0.021568627450980392" count="11">input stream found read</phrase>
+  </topic>
+  <topic id="106" alpha="0.008815664242144033" totalTokens="1707" titles="simple tagger, test, model, input, target, stream, sentence, gaussian, variance, ">
+	<word weight="0.0773286467486819" count="132">test</word>
+	<word weight="0.06033977738722906" count="103">simple</word>
+	<word weight="0.05741066198008202" count="98">tagger</word>
+	<word weight="0.041007615700058585" count="70">model</word>
+	<word weight="0.0351493848857645" count="60">input</word>
+	<word weight="0.028119507908611598" count="48">target</word>
+	<word weight="0.023432923257176334" count="40">stream</word>
+	<word weight="0.022847100175746926" count="39">sentence</word>
+	<word weight="0.022261277094317515" count="38">gaussian</word>
+	<word weight="0.0210896309314587" count="36">variance</word>
+	<phrase weight="0.09734513274336283" count="33">simple tagger</phrase>
+	<phrase weight="0.02359882005899705" count="8">simple tagger sentence</phrase>
+	<phrase weight="0.017699115044247787" count="6">unsupport trick</phrase>
+	<phrase weight="0.017699115044247787" count="6">tagger sentence</phrase>
+	<phrase weight="0.014749262536873156" count="5">pattern compile</phrase>
+	<phrase weight="0.014749262536873156" count="5">pair length</phrase>
+	<phrase weight="0.014749262536873156" count="5">generic tagger</phrase>
+	<phrase weight="0.011799410029498525" count="4">rest args</phrase>
+	<phrase weight="0.011799410029498525" count="4">gaussian variance</phrase>
+	<phrase weight="0.011799410029498525" count="4">target processing</phrase>
+  </topic>
+  <topic id="107" alpha="0.014134085263538607" totalTokens="826" titles="val, matrix, sign, equal, ops, pair, dist, sigma, lda, majority">
+	<word weight="0.3801452784503632" count="314">val</word>
+	<word weight="0.07142857142857142" count="59">matrix</word>
+	<word weight="0.06900726392251816" count="57">sign</word>
+	<word weight="0.06537530266343826" count="54">equal</word>
+	<word weight="0.043583535108958835" count="36">ops</word>
+	<word weight="0.04116222760290557" count="34">pair</word>
+	<word weight="0.03631961259079903" count="30">dist</word>
+	<word weight="0.021791767554479417" count="18">sigma</word>
+	<word weight="0.020581113801452784" count="17">lda</word>
+	<word weight="0.01937046004842615" count="16">majority</word>
+	<phrase weight="0.17" count="17">matrix ops</phrase>
+	<phrase weight="0.1" count="10">val val</phrase>
+	<phrase weight="0.07" count="7">sign sign sign</phrase>
+	<phrase weight="0.04" count="4">val val val</phrase>
+	<phrase weight="0.03" count="3">val sign sign</phrase>
+	<phrase weight="0.03" count="3">matrix matrix</phrase>
+	<phrase weight="0.02" count="2">val equal</phrase>
+	<phrase weight="0.02" count="2">val alpha sign positive</phrase>
+	<phrase weight="0.02" count="2">val alpha negative</phrase>
+	<phrase weight="0.02" count="2">dist keyword</phrase>
+  </topic>
+  <topic id="108" alpha="0.011276972443398101" totalTokens="1197" titles="directory, iterator, filter, target, filename, prefix, path, instance, uri, label">
+	<word weight="0.1971595655806182" count="236">directory</word>
+	<word weight="0.13784461152882205" count="165">iterator</word>
+	<word weight="0.11695906432748537" count="140">filter</word>
+	<word weight="0.0960735171261487" count="115">target</word>
+	<word weight="0.06098579782790309" count="73">filename</word>
+	<word weight="0.045112781954887216" count="54">prefix</word>
+	<word weight="0.03007518796992481" count="36">path</word>
+	<word weight="0.029239766081871343" count="35">instance</word>
+	<word weight="0.023391812865497075" count="28">uri</word>
+	<word weight="0.01670843776106934" count="20">label</word>
+	<phrase weight="0.05263157894736842" count="11">absolute path</phrase>
+	<phrase weight="0.03827751196172249" count="8">iterator directory</phrase>
+	<phrase weight="0.03349282296650718" count="7">directory filename</phrase>
+	<phrase weight="0.028708133971291867" count="6">directory target</phrase>
+	<phrase weight="0.019138755980861243" count="4">iterator iterator</phrase>
+	<phrase weight="0.019138755980861243" count="4">filename filename</phrase>
+	<phrase weight="0.019138755980861243" count="4">directory filter target</phrase>
+	<phrase weight="0.019138755980861243" count="4">directory iterator</phrase>
+	<phrase weight="0.014354066985645933" count="3">directory directory</phrase>
+	<phrase weight="0.014354066985645933" count="3">filter filter</phrase>
+  </topic>
+  <topic id="109" alpha="0.002906136953673232" totalTokens="2141" titles="length, bin, observation, alpha, dirichlet, sum, histogram, partition, gamma, current">
+	<word weight="0.09901914992993928" count="212">length</word>
+	<word weight="0.07286314806165343" count="156">bin</word>
+	<word weight="0.06819243344231668" count="146">observation</word>
+	<word weight="0.05558150397010743" count="119">alpha</word>
+	<word weight="0.05184493227463802" count="111">dirichlet</word>
+	<word weight="0.045773003269500234" count="98">sum</word>
+	<word weight="0.04343764595983186" count="93">histogram</word>
+	<word weight="0.04110228865016347" count="88">partition</word>
+	<word weight="0.031760859411489956" count="68">gamma</word>
+	<word weight="0.031293787949556284" count="67">current</word>
+	<phrase weight="0.046875" count="15">gamma alpha</phrase>
+	<phrase weight="0.015625" count="5">dirichlet digamma</phrase>
+	<phrase weight="0.015625" count="5">gamma alpha sum total</phrase>
+	<phrase weight="0.0125" count="4">length key</phrase>
+	<phrase weight="0.0125" count="4">key key</phrase>
+	<phrase weight="0.009375" count="3">gamma alpha sum</phrase>
+	<phrase weight="0.009375" count="3">distinct key</phrase>
+	<phrase weight="0.009375" count="3">observation length histogram</phrase>
+	<phrase weight="0.009375" count="3">length observation length</phrase>
+	<phrase weight="0.009375" count="3">gamma magnitude total</phrase>
+  </topic>
+  <topic id="110" alpha="0.0023344229003794646" totalTokens="751" titles="lexicon, membership, trie, conlllexdir, ignore, googleset, induction, feature, ">
+	<word weight="0.21837549933422104" count="164">lexicon</word>
+	<word weight="0.1118508655126498" count="84">membership</word>
+	<word weight="0.08788282290279627" count="66">trie</word>
+	<word weight="0.07723035952063914" count="58">conlllexdir</word>
+	<word weight="0.05459387483355526" count="41">ignore</word>
+	<word weight="0.03994673768308921" count="30">googleset</word>
+	<word weight="0.03062583222370173" count="23">con</word>
+	<word weight="0.02529960053262317" count="19">induction</word>
+	<word weight="0.02529960053262317" count="19">conll</word>
+	<word weight="0.019973368841544607" count="15">feature</word>
+	<phrase weight="0.043478260869565216" count="4">conll lexicon</phrase>
+	<phrase weight="0.03260869565217391" count="3">trie lexicon membership conlllexdir</phrase>
+	<phrase weight="0.03260869565217391" count="3">con con</phrase>
+	<phrase weight="0.021739130434782608" count="2">trie lexicon</phrase>
+	<phrase weight="0.021739130434782608" count="2">con dealing con</phrase>
+	<phrase weight="0.021739130434782608" count="2">idf lexicon</phrase>
+	<phrase weight="0.021739130434782608" count="2">ignore lexicon</phrase>
+	<phrase weight="0.021739130434782608" count="2">ilist ilist</phrase>
+	<phrase weight="0.021739130434782608" count="2">spelling feature</phrase>
+	<phrase weight="0.021739130434782608" count="2">lexicon lexicon</phrase>
+  </topic>
+  <topic id="111" alpha="0.0047335265647712186" totalTokens="1362" titles="factor, variable, graph, grid, tbl, equal, reader, multiply, size, ">
+	<word weight="0.184287812041116" count="251">factor</word>
+	<word weight="0.1013215859030837" count="138">variable</word>
+	<word weight="0.08296622613803231" count="113">var</word>
+	<word weight="0.07782672540381791" count="106">graph</word>
+	<word weight="0.06461086637298091" count="88">grid</word>
+	<word weight="0.05286343612334802" count="72">tbl</word>
+	<word weight="0.039647577092511016" count="54">equal</word>
+	<word weight="0.0381791483113069" count="52">reader</word>
+	<word weight="0.03303964757709251" count="45">multiply</word>
+	<word weight="0.032305433186490456" count="44">size</word>
+	<phrase weight="0.028169014084507043" count="6">factor graph</phrase>
+	<phrase weight="0.023474178403755867" count="5">uniform factor</phrase>
+	<phrase weight="0.023474178403755867" count="5">factor tbl</phrase>
+	<phrase weight="0.023474178403755867" count="5">variable variable</phrase>
+	<phrase weight="0.018779342723004695" count="4">variable var</phrase>
+	<phrase weight="0.018779342723004695" count="4">rep rep rep factor graph</phrase>
+	<phrase weight="0.018779342723004695" count="4">factor factor</phrase>
+	<phrase weight="0.014084507042253521" count="3">model reader</phrase>
+	<phrase weight="0.014084507042253521" count="3">factor graph factor graph multiply tbl multiply tbl</phrase>
+	<phrase weight="0.014084507042253521" count="3">uniform chain</phrase>
+  </topic>
+  <topic id="112" alpha="0.05541498319651791" totalTokens="2721" titles="carrier carrier, pipe, instance, type, lex, achine, toolkit, languag, part, learning">
+	<word weight="0.16905549430356487" count="460">carrier</word>
+	<word weight="0.1583976479235575" count="431">pipe</word>
+	<word weight="0.10694597574421169" count="291">instance</word>
+	<word weight="0.0569643513414186" count="155">type</word>
+	<word weight="0.050716648291069456" count="138">lex</word>
+	<word weight="0.03197353914002205" count="87">achine</word>
+	<word weight="0.03123851525174568" count="85">toolkit</word>
+	<word weight="0.03013597941933113" count="82">languag</word>
+	<word weight="0.029768467475192944" count="81">part</word>
+	<word weight="0.02866593164277839" count="78">learning</word>
+	<phrase weight="0.05236907730673317" count="21">carrier carrier</phrase>
+	<phrase weight="0.04239401496259352" count="17">lex lex</phrase>
+	<phrase weight="0.04239401496259352" count="17">pipe instance carrier carrier</phrase>
+	<phrase weight="0.03740648379052369" count="15">instance pipe instance carrier carrier</phrase>
+	<phrase weight="0.034912718204488775" count="14">instance pipe instance carrier</phrase>
+	<phrase weight="0.02743142144638404" count="11">pipe type</phrase>
+	<phrase weight="0.02743142144638404" count="11">pipe instance carrier</phrase>
+	<phrase weight="0.02743142144638404" count="11">pipe serializable</phrase>
+	<phrase weight="0.022443890274314215" count="9">univ dept</phrase>
+	<phrase weight="0.022443890274314215" count="9">pipe pipe</phrase>
+  </topic>
+  <topic id="113" alpha="0.03427497728611166" totalTokens="2044" titles="unsupport operation, iterator, collection, buf, size, add, idx, append, hash, ">
+	<word weight="0.15900195694716243" count="325">iterator</word>
+	<word weight="0.07289628180039139" count="149">collection</word>
+	<word weight="0.06947162426614481" count="142">buf</word>
+	<word weight="0.06017612524461839" count="123">unsupport</word>
+	<word weight="0.059197651663405085" count="121">operation</word>
+	<word weight="0.05039138943248532" count="103">size</word>
+	<word weight="0.0410958904109589" count="84">add</word>
+	<word weight="0.03767123287671233" count="77">idx</word>
+	<word weight="0.03277886497064579" count="67">append</word>
+	<word weight="0.029354207436399216" count="60">hash</word>
+	<phrase weight="0.13793103448275862" count="36">unsupport operation</phrase>
+	<phrase weight="0.05363984674329502" count="14">iterator iterator</phrase>
+	<phrase weight="0.038314176245210725" count="10">charles sutton</phrase>
+	<phrase weight="0.034482758620689655" count="9">buf append</phrase>
+	<phrase weight="0.022988505747126436" count="6">gnu trove</phrase>
+	<phrase weight="0.01532567049808429" count="4">idx idx</phrase>
+	<phrase weight="0.011494252873563218" count="3">buf append buf append buf append</phrase>
+	<phrase weight="0.011494252873563218" count="3">buf append buf</phrase>
+	<phrase weight="0.011494252873563218" count="3">iterator dense</phrase>
+	<phrase weight="0.011494252873563218" count="3">append buf append</phrase>
+  </topic>
+  <topic id="114" alpha="0.01938408172635359" totalTokens="3171" titles="command process, input, output, instance, print, filename, vector, option, line, ">
+	<word weight="0.3923052664774519" count="1244">command</word>
+	<word weight="0.08010091453800063" count="254">input</word>
+	<word weight="0.07000946073793755" count="222">instance</word>
+	<word weight="0.07000946073793755" count="222">output</word>
+	<word weight="0.04099653106275623" count="130">print</word>
+	<word weight="0.023967202775149795" count="76">filename</word>
+	<word weight="0.023336486912645855" count="74">vector</word>
+	<word weight="0.02302112898139388" count="73">process</word>
+	<word weight="0.020813623462630087" count="66">option</word>
+	<word weight="0.015137180700094607" count="48">line</word>
+	<phrase weight="0.06756756756756757" count="25">command process</phrase>
+	<phrase weight="0.051351351351351354" count="19">command command</phrase>
+	<phrase weight="0.03783783783783784" count="14">command space</phrase>
+	<phrase weight="0.03513513513513514" count="13">command input command</phrase>
+	<phrase weight="0.02702702702702703" count="10">true false</phrase>
+	<phrase weight="0.02702702702702703" count="10">command summary</phrase>
+	<phrase weight="0.02702702702702703" count="10">option command summary</phrase>
+	<phrase weight="0.021621621621621623" count="8">command output command</phrase>
+	<phrase weight="0.01891891891891892" count="7">stdin instance</phrase>
+	<phrase weight="0.01891891891891892" count="7">stdout command</phrase>
+  </topic>
+  <topic id="115" alpha="0.002619179421971946" totalTokens="2497" titles="report, validation, trainer, test, ilist, accuracy, option, matrix, classifier, confusion">
+	<word weight="0.10812975570684821" count="270">report</word>
+	<word weight="0.06888265919102923" count="172">validation</word>
+	<word weight="0.05326391670004005" count="133">trainer</word>
+	<word weight="0.04965959150981177" count="124">test</word>
+	<word weight="0.040448538245895074" count="101">ilist</word>
+	<word weight="0.03764517420905086" count="94">accuracy</word>
+	<word weight="0.03724469363235883" count="93">option</word>
+	<word weight="0.032038446135362435" count="80">matrix</word>
+	<word weight="0.02803364036844213" count="70">classifier</word>
+	<word weight="0.02723267921505807" count="68">confusion</word>
+	<phrase weight="0.015909090909090907" count="7">confusion matrix</phrase>
+	<phrase weight="0.015909090909090907" count="7">vectors classify</phrase>
+	<phrase weight="0.015909090909090907" count="7">report option report</phrase>
+	<phrase weight="0.015909090909090907" count="7">report option</phrase>
+	<phrase weight="0.013636363636363636" count="6">trainer trainer</phrase>
+	<phrase weight="0.011363636363636364" count="5">num trial</phrase>
+	<phrase weight="0.011363636363636364" count="5">calo classify</phrase>
+	<phrase weight="0.00909090909090909" count="4">test confusion matrix</phrase>
+	<phrase weight="0.00909090909090909" count="4">handler handler</phrase>
+	<phrase weight="0.00909090909090909" count="4">validation confusion matrix</phrase>
+  </topic>
+  <topic id="116" alpha="0.033087314826342584" totalTokens="2949" titles="feature vector, augmentable feature vector, alphabet, size, binary, dict, type, afv, index, ">
+	<word weight="0.3350288233299423" count="988">feature</word>
+	<word weight="0.25805357748389285" count="761">vector</word>
+	<word weight="0.1102068497795863" count="325">alphabet</word>
+	<word weight="0.04815191590369617" count="142">size</word>
+	<word weight="0.04645642590708715" count="137">augmentable</word>
+	<word weight="0.03458799593082401" count="102">binary</word>
+	<word weight="0.028484231943031537" count="84">dict</word>
+	<word weight="0.028484231943031537" count="84">type</word>
+	<word weight="0.019667683960664633" count="58">afv</word>
+	<word weight="0.01797219396405561" count="53">index</word>
+	<phrase weight="0.31958762886597936" count="155">feature vector</phrase>
+	<phrase weight="0.049484536082474224" count="24">augmentable feature vector</phrase>
+	<phrase weight="0.0288659793814433" count="14">vector feature vector</phrase>
+	<phrase weight="0.026804123711340205" count="13">feature vector feature vector</phrase>
+	<phrase weight="0.026804123711340205" count="13">feature feature</phrase>
+	<phrase weight="0.02268041237113402" count="11">augmentable feature</phrase>
+	<phrase weight="0.018556701030927835" count="9">vector feature</phrase>
+	<phrase weight="0.016494845360824743" count="8">alphabet size</phrase>
+	<phrase weight="0.01443298969072165" count="7">feature vector alphabet</phrase>
+	<phrase weight="0.01443298969072165" count="7">alphabet dict</phrase>
+  </topic>
+  <topic id="117" alpha="0.0061567066362297005" totalTokens="764" titles="word, ending, length, match, header, tag, save, d\\d, phrase, sentence">
+	<word weight="0.16230366492146597" count="124">word</word>
+	<word weight="0.09947643979057591" count="76">ending</word>
+	<word weight="0.058900523560209424" count="45">length</word>
+	<word weight="0.04842931937172775" count="37">match</word>
+	<word weight="0.04842931937172775" count="37">header</word>
+	<word weight="0.03795811518324607" count="29">tag</word>
+	<word weight="0.03534031413612566" count="27">save</word>
+	<word weight="0.031413612565445025" count="24">d\\d</word>
+	<word weight="0.028795811518324606" count="22">phrase</word>
+	<word weight="0.024869109947643978" count="19">sentence</word>
+	<phrase weight="0.04040404040404041" count="4">tag phrase</phrase>
+	<phrase weight="0.030303030303030304" count="3">word match ending</phrase>
+	<phrase weight="0.020202020202020204" count="2">match prev</phrase>
+	<phrase weight="0.020202020202020204" count="2">line token</phrase>
+	<phrase weight="0.020202020202020204" count="2">ending ending save conjunction tag phrase spelling digit collapse downcas conll ner sentence</phrase>
+	<phrase weight="0.020202020202020204" count="2">ner sentence</phrase>
+	<phrase weight="0.020202020202020204" count="2">ending tag</phrase>
+	<phrase weight="0.020202020202020204" count="2">ending ending length ending length ending</phrase>
+	<phrase weight="0.020202020202020204" count="2">forward backward</phrase>
+	<phrase weight="0.020202020202020204" count="2">ending ogy ion tion ity</phrase>
+  </topic>
+  <topic id="118" alpha="0.0017450055984464105" totalTokens="596" titles="language language, model, interval, polylingual, sequence, max, training, total, iterator, vocabulary">
+	<word weight="0.3875838926174497" count="231">language</word>
+	<word weight="0.14597315436241612" count="87">model</word>
+	<word weight="0.087248322147651" count="52">interval</word>
+	<word weight="0.07214765100671142" count="43">polylingual</word>
+	<word weight="0.031879194630872486" count="19">sequence</word>
+	<word weight="0.030201342281879196" count="18">training</word>
+	<word weight="0.030201342281879196" count="18">max</word>
+	<word weight="0.028523489932885907" count="17">total</word>
+	<word weight="0.025167785234899327" count="15">iterator</word>
+	<word weight="0.02181208053691275" count="13">vocabulary</word>
+	<phrase weight="0.375" count="30">language language</phrase>
+	<phrase weight="0.0625" count="5">model polylingual</phrase>
+	<phrase weight="0.0625" count="5">model interval</phrase>
+	<phrase weight="0.0625" count="5">sequence language</phrase>
+	<phrase weight="0.0375" count="3">language max</phrase>
+	<phrase weight="0.0375" count="3">language language language</phrase>
+	<phrase weight="0.0375" count="3">language vocabulary</phrase>
+	<phrase weight="0.025" count="2">interval interval</phrase>
+	<phrase weight="0.025" count="2">language training language</phrase>
+	<phrase weight="0.0125" count="1">hour minute minute day hour hour</phrase>
+  </topic>
+  <topic id="119" alpha="0.014832574439504522" totalTokens="3384" titles="factor factor, factor var, variable, assignment, assn, marginalize, unsupport, operation, max, pot">
+	<word weight="0.26182033096926716" count="886">factor</word>
+	<word weight="0.17464539007092197" count="591">var</word>
+	<word weight="0.07653664302600473" count="259">variable</word>
+	<word weight="0.0425531914893617" count="144">assignment</word>
+	<word weight="0.03102836879432624" count="105">assn</word>
+	<word weight="0.02098108747044917" count="71">marginalize</word>
+	<word weight="0.0192080378250591" count="65">unsupport</word>
+	<word weight="0.018321513002364065" count="62">operation</word>
+	<word weight="0.017139479905437353" count="58">max</word>
+	<word weight="0.015070921985815602" count="51">pot</word>
+	<phrase weight="0.05319148936170213" count="25">factor factor</phrase>
+	<phrase weight="0.04893617021276596" count="23">factor var</phrase>
+	<phrase weight="0.0425531914893617" count="20">var var</phrase>
+	<phrase weight="0.02127659574468085" count="10">illegal argument</phrase>
+	<phrase weight="0.014893617021276596" count="7">variable var</phrase>
+	<phrase weight="0.014893617021276596" count="7">var factor</phrase>
+	<phrase weight="0.014893617021276596" count="7">assn assignment</phrase>
+	<phrase weight="0.01276595744680851" count="6">factor marginalize</phrase>
+	<phrase weight="0.010638297872340425" count="5">extract max</phrase>
+	<phrase weight="0.010638297872340425" count="5">factor normalize</phrase>
+  </topic>
+</topics>

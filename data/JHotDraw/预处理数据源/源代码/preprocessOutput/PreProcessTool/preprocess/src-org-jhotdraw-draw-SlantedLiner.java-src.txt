@@ -1,0 +1,1 @@
+org jhotdraw draw org jhotdraw xml dom input org jhotdraw xml dom output org jhotdraw xml dom storable java util java awt java awt geom org jhotdraw geom slant liner liner dom storable slant size slant liner 20 slant liner slant size slant size slant size collection handle create handle bezi path path null lineout connection figure figure 

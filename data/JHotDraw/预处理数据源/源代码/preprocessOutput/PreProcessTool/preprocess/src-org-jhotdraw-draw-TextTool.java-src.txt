@@ -1,0 +1,1 @@
+org jhotdraw draw java awt java awt event javax swing event java util text tool creation tool action listener floating text field text field text holder typing target text tool text holder prototype super prototype text tool figure prototype map attribute super prototype attribute deactivate drawing editor editor end edit super deactivate editor mouse press mouse event e 

@@ -1,0 +1,150 @@
+0	0.0032	presentation super composite significant notify graphical handler change verbose manager 
+1	0.00566	figure view drawing list link child sort composite ungroup override 
+2	0.00323	path radius decoration general fill solid stroke decorator tip angle 
+3	0.0072	roundrect math max clone archeight arcwidth min growth perpendicular fill 
+4	0.0032	cursor locator predefin box edge sse 
+5	0.0032	pane scroll parent border wrap viewport style time black 
+6	0.0032	decoration start graphics origin hint rendering theta length 
+7	0.01831	list link create collection util alignment container spindrift ocean teal 
+8	0.00319	transferable datatransf clipboard unsupport owner hash composite mime content array 
+9	0.00239	bound align rectangle iterator vertical horizontal fractional 
+10	0.0016	reader java file malform current std found input ida pushback 
+11	0.00481	menu action popup item set button vertical submenu delegation palette 
+12	0.00979	scale factor button set put zoom awt text 
+13	0.0008	resource action argument image stroke dir button configure integer mnem 
+14	0.00565	collection list sort array null index ignore front back size 
+15	0.02848	property listener change enable evt null update handler add state 
+16	0.01302	entry set map hash remove object clone pick size reorganize 
+17	0.01241	locator owner point figure locate dependent sin 
+18	0.00728	string list attribute node count exception index tag length input 
+19	0.01478	xml exception reader builder null java parse parser nanoxml net 
+20	0.00321	share project application creation model item title init export true 
+21	0.0081	constrain grid visible toggle pert align evt major 
+22	0.00895	storable dom geom xml liner slant clone eoutcode soutcode cloneable 
+23	0.01057	open project set showing multiple load unsav install client add 
+24	0.01321	mouse evt event tracker tool editor press key deactivate anchor 
+25	0.0024	move add north west east south rectangle override geometry insets 
+26	0.0008	handle math normalize resize relative step min kit fire constrain 
+27	0.00886	point constrain drag update translate source back target identity null 
+28	0.0008	string base bundle format rsrc miss java acc url tip 
+29	0.0032	extension string description file pathname title filter extlc lower length 
+30	0.01221	file recent clear model size remove init dispose put arg 
+31	0.00161	element error util unexpect delegate miss parent closing message substring 
+32	0.01323	focus owner component java editable text awt manager keyboard evt 
+33	0.00561	line orange 
+34	0.0008	mouse rectangle motion property fsl notify 
+35	0.00812	text holder origin layout editable anchor font ascent tab antialias 
+36	0.00485	owner connect change decorator visible exist ellipse depth interactive original 
+37	0.00901	layout child composite anchor insets lead layoutable calculate prefer vertical 
+38	0.00401	target dot delete caret mark label doc false remap document 
+39	0.01163	handle point track modifier anchor draw lead step cursor start 
+40	0.0065	view drawing set container find cursor editor focus add toggle 
+41	0.0032	quad tree root rectangle result find node collection iterator intersect 
+42	0.07574	jhotdraw org util sample draw set svg java figure net 
+43	0.02057	color fill black white shadow border total licorice cantaloupe silver 
+44	0.02209	edit undoable fire drawing composite happen undo lock erstellen figur 
+45	0.00239	handle key multicast master type release current 
+46	0.04974	view drawing jhotdraw org event edit super util java null 
+47	0.00971	put add set lavender mercury grape sea lime tangerine magnesium 
+48	0.00323	reader read buffer data end size length save offset finalize 
+49	0.00969	icon javax swing action component set paint graphic graphics quit 
+50	0.0008	curve max split tmp fit cubic alpha degree distance result 
+51	0.01398	point rectangle view owner location color handlesize bound basic drawing 
+52	0.01049	attribute key false font orientation placement underfill type decoration insets 
+53	0.00241	count unmodifiable enable fire document basic 
+54	0.02572	event listener invalidate remove area draw request change fire evt 
+55	0.01736	width height dimension size prefer set rows xebebeb minor omg 
+56	0.00805	init listener create gui reflect lang invisible placard align animate 
+57	0.00564	undo redo popup attribute duplicate back remove 
+58	0.03003	action jhotdraw org bundle label util resource app javax event 
+59	0.0032	figure back front move send bring util iterator select exception 
+60	0.00974	exception system string xml stack stream line net str param 
+61	0.00809	current xml element factory dom stack document stream output nano 
+62	0.01546	element object open text close tag equal decode index assignable 
+63	0.01416	edit undo redo undoable string exception true change false presentation 
+64	0.0081	property change listener support bean fire string clone select client 
+65	0.00243	palette window focus handler project remove listener timer java instance 
+66	0.00968	project application model string copyright version show launch hide start 
+67	0.04219	bound figure point rectangle draw graphics geom empty basic bounds 
+68	0.0073	pref preference layout init string change node user graphic javax 
+69	0.0016	node transformer child javax result document transform len buf item 
+70	0.00481	writer print xml write pretty prefix println indent encode stream 
+71	0.00649	resolv entity validator reader java parameter set util property hashtable 
+72	0.01066	prototype attribute create figure creation tool map editor null finish 
+73	0.00563	exception xml system line validation attribute expect append result literal 
+74	0.00807	area invalidate rectangle event source src object 
+75	0.00402	handler offset box layer comparator check rotation handlesize figure compare 
+76	0.02084	set false visible true add window listener show equal toggle 
+77	0.00406	string entity reader xml parse null str level external resolv 
+78	0.0016	flavor data transfer ownership presentable human support type equal lost 
+79	0.0008	bound screen pref window size evt rectangle prefer preference conf 
+80	0.01003	add item separator set move focusable component init select factory 
+81	0.0008	row nrow col ncol parent vgap hgap vertical ncomponent component 
+82	0.01838	org dom figure jhotdraw xml output input storable undo decorationimplement 
+83	0.00733	stroke width basic grow outline limit miter dash line shape 
+84	0.0537	attribute key object null forbid draw string change compatible number 
+85	0.0008	point bez error bezi center dist length tangent len dot 
+86	0.00721	tool listener active motion repaint datatransf 
+87	0.00489	action menu model put init frame feel apple redo system 
+88	0.05222	swing javax event basic list awt bean undo plaf dialog 
+89	0.01302	grow width height rectangle round arc rect bound total ellipse 
+90	0.00809	inset top left bottom insets bound visible palette orientation java 
+91	0.01495	editor action drawing draw select selection steel 
+92	0.00319	point angle position label math distance amount alpha sticky dir 
+93	0.00488	relative locator decorator quadratic side center 
+94	0.00567	button undo panel set property change border placard font put 
+95	0.01053	string applet swing javax event parameter net null panel init 
+96	0.01892	transform affine basic change super translate false java noninvertible trace 
+97	0.00562	xml namespace attr full attribute null enm index iterator equal 
+98	0.0008	item text transparent snow carnation sky honeydew aqua maroon moss 
+99	0.00241	panel border component executor system paint 
+100	0.00482	group ungroup composite prototype fire 
+101	0.03928	null set create add type true jhotdraw run integer 
+102	0.00481	obj sum string object val code hash equal false lang 
+103	0.00322	save focus owner evt enable null filter multi ancestor select 
+104	0.01145	figure add basic remove find rect drawingimplement 
+105	0.0016	group basic combine collection label figure 
+106	0.01406	string element attribute type add data finalize nanoxml net parse 
+107	0.00643	line null msg super encapsulate trace message report nest build 
+108	0.00482	editor action rbmi drawing button group menu radio zoom manager 
+109	0.00735	child array content list false size add remove iterate count 
+110	0.00722	application app main arg install randelshof uninstall 
+111	0.01291	owner figure super location geom range identity movement transformieren 
+112	0.0016	evt anchor origin select band rubber math drop min awt 
+113	0.0056	text edit widget area create overlay field floating holder request 
+114	0.0163	handle figure level detail secondary rotate compatible valid dirty 
+115	0.00159	entity ignore whitespace true leading skip hash map xml iterator 
+116	0.0016	action redo project real override uninstall install current put 
+117	0.01236	tool bar button label sharing scribble strawberry eggplant mocha bubblegum 
+118	0.00563	pert dependency task sample separator ceil dep attribute 
+119	0.00564	index coord control constrain count plf verschieben shape rule 
+120	0.02373	editor action label draw swing javax bundle resource configure org 
+121	0.01312	connector chop point target geom angle stroke owner box figure 
+122	0.00798	bean locale info simple panel 
+123	0.05428	action app org jhotdraw label util java project application event 
+124	0.34201	java org jhotdraw awt draw util geom super true connect 
+125	0.01658	attribute exception dom write add read output input override dimension 
+126	0.00484	bar property title current save paste copy window cut close 
+127	0.03109	figure pre courting 
+128	0.01471	listener remove add drawing list collection context render java clear 
+129	0.00731	key null exception util put length quot amp trim read 
+130	0.00978	path add bezi clone general array geom outermost directory invalidate 
+131	0.01233	error object string init internal method instance exception invoke unable 
+132	0.00318	clone image diamond fill stroke 
+133	0.0089	figure factory line add connection text array arrow tag bezi 
+134	0.02248	figure selection select change enable count collection iterator apply equal 
+135	0.00564	component put toolbar handler event listener add location graphic frame 
+136	0.0008	current point node mask general validate buf rectangle move prev 
+137	0.0073	font size count column entfernen tree 
+138	0.0065	file project chooser component export sheet filechoos worker execute construct 
+139	0.00485	bound north east west south rectangle add width height max 
+140	0.01985	string map hash exception factory illegal argument prototype doctype comment 
+141	0.01131	anchor lead set owner point bound super max math ndern 
+142	0.00644	frame arrangement arrangeable arrange manager desktop set idesktop state extend 
+143	0.0008	size previou coord append close iterator quad ctr flatness tolerance 
+144	0.00401	triangle prefix orientation constraint direction 
+145	0.02534	connection connector figure start end set target null point find 
+146	0.0008	hat prime scale compute det vtemp iteration end normalize numerator 
+147	0.0081	restore geometry data object change gett setter 
+148	0.00967	option pane sheet object gui component input source super jhotdraw 
+149	0.01062	bezi node path mask punkt super 

@@ -1,0 +1,1 @@
+org jhotdraw draw action java awt javax swing color icon javax swing icon color fill color color border color color icon color fill color fill color fill color border color fill color null ? color 0 0 0 38 color shadow fill color 38 get icon height 10 get icon width 14 paint icon component c graphic g x y 

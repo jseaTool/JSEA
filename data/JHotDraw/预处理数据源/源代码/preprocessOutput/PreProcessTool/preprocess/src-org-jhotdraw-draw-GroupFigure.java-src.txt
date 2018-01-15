@@ -1,0 +1,1 @@
+org jhotdraw draw java awt geom org jhotdraw geom group figure composite figure group figure can connect true point2 d chop point2 d from rectangle2 d r get bound geom angle to point r geom point to angle r from 

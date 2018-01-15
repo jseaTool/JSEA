@@ -1,0 +1,1 @@
+org jhotdraw sample svg org jhotdraw app main main string arg application app o s x application s v g application model model s v g application model model set name s v g draw model set version 0 1 model set copyright copyright 2006 c wern randelshof model set project name org jhotdraw sample svg s v g project app set model model app launch arg 

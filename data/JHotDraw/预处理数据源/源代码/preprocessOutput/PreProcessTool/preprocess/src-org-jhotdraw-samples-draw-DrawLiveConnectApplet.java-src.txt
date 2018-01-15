@@ -1,0 +1,1 @@
+org jhotdraw sample draw org jhotdraw draw drawing org jhotdraw draw text figure org jhotdraw draw action swing worker org jhotdraw util java awt java awt geom java awt event java io java net java util javax swing javax swing event netscape javascript org jhotdraw xml draw live connect applet j applet string v e r s i o n 0 44 string n a m e plasma draw init 

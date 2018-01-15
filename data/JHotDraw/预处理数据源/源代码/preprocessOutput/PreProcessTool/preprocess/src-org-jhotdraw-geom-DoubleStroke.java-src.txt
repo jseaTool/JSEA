@@ -1,0 +1,1 @@
+org jhotdraw geom java awt java awt geom java awt font stroke stroke basic stroke outline stroke inner width outline width miter limit dash dash phase stroke inner width outline width inner width outline width basic stroke c a p s q u a r e basic stroke j o i n b e v e l 10f null 0f stroke inner width outline width cap join miter limit dash dash phase 

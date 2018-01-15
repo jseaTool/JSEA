@@ -1,0 +1,1 @@
+org jhotdraw draw java awt java awt geom org jhotdraw draw attribute key font size locator locator font size locator point2 d locate figure owner point2 d p owner get start point p y+ f o n t s i z e get owner owner text holder p y+ text holder owner get inset top p point2 d locate figure owner figure dependent locate owner 

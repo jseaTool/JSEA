@@ -1,0 +1,1 @@
+2002 univ dept part m l l e t m achine learning languag e toolkit 1 0 information see ` l e n e mc callum test junit framework test test test name name test pl pl add 1 0 pl pl add two 2 0 pl pl add three 3 pl pl lookup 1 0 pl three pl pl lookup three 0 0 pl add color red pl pl lookup color equal red test suite test suite test up junit textui test runner run suite 

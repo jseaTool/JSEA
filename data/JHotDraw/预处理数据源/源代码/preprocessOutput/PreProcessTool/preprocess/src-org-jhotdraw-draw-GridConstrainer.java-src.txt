@@ -1,0 +1,1 @@
+org jhotdraw draw java awt java awt geom grid constrain constrain width height color minor color color 0xebebeb color major color color 0xcacaca grid constrain width height width 0 || height 0 illegal argument exception width or height is 0 width width height height get width width get height height point2 d constrain point point2 d p 
